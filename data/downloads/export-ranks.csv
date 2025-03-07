@@ -1,0 +1,253 @@
+ID,NAME,CADRE_ID
+1,"GL 3 - Assistant Braile Transcriber",14
+2,"GL 4 - Braile Transcriber II",14
+3,"GL 5 - Braile Transcriber I",14
+4,"GL 6 - Senior Braile Transcriber",14
+5,"GL 7 - Chief Braile Transcriber",14
+6,"GL 7 - Community Health Extension Worker",19
+7,"GL 8 - Higher Community Health Extension Worker",19
+8,"GL 9 - Senior Community Health Extension Worker",19
+9,"GL 10 - Principal Community Health Extension Worker II",19
+10,"GL 12 - Principal Community Health Extension Worker I",19
+11,"GL 13 - Assistant Chief Community Health Extension Worker",19
+12,"GL 14 - Chief Community Health Extension Worker",19
+13,"GL 8 - Community Health Officer II",20
+14,"GL 9 - Community Health Officer I",20
+15,"GL 10 - Senior Community Health Officer",20
+16,"GL 12 - Principal Community Health Officer",20
+17,"GL 13 - Assitant Community Health Officer",20
+18,"GL 14 - Chief Community Health Officer",20
+20,"GL 8 - Dental Technologist",28
+21,"GL 9 - Senior Dental Technologist",28
+22,"GL 10 - Principal Dental Technologist II",28
+23,"GL 12 - Principal Dental Technologist I",28
+24,"GL 13 - Assistant Chief Dental Technologist",28
+25,"GL 14 - Chief Dental Technologist",28
+26,"GL 7 - Dietician",7
+27,"GL 8 - Higher Dietician",7
+28,"GL 9 - Senior Dietician",7
+29,"GL 10 - Principal Dietician II",7
+30,"GL 12 - Principal Dietician I",7
+31,"GL 13 - Assistant Chief Dietician",7
+32,"GL 14 - Chief Dietician",7
+33,"GL 4 - Environmental Health Assistant",15
+34,"GL 5 - Higher Environmental Health Assistant",15
+35,"GL 6 - Senior Environmental Health Assistant",15
+36,"GL 7 - Principal Environmental Health Assistant",15
+37,"GL 8 - Chief Environmental Health Assistant",15
+38,"GL 8 - Environmental Health Officer",17
+39,"GL 9 - Higher Environmental Health Officer",17
+40,"GL 10 - Senior Environmental Health Officer",17
+41,"GL 12 - Principal Environmental Health Officer",17
+42,"GL 13 - Assistant Chief Environmental Health Officer",17
+43,"GL 14 - Chief Environmental Health Officer",17
+45,"GL 4 - Environmental Health Technician in Training",16
+46,"GL 7 - Environmental Health Technician",16
+47,"GL 8 - Higher Environmental Health Technician",16
+48,"GL 9 - Senior Environmental Health Technician",16
+49,"GL 10 - Principal Environmental Health Technician II",16
+50,"GL 12 - Principal Environmental Health Technician I",16
+51,"GL 13 - Assistant Chief Environmental Health Technician",16
+52,"GL 14 - Chief Environmental Health Technician",16
+53,"GL 4 - Health Assistant",30
+54,"GL 5 - Higher Health Assistant",30
+55,"GL 6 - Senior Health Assistant",30
+56,"GL 7 - Principal Health Assistant",30
+57,"GL 8 - Chief Health Assistant",30
+58,"GL 2 - Health Attendant",29
+59,"GL 3 - Senior Health Attendant",29
+60,"GL 4 - Head Health Attendant",29
+61,"GL 7 - Health Educator",22
+62,"GL 8 - Higher Health Educator",22
+63,"GL 9 - Senior Health Educator",22
+64,"GL 10 - Principal Health Educator II",22
+65,"GL 12 - Principal Health Educator I",22
+66,"GL 13 - Assistant Chief Principal Health Educator",22
+67,"GL 14 - Chief Health Educator",22
+68,"GL 4 - Junior Community Health Extension Worker V",18
+69,"GL 5 - Junior Community Health Extension Worker IV",18
+70,"GL 6 - Junior Community Health Extension Worker III",18
+71,"GL 7 - Junior Community Health Extension Worker II",18
+72,"GL 8 - Junior Community Health Extension Worker I",18
+73,"GL 7 - Medical Laboratory Technician",31
+74,"GL 8 - Higher Medical Laboratory Technician",31
+75,"GL 9 - Senior Medical Laboratory Technician",31
+76,"GL 10 - Principal Medical Laboratory Technician II",31
+77,"GL 12 - Principal Medical Laboratory Technician I",31
+78,"GL 13 - Assistant Chief Medical Laboratory Technic",31
+79,"GL 14 - Chief Medical Laboratory Technician",31
+80,"GL 8 - Medical Laboratory Technologist II",32
+81,"GL 9 - Medical Laboratory Technologist  I",32
+82,"GL 10 - Senior Medical Laboratory Technologist",32
+83,"GL 12 - Principal Medical Laboratory Technologist",32
+84,"GL 13 - Assistant Chief Medical Laboratory Technol",32
+85,"GL 14 - Chief Medical Laboratory Technologist",32
+86,"GL 9 - Medical Officer II",4
+87,"GL 10 - Medical Officer I",4
+88,"GL 12 - Senior Medical Officer II/ Senior Registrar II",4
+89,"GL 13 - Senior Medical Officer I/ Senior Registrar I",4
+90,"GL 14 - Princiapl Medical Officer II/ Consultant",4
+91,"GL 15 - Princiapl Medical Officer I/ Senior Consultant",4
+92,"GL 16 - Assistant Chief Medical Officer / Assistant Chief Consultant",4
+93,"GL 17 - Chief Medical Officer / Chief Consultant",4
+94,"GL 7 - Medical Records Technician",5
+95,"GL 8 - Higher Medical Records Technician",5
+96,"GL 9 - Senior Medical Records Technician",5
+97,"GL 10 - Principal Medical Records Technician II",5
+98,"GL 12 - Principal Medical Records Technician I",5
+99,"GL 13 - Assistant Chief Medical Records Technician",5
+100,"GL 14 - Chief Medical Records Technician",5
+101,"GL 4 - Student Midwife",23
+103,"GL 8 - Midwife II",23
+104,"GL 9 - Midwifery Officer",23
+105,"GL 10 - Senior Midwifery Officer",23
+106,"GL 12 - Principal Midwifery Officer",23
+107,"GL 13 - Assistant Chief Midwifery Officer",23
+108,"GL 14 - Chief Midwifery Officer",23
+109,"GL 8 - Nursing Officer II",26
+110,"GL 9 - Nursing Officer I",26
+111,"GL 10 - Senior Nursing Officer",26
+112,"GL 12 - Principal Nursing Officer",26
+113,"GL 13 - Assistant Chief Nursing Officer",26
+114,"GL 14 - Chief Nursing Officer",26
+116,"GL 7 - Nutrition Officer",6
+117,"GL 8 - Higher Nutrition Officer",6
+118,"GL 9 - Senior Nutrition Officer",6
+119,"GL 10 - Principal Nutrition Officer II",6
+120,"GL 12 - Principal Nutrition Officer I",6
+121,"GL 13 - Assistant Chief Nutrition Officer",6
+122,"GL 14 - Chief Nutrition Officer",6
+123,"GL 8 - Pharmacist II",10
+124,"GL 9 - Pharmacist I",10
+125,"GL 10 - Senior Pharmacist",10
+126,"GL 12 - Principal Pharmacist",10
+127,"GL 13 - Assistant Chief Pharmacist",10
+128,"GL 14 - Chief Pharmacist",10
+129,"GL 15 - Deputy Director",10
+130,"GL 4 - Pharmacy Technician-in-Training",9
+131,"GL 7 - Pharmacy Technician",9
+132,"GL 8 - Higher Pharmacy Technician",9
+133,"GL 9 - Senior Pharmacy Technician",9
+134,"GL 10 - Principal Pharmacy Technician II",9
+135,"GL 12 - Principal Pharmacy Technician I",9
+136,"GL 13 - Assistant Chief Pharmacy Technician",9
+137,"GL 14 - Chief Pharmacy Technician",9
+138,"GL 8 - Physiotherapist",11
+139,"GL 9 - Senior Physiotherapist",11
+140,"GL 10 - Principal Physiotherapist II",11
+141,"GL 12 - Principal Physiotherapist I",11
+142,"GL 13 - Asssitant Chief Physiotherapist",11
+143,"GL 14 - Chief Physiotherapist",11
+144,"GL 7 - Prosthetist",8
+145,"GL 8 - Higher Prosthetist",8
+146,"GL 9 - Senior Prosthetist",8
+147,"GL 10 - Principal Prosthetist II",8
+148,"GL 12 - Principal Prosthetist I",8
+149,"GL 13 - Assisatant Chief Prosthetist",8
+150,"GL 14 - Chief Prosthetist",8
+151,"GL 7 - Radiographer",27
+152,"GL 8 - Higher Radiographer",27
+153,"GL 9 - Senior Radiographer",27
+154,"GL 10 - Principal Radiographer II",27
+155,"GL 12 - Principal Radiographer I",27
+156,"GL 13 - Assistant Chief Radiographer",27
+157,"GL 14 - Chief Radiographer",27
+158,"GL 8 - Scientific Officer II",12
+159,"GL 9 - Scientific Officer I",12
+160,"GL 10 - Senior Scientific Officer",12
+161,"GL 12 - Principal Scientific Officer",12
+162,"GL 13 - Assistant Chief Scientific Officer",12
+163,"GL 14 - Chief Scientific Officer",12
+164,"GL 15 - Assistant Director",12
+165,"GL 16 - Deputy Director/ Director",12
+166,"GL 17 - Director",12
+167,"GL 7 - Staff Nurse (Health) II",24
+168,"GL 8 - Staff Nurse (Health) I",24
+169,"GL 9 - Health Sister",24
+170,"GL 10 - Senior Health Sister",24
+171,"GL 12 - Principal Health Sister",24
+172,"GL 13 - Assitant Chief Health Sister",24
+173,"GL 14 - Chief Health Sister",24
+176,"GL 8 - Student Nurse/ Midwife",25
+177,"GL 9 - Nursing/ Midwifery, Sister/ Senior Nursing Superintendent",25
+178,"GL 10 - Senior Nursing Sister/ Senior Nursing Superintendent",25
+179,"GL 12 - Matron/ Principal Nursing Superintendent",25
+180,"GL 13 - Senior Matron/ Assitant Chief Nursing Superintendent",25
+181,"GL 14 - Chief Matron/ Chief Nursing Superintendent",25
+182,aaaa,4
+183,"Health Information Management",35
+184,"GL-6 Medical Lab Assistance",37
+185,"Medical Laboratory Scientist",38
+186,"GL 04",39
+187,"GL 05",39
+188,"GL 06",39
+189,"GL 07",39
+190,"GL 08",39
+191,"GL 03",41
+192,GL04,41
+193,GL05,41
+194,GL06,19
+195,"GL 5",19
+196,GL-04,44
+197,GL-06,44
+198,GL-05,44
+199,04,45
+200,GL-07,44
+201,"GL 02",41
+202,GL7,48
+203,GL01,40
+204,GL02,40
+205,GL03,40
+206,"L 04",40
+207,GL9,48
+208,GL8,48
+209,GL-7,28
+210,GL-6,28
+211,GL-03,43
+212,L-04,43
+213,L-05,43
+214,"GL - 04",42
+215,L03,18
+216,"GL02 Social Walfare",53
+217,GL-02,39
+218,GL_03,39
+219,L-03,15
+220,"GL03 Telephone Operator",54
+221,"GL04 Telephone Operator",54
+222,"GL05 Telephone Operator",54
+223,"GL02 Senior Stepward",57
+224,GL-5,48
+225,GL6,48
+226,GL-3,44
+227,GL-08,44
+228,"GL 2 - Junior Community Extension Worker",18
+229,"GL  2 - Cleaner",55
+230,"GL 3 - Cleaner",55
+231,"GL 4 - Cleaner",55
+232,"GL 5 - Cleaner",55
+233,"GL 2 - Driver",58
+234,"GL  3 - Driver",58
+235,"GL 4 - Driver",58
+236,"GL 5 - Driver",58
+237,"GL  1 - Cleaner",55
+238,"GL  2 - S L T",51
+239,"GL  3 - S L T",51
+240,"GL  4 - S L T",51
+241,"GL  5 - S L T",51
+242,"GL  6 - S L T",51
+243,"GL  7 - S L T",51
+244,"GL  8 - S L T",51
+245,"GL  9 - S L T",51
+246,"GL  10 - S L T",51
+247,"GL  11 - S L T",51
+248,"GL  12 - S L T",51
+249,"GL  13 - S L T",51
+250,"GL  1 - Driver",58
+251,GL-01,3
+252,GL-09,3
+253,GL-10,3
+254,"GL  6 - Executive  Officer Account",61
+255,"GL  7 - Executive  Officer Account",61
+256,"GL-06 Nutrition Officer",6
+257,"GL-15 Health Educator",22
+258,"GL-01 Health Attendant",29

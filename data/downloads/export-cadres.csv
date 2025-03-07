@@ -1,0 +1,53 @@
+ID,NAME,SHORT_NAME
+3,Gardner,Gardner
+4,"Medical Officer",MO
+5,"Medical Records Technician",MRT
+6,"Nutrition Officer","Ntri. Off."
+7,Dietician,RD
+8,Prosthetist,CP
+9,"Pharmacy Technician","Pharm. Tech."
+10,Pharmacist,Pharm.
+11,Physiotherapist,PTs.
+12,"Scientific Officer","Sc. Off."
+14,"Braile Transcriber",BT
+15,"Environmental Health Assistant",EHA
+16,"Environmental Health Technician",EHT
+17,"Environmental Health Officer",EHO
+18,"Junior Community Health Extension Workers",JCHEW
+19,"Community Health Extension Worker",CHEW
+20,"Community Health Officer",CHO
+22,"Health Educator",HE
+23,Midwife,MW
+24,"Staff Nurse",SN
+25,"Staff Nurse/ Midwife",SMN/SMW
+26,"Nursing Officer",NO
+27,Radiographer,Radiogr.
+28,"Dental Technologist",DT
+29,"Health Attendant",HA
+30,"Health Assistant","H Ass"
+31,"Medical Laboratory Technician",
+32,"Medical Laboratory Technologist",MLT
+37,"Medical Lab Assistance",MLA
+38,"Medical Laboratory Scientist",MLS
+39,"Medical Record Assistant",MRA
+40,Security,Security
+41,"Agric Extension Worker","Agri. EXW"
+42,Teacher,Teacher
+43,Others,Others
+44,"Staff Midwife",SMW
+45,"Student Midwife","St. MW"
+46,"Student Nurse",St.Nr
+48,"Public Health",PH
+49,"Assistant Dental Technologist",ADT
+50,Craftman,Craftman
+51,"Science Laboratory Technology",SLT
+52,Accountant,ACCT
+53,"Social Walfare",SW
+54,"Telephone Operator","Tel. Op."
+55,Cleaner,Cleaner
+56,"Reproductive Health","Repro. H"
+57,"Personnel Management","Pers. Mang."
+58,Driver,Driver
+59,Teaching,TE
+60,"Epidemiology and Disease Control",EDC
+61,"Executive Officer Account",

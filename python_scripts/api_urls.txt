@@ -1,0 +1,16 @@
+https://api.curerite.ng/export-hrh-personal-data
+https://api.curerite.ng/export-hrh-employment-data
+https://api.curerite.ng/export-hrh-license-data
+https://api.curerite.ng/export-hrh-promotion-data
+https://api.curerite.ng/export-hrh-training-data
+https://api.curerite.ng/export-patients
+https://api.curerite.ng/export-visitations
+https://api.curerite.ng/export-visitation-services
+https://api.curerite.ng/export-visitation-service-details
+https://api.curerite.ng/export-cadres
+https://api.curerite.ng/export-higher-qualifications
+https://api.curerite.ng/export-ranks
+https://api.curerite.ng/export-facilities
+https://api.curerite.ng/export-lgas
+https://api.curerite.ng/export-states
+https://api.curerite.ng/export-wards

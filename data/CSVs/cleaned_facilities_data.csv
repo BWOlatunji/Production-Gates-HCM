@@ -1,0 +1,161 @@
+facility_id,facility_name,facility_short_name,address,ward_id,town_id
+1,BOLARI PHC,GM01,GM01,3251,103
+2,DOMA PHC,GM02,GM02,3254,3
+3,FAMILY SUPPORT PHC,GM03,GM03,3251,61
+4,GABUKKA PHC,GM04,GM04,3257,10
+5,HAYIN DOGO/SABON GARI HP,GM05,GM05,3256,420
+6,HERWAGANA PHCC,GM06,GM06,3253,4
+7,IDI HP,GM07,GM07,3250,126
+8,JAURO ABARE PHC,GM08,GM08,3258,98
+9,JEKADAFARI PHCC,GM09,GM09,3254,3
+10,KAGARAWAL PHC,GM10,GM10,3258,23
+11,KASUWAR MATA PHC,GM11,GM11,3258,98
+12,KUMBIA KUMBIYA PHCC,GM12,GM12,3255,59
+13,LONDON MAIDOROWA PHC,GM13,GM13,3258,6
+14,MADAKI PHCC,GM14,GM14,3251,103
+15,MALAM INNA PHC,GM15,GM15,3258,71
+16,MANAWASHI PHC,GM16,GM16,3257,10
+17,NASSARAWO PHCC,GM17,GM17,3256,48
+18,PANTAMI PHCC,GM18,GM18,3257,10
+19,PANTAMI NEW PHC,GM19,GM19,3257,10
+20,TBL HP,GM20,GM20,1079,161
+21,TOWN PHCC,GM21,GM21,1079,161
+22,TUDUNWADA PHCC,GM22,GM22,3258,49
+23,YELENGURUZA HP,GM23,GM23,3256,48
+27,KORAN ZAKI PHC,GM24,JAURO ABARE PHC,3258,91
+28,Nil,,Nil Address,3251,455
+35,Akko PHCC,AK01,Akko,3201,1
+36,Arawa PHC,AK02,Arawa Unguwan Waziri,3202,66
+37,Badara PHC,AK03,Badara,3204,1
+38,Bappah Ibrahima PHC,AK04,Bappah Ibrahima,3206,1
+39,Barambu PHCC,AK05,Barambu,3207,1
+40,Barunde PHC,AK06,Barunde Area 2,3202,22
+41,Bogo Model PHCC,AK07,Bogo Bcj,3202,306
+42,Bogo PHC,AK08,Hayin Kwarin Misau,3202,198
+43,Bogo Waziri PHC,AK09,Bogo Waziri,3202,1
+44,Bomala PHC,AK10,Bomala,3202,180
+45,Bula PHC,AK11,Bula,3201,561
+46,Chilo PHC,AK12,Chilo,3203,1
+47,Dagarawo PHC,AK13,Dagarawo,3201,1
+48,Dolli HP,AK14,Dolli,3201,613
+49,Dongol PHC,AK15,Dongol Jauro Bello,3204,1
+50,Gaɗawo PHCC,AK16,Gaɗawo,3207,1
+51,Gamawa PHC,AK17,Gamawa,3207,1
+52,Garin Bakari PHC,AK18,Garin Bakari,3206,1
+53,Garin Baraya HP,AK19,Garin Baraya,3208,1
+54,Garin Galadima PHC,AK20,Garin Galadima,3211,1
+55,Garin Rijiya HP,AK21,Garin Rijiya,3209,1
+56,Garko PHC,AK22,Garko,3202,11
+57,Garwa HP,AK23,Garwa,3204,1
+58,Gidim HP,AK24,Nasarawo Gidim,3202,1
+59,Gokaru HP,AK25,Gokaru,3211,1
+60,Gona PHC,AK26,Gona,3202,642
+61,Gujuba PHC,AK27,Gujuba,3203,1
+62,Gwaram PHC,AK28,Gwaram,3203,1
+63,Hammadu Kafi PHC,AK29,Hammadu Kafi,3202,1
+64,Jabba PHC,AK30,Jabba,3210,1
+65,Jungudo Dega PHC,AK31,Jungudo Dega,3202,1
+66,Jurara HP,AK32,Garin Modibbo,3211,1
+67,Kalshingi PHCC,AK33,Kalshingi,3203,422
+68,Kaltanga HP,AK34,Kaltanga Jukun,3204,1
+69,Kargo PHC,AK35,Kargo,3210,1
+70,Kashere Model PHCC,AK36,Kashere Anguwan Tafida B,3204,1
+71,Kayel Baga HP,AK37,Kayel Baga,3208,1
+72,Kembu PHC,AK38,Kembu,3206,1
+73,Kidda PHC,AK39,Kidda,3206,1
+74,Kobuwa PHC,AK40,Kobuwa,3208,1
+75,Kombani Isa HP,AK41,Kombani Isa,3209,1
+76,Kombani Maikasuwa HP,AK42,Kombani,3210,1
+77,Koroti HP,AK43,Koroti,3207,1
+78,Kumo PHCC,AK44,Kumo,3205,1
+79,Kundulum PHC,AK45,Kundulum,3202,50
+80,Kunji PHC,AK46,Kunji,3206,1
+81,Lawanti PHC,AK47,Lawanti,3201,1
+82,Leden PHC,AK48,Leden,3210,1
+83,Lembi PHC,AK49,Lembi,3207,1
+84,Luggerewo PHC,AK50,Luggerewo,3208,1
+85,Mai Ganga PHC,AK51,Mai Ganga,3210,1
+86,Maidugu HP,AK52,Maidugu,3207,1
+87,New Mai Ganga HP,AK53,Kalkulum,3208,1
+88,Panda PHCC,AK54,Panda,3206,1
+89,Pandaya PHC,AK55,Pandaya,3203,1
+90,Pindiga PHCC,AK56,Pindiga,3209,1
+91,Piyau PHC,AK57,Piyau,3210,1
+92,Sabongarin Tijjani HP,AK58,Sabongarin Tijjani,3210,1
+93,Sambo Daji PHC,AK59,Sambo Daji,3210,1
+94,Shabbal HP,AK60,Shabbal,3205,1
+95,Shongo Hamma HP,AK61,Shango Hamma,3202,1
+96,Shongo PHC,AK62,Lafiyan Mango,3202,1
+97,Tabra PHC,AK63,Tabra,3202,1
+98,Taliyawa PHC,AK64,Taliyawa,3211,1
+99,Tambelo PHC,AK65,Tambelo,3208,1
+100,Tukulma PHCC,AK66,Tukulma Magaji,3211,1
+101,Tulmi HP,AK67,Tulmi Anguwan Jauro Idi,3210,1
+102,Tumu PHCC,AK68,Tumu,3210,1
+103,Tunfure PHC,AK69,Tunfure,3202,38
+104,Warra HP,AK70,Warra,3210,1
+105,Wuro Dole HP,AK71,Wuro Dole,3201,1
+106,Yalwa HP,AK72,Yalwa,3204,1
+107,Yankari HP,AK73,Yankari,3202,1
+108,Yarima Shehu PHC,AK74,Yarima Shehu,3206,1
+109,Yelwan Bogo PHC,AK75,Yelwan Bogo,3202,1
+110,Zabin Kani PHC,AK76,Zabin Kani,3210,1
+111,Zongomari PHC,AK77,Zongomari,3201,1
+112,Lambo Daji HP,AK78,Lambo Daji HP,3209,1
+113,Deba PHCC,YD06,Deba,3297,14
+114,Saruje HP,YD48,Saruje,3297,14
+115,Jannawo HP,YD20,Jannawo,3303,1
+116,Kachallari PHC,YD26,Kachallari,3303,595
+117,Kanawa HP,YD28,Kanawa,3303,1
+118,Wajari HP,YD55,Wajari,3303,1
+119,Zanfarawa HP,YD58,Zanfarawa,3303,1
+120,Dasa PHC,YD05,Anguwan Abuja,3301,1
+121,Jagali PHC,YD18,Jagali,3301,1
+122,Jauro Gotel PHC,YD21,Jauro Gotel,3301,1
+123,Jauro Musa Kadi HP,YD22,Kadi Garin Nabawa,3301,1
+124,Jigawan Iro HP,YD24,Jigawan Iro,3302,1
+125,Kurjale PHCC,YD34,Kurjale,3302,1
+126,Pata PHC,YD46,Pata,3302,1
+127,Dumbu HP,YD08,Dumbu,3304,1
+128,Jigawan Magaji HP,YD25,Jigawan Magaji,3304,1
+129,Kuri PHC,YD33,Kuri,3304,618
+130,Lambam PHC,YD37,Lambam,3304,1
+131,Lano PHCC,YD38,Lano,3304,734
+132,Nasarawa Dankude PHC,YD42,Nasarawa Dankude,3304,1
+133,Nasarwa HP,YD43,Nasarawa,3304,1
+134,Shimel Daura HP,YD49,Shimel Daura,3304,1
+135,Yalwan Kuri HP,YD56,Lano/Kuri/Lambam,3304,1
+136,Kwali PHC,YD36,Kwali,3307,1
+137,Sabongari HP,YD47,Sabongari,3307,1
+138,Zambuk PHCC,YD57,Zambuk,3307,1
+139,Hammatatu HP,YD16,Hammatatu Gawari,3305,702
+140,Jauro Sambo HP,YD23,Jauro Sambo,3305,1
+141,Kurba PHC,YD32,Kurba,3305,252
+142,Kwadon PHCC,YD35,Kwadon,3305,192
+143,Liji PHC,YD39,Liji,3305,88
+144,Boltongo HP,YD01,Boltongo,3306,364
+145,Garin Baraya PHC,YD10,Garin Baraya,3306,722
+146,Kunnuwal PHC,YD31,Kunnuwal,3306,1
+147,Nono Mallam Isa HP,YD44,Nono Mallam Isa,3306,1
+148,Nono Sarkin Kudu PHCC,YD45,Nono Sarkin Kudu,3306,1
+149,Garin Koshi PHC,YD12,Gwani/Shinga/Wade,3299,1
+150,Gwani East HP,YD14,Gwani Gabar,3299,495
+151,Gwani West PHC,YD15,Gwani West,3299,495
+152,Kalo HP,YD27,Kalo,3299,1
+153,Kubu Gasi HP,YD30,Kubu Gasi,3299,1
+154,Shinga PHCC,YD50,Shinga,3299,1
+155,Wade HP,YD53,Wade,3299,1
+156,Wade PHC,YD54,Wade,3299,1
+157,Dadinkowa Model PHCC,YD02,Dadinkowa,3300,207
+158,Dadinkowa PHC,YD03,Dadinkowa,3300,207
+159,Garin Abdullahi HP,YD09,Garin Abdullahi,3300,1
+160,Garin Bukar PHC,YD11,Garin Bukar,3300,1
+161,Hinna PHC,YD17,Hinna,3300,1
+162,Jangargari HP,YD19,Jangargari,3300,1
+163,Maikaho Phcc,YD59,MAIKAHO,3301,1
+164,Tsandon HP,YD52,Tsando,3300,1
+165,Difa PHC,YD07,Difa,3298,468
+166,Garin Malam Baba HP,YD13,Garin Malam Baba,3298,1
+167,Kinafa PHC,YD29,Kinafa,3298,1
+168,Lubo PHCC,YD40,Lubo,3298,1
+169,Dangar PHCC,YD04,Dangar,3303,1

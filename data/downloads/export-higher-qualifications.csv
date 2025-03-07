@@ -1,0 +1,20 @@
+ID,NAME,SHORT_NAME
+3,"Bachelor of Medicine and Bachelor of Surgery (MBBS)",MBBS
+4,Certificate,Cert
+5,"Doctorate (Ph.D., Pharm.D., Dds., Dr. PH etc)","Phd., Pharm. Dr. PH"
+6,Fellowship,Fellow
+7,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Degree
+8,"Higher National Diploma (HND)",HND
+9,"Junior Secondary Certificate Examination (JSCE)",JSCE
+10,"Masters (MSc., MBA, MPH, M. Tech, M. Ed etc)",Masters
+11,"National Certificate In Education (NCE)",NCE
+12,"National Diploma",ND.
+13,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",GSCE
+14,"Post Graduate Diploma (PGD)",PGD
+15,"Primary School Certificate","Pr. Cert."
+16,"Professional Diploma",ND
+17,"Trade Test",TT
+18,Nill,
+19,DSDD,
+20,JIIQAAA,
+21,"Enviromental Health Science",EHS

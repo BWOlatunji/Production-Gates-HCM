@@ -1,0 +1,996 @@
+gender,birth_date,email,qualification,specialization,disability_status,year_attended,state_name,lga_name,ward_name,state_of_origin_name,lga_of_origin_name,age,age_group,qualification_short_name
+Male,1983-02-04,kabiruhassan005@gmail.com,National Diploma,Community Health,2.0,2023-11,GOMBE,GOMBE,JEKA DAFARI,GOMBE,FUNAKAYE,42,40-49,ND.
+Female,1983-01-01,adamaadamu1780@gmail.com,Certificate,Community Health,2.0,2007-01,GOMBE,GOMBE,,GOMBE,GOMBE,42,40-49,Cert
+Male,1976-05-06,aliabdullahi186@gmail.com,Higher National Diploma (HND),Community Health,2.0,2022-03,GOMBE,GOMBE,,GOMBE,GOMBE,48,40-49,HND
+Male,1988-01-01,ahmadseyoji9@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Community Health,2.0,2013-10,GOMBE,GOMBE,NASARAWA,GOMBE,GOMBE,37,30-39,Degree
+Female,1982-01-10,UMMUHSALMAH2@GMAIL.COM,Certificate,Community Health,2.0,2003-08,GOMBE,GOMBE,,GOMBE,GOMBE,43,40-49,Cert
+Female,1968-11-11,comfortamos5911@gmail.com,Certificate,Community Health,2.0,1999-12,GOMBE,AKKO,,GOMBE,BILLIRI,56,50-59,Cert
+Female,1976-12-29,jummailamido76@gmail.com,National Diploma,Environmental Health Technology,2.0,1999-12,GOMBE,GOMBE,,GOMBE,GOMBE,48,40-49,ND.
+Female,1982-05-05,sadiyadanfiri@gmail.com,National Diploma,Environmental Health,2.0,2021-08,GOMBE,GOMBE,,GOMBE,GOMBE,42,40-49,ND.
+Female,1986-10-27,fatsumaahmed1986@gmail.com,National Diploma,Health Information Management,2.0,2018-08,GOMBE,GOMBE,JEKA DAFARI,GOMBE,GOMBE,38,30-39,ND.
+Female,1991-09-23,hauwajibrin91@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Health Education And Promotion,2.0,2023-08,GOMBE,GOMBE,,GOMBE,,33,30-39,Degree
+Female,1976-11-25,yugudaumarhajara@gmail.com,National Diploma,Community Health,2.0,2023-11,GOMBE,GOMBE,,GOMBE,GOMBE,48,40-49,ND.
+Female,1969-05-14,asabemohdaliyu@gmail.com,National Diploma,Community Health,2.0,2008-03,GOMBE,GOMBE,,GOMBE,GOMBE,55,50-59,ND.
+Female,1992-05-26,Umarfatsumaadamu@gmail.com,National Diploma,Community Health,2.0,2023-09,GOMBE,GOMBE,DAWAKI,GOMBE,,32,30-39,ND.
+Female,1977-08-01,zuwairaabubakar@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",,2.0,1996-07,GOMBE,GOMBE,,GOMBE,GOMBE,47,40-49,GSCE
+Male,1993-01-01,merhmood75@gmail.com,National Diploma,Community Health,2.0,2022-09,GOMBE,GOMBE,,GOMBE,GOMBE,32,30-39,ND.
+Female,1989-02-03,aminasaidu575@gmail.com,National Diploma,Nursing,1.0,2020-09,GOMBE,AKKO,GARKO,GOMBE,KWAMI,36,30-39,ND.
+Female,1981-05-12,rabiabubakar2938@gmail.com,Certificate,Community Health,2.0,2021-11,GOMBE,GOMBE,JEKA DAFARI,GOMBE,GOMBE,43,40-49,Cert
+Female,1969-10-08,fatsumahussaini3@gmail.com,Primary School Certificate,,2.0,1984-11,GOMBE,GOMBE,,GOMBE,,55,50-59,Pr. Cert.
+Female,1979-03-20,adamamuhd422@gmail.com,National Diploma,Community Health,2.0,2008-12,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,45,40-49,ND.
+Female,1977-11-07,MARYAMBABASALEH697@GMAIL.COM,National Diploma,Health Education And Promotion,2.0,2023-08,GOMBE,GOMBE,,GOMBE,GOMBE,47,40-49,ND.
+Female,1999-03-31,zainabkhuzaifamuhammad4546@gmail.com,Certificate,Community Health,2.0,2018-11,GOMBE,GOMBE,JEKA DAFARI,GOMBE,GOMBE,25,20-29,Cert
+Female,1988-05-05,umarhafsat57@gmail.com,National Diploma,Community Health,2.0,2023-10,GOMBE,GOMBE,BOLARI WEST,GOMBE,GOMBE,36,30-39,ND.
+Female,1996-10-19,khadijaabubakar0007@gmail.com,National Diploma,Health Information Management,2.0,2019-01,GOMBE,GOMBE,JEKA DAFARI,GOMBE,GOMBE,28,20-29,ND.
+Female,1987-01-01,maryamisah416@gmail.com,National Diploma,Community Health,2.0,2020-11,GOMBE,GOMBE,JEKA DAFARI,GOMBE,GOMBE,38,30-39,ND.
+Female,1992-07-15,khadijaajiyaalhassan@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",,2.0,0017-02,GOMBE,GOMBE,JEKA DAFARI,GOMBE,GOMBE,32,30-39,GSCE
+Female,1998-04-14,fatimamuhammadabubakar1998@gmail.com,National Diploma,Health Education And Promotion,2.0,2020-10,GOMBE,FUNAKAYE,BODOR / TILDE,GOMBE,FUNAKAYE,26,20-29,ND.
+Female,1985-05-18,altinebaba2@gmail.com,Higher National Diploma (HND),Environmental Health,2.0,2013-06,GOMBE,GOMBE,JEKA DAFARI,GOMBE,GOMBE,39,30-39,HND
+Female,1970-05-15,zainabumarchiroma@gmail.com,Higher National Diploma (HND),Community Health,2.0,2022-10,GOMBE,GOMBE,,GOMBE,GOMBE,54,50-59,HND
+Female,1998-12-31,abdulkarimaishatu1998@gmail.com,Professional Diploma,Medical Laboratory Technology,2.0,2018-11,GOMBE,GOMBE,BOLARI WEST,GOMBE,GOMBE,26,20-29,ND
+Female,1984-03-09,maimunaadamu11@gmail.com,Certificate,Community Health,2.0,2020-12,GOMBE,GOMBE,DAWAKI,GOMBE,GOMBE,40,40-49,Cert
+Female,1997-10-10,hafsadsabo7879@gmail.com,National Diploma,Medical Laboratory Technology,2.0,0021-11,GOMBE,GOMBE,BAJOGA,GOMBE,GOMBE,27,20-29,ND.
+Female,1991-09-04,salehmaryam2593@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2009-01,GOMBE,GOMBE,,GOMBE,GOMBE,33,30-39,GSCE
+Male,1995-01-08,muktariishaq4@gmail.com,National Diploma,Environmental Health Technology,2.0,2017-06,GOMBE,GOMBE,JEKA DAFARI,GOMBE,GOMBE,30,30-39,ND.
+Female,2000-07-24,maryamabdurrazaq7530852@gmail.com,National Diploma,Community Health,2.0,2023-11,GOMBE,GOMBE,JEKA DAFARI,GOMBE,GOMBE,24,20-29,ND.
+Male,1993-10-02,usmanmuhammad0455@gmail.com,National Diploma,Community Health,2.0,2021-10,GOMBE,GOMBE,,GOMBE,GOMBE,31,30-39,ND.
+Female,2004-08-15,khadijasale3280@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",,2.0,2022-07,GOMBE,GOMBE,JEKA DAFARI,GOMBE,GOMBE,20,20-29,GSCE
+Female,1989-12-06,mamanarfaan@gmail.com,National Diploma,Community Health,2.0,2011-11,GOMBE,AKKO,GARKO,GOMBE,GOMBE,35,30-39,ND.
+Male,1989-04-29,muhammedyerimaadamu@gmail.com,National Diploma,Environmental Health Technology,2.0,2012-10,GOMBE,GOMBE,,GOMBE,NAFADA,35,30-39,ND.
+Female,1987-06-02,aishatubunu9@gmail.com,National Diploma,Community Health,2.0,2023-09,GOMBE,GOMBE,,GOMBE,GOMBE,37,30-39,ND.
+Female,1974-07-10,rukayyamohammedmele@gmail.com,National Diploma,Community Health,2.0,2010-01,GOMBE,GOMBE,,GOMBE,GOMBE,50,50-59,ND.
+Female,1986-10-12,fyumar123@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2006-07,GOMBE,GOMBE,,GOMBE,GOMBE,38,30-39,GSCE
+Female,1989-05-06,rafiabaitu@gmail.com,Post Graduate Diploma (PGD),Biology,2.0,2021-01,GOMBE,GOMBE,,GOMBE,GOMBE,35,30-39,PGD
+Female,2004-11-14,aishatusanigdss@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2019-07,GOMBE,GOMBE,JEKA DAFARI,GOMBE,GOMBE,20,20-29,GSCE
+Male,2000-12-01,ishaqabbahy@gmail.com,National Diploma,,2.0,2017-11,GOMBE,GOMBE,,GOMBE,GOMBE,24,20-29,ND.
+Female,1969-12-31,aishatutabubakar@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Arts,2.0,2008-07,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,55,50-59,GSCE
+Male,1980-07-15,bashiahmed13599@gmail.com,Certificate,Community Health,2.0,2002-12,GOMBE,GOMBE,JEKA DAFARI,GOMBE,GOMBE,44,40-49,Cert
+Female,1980-03-03,furerajungudo11234@gmail.com,Certificate,Community Health,2.0,2009-12,GOMBE,GOMBE,BAJOGA,GOMBE,GOMBE,45,40-49,Cert
+Male,2000-03-03,alaminak0419@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2018-07,GOMBE,GOMBE,JEKA DAFARI,GOMBE,AKKO,25,20-29,GSCE
+Female,1989-09-19,maedaadamu@gmail.com,National Diploma,Science Lab. Technology,2.0,2016-01,GOMBE,GOMBE,,GOMBE,GOMBE,35,30-39,ND.
+Female,2003-05-03,hauwamuhammad9548778@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",,2.0,2021-07,GOMBE,GOMBE,JEKA DAFARI,GOMBE,GOMBE,21,20-29,GSCE
+Female,1978-09-20,safiyamuhammedbornoma@gmail.com,National Diploma,Environmental Health,2.0,2006-09,GOMBE,GOMBE,KUMBIYA - KUMBIYA,GOMBE,GOMBE,46,40-49,ND.
+Female,1986-05-09,hassanamuhammedloddo@gmail.com,National Diploma,Community Health,2.0,2019-11,GOMBE,GOMBE,DAWAKI,GOMBE,GOMBE,38,30-39,ND.
+Male,1991-06-01,cashfloor251@gmail.com,Certificate,Community Health,2.0,2023-10,GOMBE,GOMBE,DAWAKI,GOMBE,GOMBE,33,30-39,Cert
+Female,1982-02-06,maigariamina9@gmail.com,National Diploma,Environmental Health Technology,2.0,2022-12,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,43,40-49,ND.
+Female,1983-06-25,SALOMIMASOYI@GMAIL.COM,National Diploma,Community Health,2.0,2005-02,GOMBE,AKKO,,GOMBE,KALTUNGO,41,40-49,ND.
+Female,1977-07-01,kafayatabdullahi35@gmail.com,National Diploma,Community Health,2.0,2001-12,GOMBE,GOMBE,,GOMBE,GOMBE,47,40-49,ND.
+Female,1984-04-16,nafisamaina@gmail.com,Professional Diploma,Environmental Health Technology,2.0,2022-06,GOMBE,GOMBE,JEKA DAFARI,GOMBE,GOMBE,40,40-49,ND
+Female,1986-04-02,safiyammohd122@gmail.com,National Diploma,Community Health,2.0,2017-09,GOMBE,AKKO,,GOMBE,GOMBE,38,30-39,ND.
+Female,1988-12-14,fatimamuhammadahmed89@gmail.com,National Diploma,Health Information Management,2.0,2021-05,GOMBE,GOMBE,DAWAKI,GOMBE,GOMBE,36,30-39,ND.
+Female,1977-03-26,aishatubappah583@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2013-06,GOMBE,GOMBE,DAWAKI,GOMBE,GOMBE,47,40-49,GSCE
+Male,1981-01-15,bellokhalillu@gmail.com,National Diploma,Community Health,2.0,2003-12,GOMBE,GOMBE,,GOMBE,GOMBE,44,40-49,ND.
+Male,1975-09-25,ABMUSAHA@GMAIL.COM,Higher National Diploma (HND),Environmental Health Technology,2.0,2011-09,GOMBE,GOMBE,,GOMBE,GOMBE,49,40-49,HND
+Female,1990-05-14,hadizasuleimanahmed001@gmial.com,National Diploma,Environmental Health Technology,2.0,2014-10,GOMBE,GOMBE,,GOMBE,GOMBE,34,30-39,ND.
+Female,1994-01-01,sadiyabadamasi45@gmail.com,National Diploma,Health Education And Promotion,2.0,2023-11,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,31,30-39,ND.
+Female,1984-07-21,yauyahanasuo@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2009-07,GOMBE,GOMBE,DAWAKI,GOMBE,GOMBE,40,40-49,GSCE
+Female,1982-01-01,fybarambu@gmail.com,Professional Diploma,Health Information Management,2.0,2022-02,GOMBE,GOMBE,JEKA DAFARI,GOMBE,GOMBE,43,40-49,ND
+Female,1976-07-09,habiba08169190633@gmail.com,National Diploma,Community Health,2.0,2005-02,GOMBE,AKKO,GARKO,GOMBE,BILLIRI,48,40-49,ND.
+Female,1993-09-14,Sarkifatima2000@gmail.com,National Diploma,Public Health,2.0,2022-12,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,31,30-39,ND.
+Male,1997-01-02,ahmadmaawiya1@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Public Health Education,2.0,2018-06,GOMBE,GOMBE,,GOMBE,GOMBE,28,20-29,GSCE
+Male,1986-09-19,harunaahmedaadamu17@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Environmental Health Technology,2.0,2018-02,GOMBE,GOMBE,,GOMBE,GOMBE,38,30-39,Degree
+Female,1985-11-20,aishatugora20@gmail.com,Professional Diploma,Health Administration And Management,2.0,2010-08,GOMBE,GOMBE,DAWAKI,GOMBE,GOMBE,39,30-39,ND
+Female,1987-10-10,mamanhurhabil@gmail.com,National Diploma,Health Information Management,2.0,2022-04,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,37,30-39,ND.
+Male,1991-01-01,Kuunaa2020@gmail.com,Certificate,Environmental Health,2.0,2017-02,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,34,30-39,Cert
+Female,2001-04-03,ummulkhairimuhammad539@gmail.com,National Diploma,Community Health,2.0,2023-12,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,23,20-29,ND.
+Male,1999-12-22,khalil0814874@gmail.com,Higher National Diploma (HND),Science Lab. Technology,2.0,2023-01,GOMBE,GOMBE,,GOMBE,GOMBE,25,20-29,HND
+Male,1974-05-28,yayabello681@gmail.com,Certificate,Community Health,2.0,2009-07,GOMBE,GOMBE,,GOMBE,GOMBE,50,50-59,Cert
+Female,2002-08-26,maijiddah89@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Social Sciences,2.0,2020-09,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,22,20-29,GSCE
+Female,1984-12-25,mamanhumaira58@gmail.com,Certificate,Community Health,2.0,2010-10,GOMBE,GOMBE,,GOMBE,GOMBE,40,40-49,Cert
+Female,1980-05-11,umaarloddofatsuma@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",,2.0,2001-07,GOMBE,GOMBE,BAJOGA,GOMBE,GOMBE,44,40-49,GSCE
+Female,1980-05-11,umarloddofatsuma@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",,2.0,2001-07,GOMBE,GOMBE,,GOMBE,GOMBE,44,40-49,GSCE
+Female,1993-06-20,rabiyalamara@gmail.com,National Diploma,Community Health,2.0,2018-09,GOMBE,GOMBE,,GOMBE,GOMBE,31,30-39,ND.
+Male,2006-01-01,ATACONSULTS324@GMAIL.COM,Professional Diploma,Public Health Education,2.0,2024-12,KADUNA,KACHIA,,NASARAWA,NASARAWA,19,< 20,ND
+Female,1998-03-05,MARYAMUMARHASSAN23@GMAIL.COM,National Diploma,Health Education And Promotion,2.0,2023-08,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,27,20-29,ND.
+Male,2003-05-25,Bashirisahahmad8@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Health Attendant (HA),2.0,2023-06,GOMBE,GOMBE,,GOMBE,GOMBE,21,20-29,GSCE
+Female,2003-06-14,ummusalmazubairuabdullahi1@gmail.com,National Certificate In Education (NCE),Education,2.0,2023-02,GOMBE,GOMBE,HERWAGANA,GOMBE,KWAMI,21,20-29,NCE
+Female,1984-10-01,Jibrinamina007@gmail.com,Certificate,Community Health,2.0,2023-12,GOMBE,GOMBE,SHAMAKI,GOMBE,BALANGA,40,40-49,Cert
+Female,1991-12-18,kabatilot@gmail.com,National Diploma,Environmental Health Technology,2.0,2014-11,GOMBE,AKKO,,GOMBE,AKKO,33,30-39,ND.
+Male,1993-05-26,mohammedbabaji80@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",,2.0,2011-07,GOMBE,GOMBE,,GOMBE,GOMBE,31,30-39,GSCE
+Female,1989-03-21,rabiisah7484@gmail.com,National Diploma,Environmental Health Technology,2.0,2021-08,GOMBE,GOMBE,,GOMBE,GOMBE,35,30-39,ND.
+Male,1985-12-12,saadsabusaad681@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Primary Education,2.0,2019-07,GOMBE,GOMBE,,GOMBE,GOMBE,39,30-39,Degree
+Male,1976-06-08,babayoibrahim100@gmail.com,Certificate,Environmental Health,2.0,2004-04,GOMBE,GOMBE,,GOMBE,GOMBE,48,40-49,Cert
+Female,1970-04-19,aishatumuhdbappah2014@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2008-01,GOMBE,GOMBE,,GOMBE,GOMBE,54,50-59,GSCE
+Male,1987-03-03,yakubuabubakar102@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Medical Laboratory Science,2.0,2019-01,GOMBE,GOMBE,,GOMBE,GOMBE,38,30-39,Degree
+Male,2000-08-09,khalipher22@Gmail.com,National Diploma,Community Health,2.0,2019-02,GOMBE,GOMBE,,GOMBE,KWAMI,24,20-29,ND.
+Female,2003-08-08,asmaukabirhusna@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2020-09,GOMBE,GOMBE,BOLARI WEST,GOMBE,GOMBE,21,20-29,GSCE
+Female,2002-05-23,pipsheg@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",,2.0,2020-07,GOMBE,AKKO,GARKO,GOMBE,SHONGOM,22,20-29,GSCE
+Female,1980-05-20,hadizaabdullahi0816@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2021-01,GOMBE,GOMBE,,GOMBE,GOMBE,44,40-49,GSCE
+Female,2005-03-03,kabirlawanbalkisu@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2024-09,GOMBE,GOMBE,KUMBIYA - KUMBIYA,GOMBE,KALTUNGO,20,20-29,GSCE
+Male,1986-09-26,Mohammadibrahim5080@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Social Sciences,2.0,2005-07,GOMBE,GOMBE,DAWAKI,GOMBE,GOMBE,38,30-39,GSCE
+Female,1986-12-12,halimahassanadamu@gmail.com,National Diploma,Health Information Management,2.0,2020-10,GOMBE,GOMBE,,GOMBE,GOMBE,38,30-39,ND.
+Female,2002-06-12,muhammadhafizurabiatu@gmail.com,Professional Diploma,Health Information Management,2.0,2021-11,GOMBE,GOMBE,,GOMBE,GOMBE,22,20-29,ND
+Male,1997-05-13,saniibrahimadamu55@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2020-06,GOMBE,GOMBE,,GOMBE,GOMBE,27,20-29,GSCE
+Female,1992-07-03,fauziyamuhammadbose@gmail.com,National Diploma,Environmental Health,2.0,2017-10,GOMBE,GOMBE,,GOMBE,GOMBE,32,30-39,ND.
+Male,1980-03-03,muhammadlawan+9alhaji@gmail.com,National Diploma,Environmental Health Technology,2.0,2013-03,GOMBE,GOMBE,JEKA DAFARI,,,45,40-49,ND.
+Female,2001-11-02,umaimanasirnaseef@gmail.com,National Diploma,Community Health,2.0,2022-01,GOMBE,GOMBE,,GOMBE,GOMBE,23,20-29,ND.
+Female,1978-12-08,salamatu6370@gmail.com,Primary School Certificate,Primary Education,2.0,1991-06,GOMBE,GOMBE,DAWAKI,GOMBE,GOMBE,46,40-49,Pr. Cert.
+Female,1977-04-23,zainabmohammed9082@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Health Education And Promotion,2.0,2023-08,GOMBE,GOMBE,AJIYA,GOMBE,GOMBE,47,40-49,Degree
+Male,1988-09-01,muhammadadamumusa@gmail.com,Higher National Diploma (HND),Environmental Health Technology,2.0,2011-06,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,36,30-39,HND
+Female,2003-11-29,maigariabubakarnusaibah@gmail.com,National Diploma,Community Health,2.0,2022-10,GOMBE,GOMBE,JEKA DAFARI,GOMBE,GOMBE,21,20-29,ND.
+Female,2004-06-08,fatimanasirnaseef556@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",,2.0,2022-07,GOMBE,GOMBE,,GOMBE,GOMBE,20,20-29,GSCE
+Male,2005-03-10,mshafiu6019@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2022-07,GOMBE,GOMBE,JEKA DAFARI,GOMBE,GOMBE,19,< 20,GSCE
+Female,2000-11-16,atikuabdulkadir@gmail.com,National Diploma,Community Health,2.0,2024-09,GOMBE,GOMBE,DAWAKI,GOMBE,GOMBE,24,20-29,ND.
+Male,1975-12-27,Manzoahmed39@gmail.com,National Diploma,Community Health,2.0,2004-01,GOMBE,GOMBE,,GOMBE,GOMBE,49,40-49,ND.
+Female,1981-07-29,hafsatisa34@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",,2.0,2008-07,GOMBE,GOMBE,,GOMBE,GOMBE,43,40-49,GSCE
+Female,2002-01-08,bashirzulaihat71@gmail.com,National Diploma,Environmental Health Technology,2.0,2021-10,GOMBE,GOMBE,JEKA DAFARI,GOMBE,GOMBE,23,20-29,ND.
+Male,1988-08-30,msdahiru2024@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2001-07,GOMBE,GOMBE,DAWAKI,GOMBE,GOMBE,36,30-39,GSCE
+Female,1984-01-13,aishatuibrahimtaro@gmail.com,Certificate,Environmental Health,2.0,2006-05,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,41,40-49,Cert
+Female,1988-01-01,khadeejaisah910@gmail.com,Certificate,Community Health,2.0,2016-07,GOMBE,GOMBE,,GOMBE,GOMBE,37,30-39,Cert
+Male,2002-02-19,yusufismsilysp001@gmail.com,National Diploma,Pharmacy,2.0,2024-08,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,23,20-29,ND.
+Female,1983-06-19,fatimaabdullahi4120@gmail.com,National Diploma,Community Health,2.0,2008-12,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,41,40-49,ND.
+Female,2002-12-10,hafsatmuhammadsan2771i@gmail.com,National Diploma,Medical Laboratory Technology,2.0,2023-06,GOMBE,GOMBE,,GOMBE,GOMBE,22,20-29,ND.
+Male,1993-01-02,daudabasheer59@gmail.com,Professional Diploma,Community Health,2.0,,GOMBE,GOMBE,JEKA DAFARI,GOMBE,GOMBE,32,30-39,ND
+Male,1984-07-11,ibrahimmamud90@gmail.com,Certificate,Environmental Health,2.0,2010-01,GOMBE,GOMBE,,GOMBE,GOMBE,40,40-49,Cert
+Female,1978-10-25,hadizaalabura200@gmail.com,National Diploma,Community Health,2.0,2002-01,GOMBE,GOMBE,KUMBIYA - KUMBIYA,GOMBE,GOMBE,46,40-49,ND.
+Male,1972-06-20,aligarba6275@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",,2.0,1994-07,GOMBE,GOMBE,BOLARI WEST,GOMBE,GOMBE,52,50-59,GSCE
+Female,1988-12-22,adamusanimaryam156@gmail.com,National Diploma,Health Education And Promotion,2.0,2022-11,GOMBE,GOMBE,JEKA DAFARI,GOMBE,AKKO,36,30-39,ND.
+Female,1996-06-03,nafisadanjuma968@gmail.com,National Diploma,Community Health,2.0,2022-09,GOMBE,GOMBE,JEKA DAFARI,GOMBE,GOMBE,28,20-29,ND.
+Female,1989-11-03,usmanmaryam667@gmail.com,Certificate,Nursing,2.0,2018-11,GOMBE,GOMBE,JEKA DAFARI,GOMBE,GOMBE,35,30-39,Cert
+Female,1997-09-04,shgurama97@gmail.com,National Diploma,Community Health,2.0,2023-09,GOMBE,AKKO,GARKO,GOMBE,DUKKU,27,20-29,ND.
+Female,1996-01-25,hassanaabdullahimuhammad1@gmail.com,National Diploma,Health Information Management,2.0,2020-06,GOMBE,GOMBE,JEKA DAFARI,GOMBE,GOMBE,29,20-29,ND.
+Male,1975-10-02,isaabubakar2672@gmail.com,National Diploma,Environmental Health Technology,2.0,2015-10,GOMBE,GOMBE,BAJOGA,GOMBE,GOMBE,49,40-49,ND.
+Female,1991-12-08,ummyhanan77@gmail.com,National Diploma,Environmental Health,2.0,2021-11,GOMBE,GOMBE,BOLARI EAST,GOMBE,GOMBE,33,30-39,ND.
+Male,1993-10-06,Nibrassalihu0087@gmail.com,Higher National Diploma (HND),Environmental Health,2.0,2018-06,GOMBE,GOMBE,,GOMBE,GOMBE,31,30-39,HND
+Female,2003-06-22,maryamabdullahi318@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2019-07,GOMBE,GOMBE,JEKA DAFARI,GOMBE,GOMBE,21,20-29,GSCE
+Male,1981-11-02,saiduabubakarrabi@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2000-07,GOMBE,GOMBE,,GOMBE,GOMBE,43,40-49,GSCE
+Female,1980-03-03,saadatgana802@gmail.com,Higher National Diploma (HND),Community Health,2.0,2021-09,GOMBE,GOMBE,,GOMBE,GOMBE,45,40-49,HND
+Female,1986-12-25,aminaabdulkarim25@gmail.com,Certificate,Community Health,2.0,2010-12,GOMBE,GOMBE,,GOMBE,GOMBE,38,30-39,Cert
+Female,1971-07-09,maimunasarkiyerima@gmail.com,National Diploma,Community Health,2.0,1995-11,GOMBE,YALMALTU/ DEBA,KWADON / LIJI / KURBA,GOMBE,BALANGA,53,50-59,ND.
+Female,1976-08-22,hajiyaladidiimusa79@gmail.com,National Diploma,Community Health,1.0,1999-12,GOMBE,GOMBE,BOLARI EAST,GOMBE,GOMBE,48,40-49,ND.
+Male,1973-01-01,ahmedgarba@gmail.com,Certificate,Community Health,2.0,1999-11,GOMBE,GOMBE,KUMBIYA - KUMBIYA,GOMBE,GOMBE,52,50-59,Cert
+Female,1998-08-11,waleedamuhammad593@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2011-02,GOMBE,GOMBE,JEKA DAFARI,GOMBE,GOMBE,26,20-29,GSCE
+Male,1987-12-27,bilyameen20@gmail.com,Higher National Diploma (HND),Medical Laboratory Technology,2.0,2018-04,GOMBE,GOMBE,,GOMBE,GOMBE,37,30-39,HND
+Male,2002-01-01,musaabdullahikargo@gmail.com,National Diploma,Community Health,2.0,2023-06,GOMBE,GOMBE,BOLARI EAST,GOMBE,BALANGA,23,20-29,ND.
+Female,2000-07-01,rashidamustapha77@gmail.com,National Diploma,Community Health,2.0,2023-10,GOMBE,GOMBE,JEKA DAFARI,GOMBE,GOMBE,24,20-29,ND.
+Male,1990-10-15,abdullahishittu707@gmail.com,National Diploma,Community Health,2.0,2023-01,GOMBE,GOMBE,BOLARI EAST,GOMBE,GOMBE,34,30-39,ND.
+Male,1985-02-21,bashiruibrahim23@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Health Education And Promotion,2.0,2024-03,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,40,40-49,Degree
+Female,1966-03-01,talatusarkinfawa27@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2012-07,GOMBE,GOMBE,,GOMBE,GOMBE,59,50-59,GSCE
+Female,1982-11-18,suzanasunday4@gmail.com,National Diploma,Community Health,2.0,2007-07,GOMBE,GOMBE,,GOMBE,GOMBE,42,40-49,ND.
+Female,2000-07-13,rumayserth2020@gmail.com,National Diploma,Science Lab. Technology,2.0,2023-05,GOMBE,GOMBE,,GOMBE,GOMBE,24,20-29,ND.
+Male,1975-06-01,umaryakubu9144@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Social Sciences,2.0,2002-06,GOMBE,GOMBE,,GOMBE,GOMBE,49,40-49,GSCE
+Female,1980-07-29,daudaf509@gmail.com,National Diploma,Community Health,2.0,2019-11,GOMBE,GOMBE,KUMBIYA - KUMBIYA,GOMBE,GOMBE,44,40-49,ND.
+Female,1992-07-13,asmaumohammadbabayo@gmail.com,National Diploma,Community Health,2.0,2021-12,GOMBE,GOMBE,,GOMBE,GOMBE,32,30-39,ND.
+Female,2000-01-14,sayyadafatima2525@gmail.com,National Diploma,Dental Health Technology,2.0,2024-01,GOMBE,GOMBE,BOLARI EAST,GOMBE,GOMBE,25,20-29,ND.
+Female,1999-06-24,zainabumar0903357@mail.com,National Diploma,Environmental Health Technology,2.0,2021-10,GOMBE,GOMBE,,GOMBE,GOMBE,25,20-29,ND.
+Female,1997-12-28,safiyyasulaiman28@gmail.com,National Diploma,Community Health,2.0,2020-11,GOMBE,GOMBE,,GOMBE,GOMBE,27,20-29,ND.
+Female,2000-10-14,victorymusagarba@gmail.com,National Diploma,Health Education And Promotion,2.0,2021-03,GOMBE,GOMBE,,GOMBE,GOMBE,24,20-29,ND.
+Female,1990-07-13,fatsumaahmad@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2017-06,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,34,30-39,GSCE
+Female,1982-01-01,husainaadamuyusuf@gmail.com,Primary School Certificate,,2.0,1996-01,GOMBE,GOMBE,,GOMBE,GOMBE,43,40-49,Pr. Cert.
+Female,2003-01-20,aishatualhassan2263@gmail.com,National Diploma,Community Health,2.0,2024-01,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,22,20-29,ND.
+Female,1973-12-15,sadiynaabbas@gmail.com,National Diploma,Health Education And Promotion,2.0,2020-10,GOMBE,AKKO,GARKO,GOMBE,GOMBE,51,50-59,ND.
+Female,1999-12-25,walidaali77@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2017-06,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,25,20-29,GSCE
+Female,1994-06-20,aishatuusmanusman27@gmail.com,National Diploma,Community Health,2.0,2022-07,GOMBE,GOMBE,,GOMBE,GOMBE,30,30-39,ND.
+Female,1974-06-08,hajarawaziri6@gmail.com,Certificate,Community Health,2.0,2007-12,GOMBE,GOMBE,,GOMBE,GOMBE,50,50-59,Cert
+Female,1989-08-03,madiyaib@gmail.com,National Diploma,Health Information Management,2.0,2016-07,GOMBE,AKKO,,GOMBE,GOMBE,35,30-39,ND.
+Female,2000-12-30,ZAINABHASSANSHUAIBU0655@GMAIL.COM,National Diploma,Community Health,2.0,2022-12,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,24,20-29,ND.
+Female,1996-02-14,saadatumukhtar80@gmail.com,Higher National Diploma (HND),Community Health,2.0,2023-11,GOMBE,GOMBE,BOLARI EAST,KADUNA,MAKARFI,29,20-29,HND
+Female,1979-09-28,zawairamuhammedmahdi92@gmail.com,Certificate,Environmental Health,2.0,2008-11,GOMBE,GOMBE,HERWAGANA,GOMBE,GOMBE,45,40-49,Cert
+Male,1980-09-12,harunamohammedriga@gmail.com,National Diploma,Community Health,2.0,2019-11,GOMBE,GOMBE,AJIYA,GOMBE,GOMBE,44,40-49,ND.
+Female,1992-07-13,asmaumuhammadbabayo@gmail.com,National Diploma,Community Health,2.0,2021-12,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,32,30-39,ND.
+Female,1979-12-25,hafsatmaikudi93@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,1999-06,GOMBE,GOMBE,,GOMBE,GOMBE,45,40-49,GSCE
+Female,1981-08-04,aminadanjuma794@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",,2.0,2001-06,GOMBE,GOMBE,PANTAMI,GOMBE,BALANGA,43,40-49,GSCE
+Female,1980-04-04,asabedankawu@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Arts,2.0,2011-07,GOMBE,AKKO,,GOMBE,GOMBE,44,40-49,GSCE
+Female,1996-02-02,ummimaryamusman@gmail.com,Professional Diploma,Health Attendant (HA),2.0,2018-06,GOMBE,GOMBE,,GOMBE,GOMBE,29,20-29,ND
+Female,1983-12-12,fatsumaahmed2020@gmail.com,Certificate,Community Health,2.0,2007-06,GOMBE,AKKO,GARKO,GOMBE,GOMBE,41,40-49,Cert
+Female,1979-09-28,zuwairamuhammadmahdi@gmail.com,Certificate,Environmental Health,2.0,2013-11,GOMBE,GOMBE,HERWAGANA,GOMBE,GOMBE,45,40-49,Cert
+Female,1999-12-20,mamannihal85@gmail.com,National Diploma,Environmental Health Technology,2.0,2021-11,GOMBE,AKKO,GARKO,GOMBE,AKKO,25,20-29,ND.
+Male,1995-09-05,ELNAPHERTY@GMAIL.COM,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Biology,2.0,2023-06,GOMBE,GOMBE,,GOMBE,NAFADA,29,20-29,Degree
+Female,1997-05-01,asiyahassanadamu@gmail.com,National Diploma,Health Attendant (HA),2.0,2016-02,GOMBE,AKKO,,GOMBE,GOMBE,27,20-29,ND.
+Female,1996-10-24,hafsatmusaumar6111@gmail.com,National Diploma,Pharmacy,2.0,2019-06,GOMBE,FUNAKAYE,BAJOGA WEST,GOMBE,FUNAKAYE,28,20-29,ND.
+Female,1993-05-25,hafsatmusaishaq2020@gmail.com,National Diploma,Health Information Management,2.0,2018,GOMBE,GOMBE,BOLARI EAST,GOMBE,GOMBE,31,30-39,ND.
+Female,1979-10-18,basharrahila@gmail.com,National Diploma,Nutrition And Dietetics,2.0,2020-08,GOMBE,AKKO,,GOMBE,GOMBE,45,40-49,ND.
+Female,2002-12-11,ahmadaishatuusman52@gmail.com,Primary School Certificate,Senior Secondary Education - Sciences,2.0,2020-07,GOMBE,GOMBE,HERWAGANA,GOMBE,YALMALTU/ DEBA,22,20-29,Pr. Cert.
+Female,1900-01-01,sadeeeqahbabyogidado@gmail.com,Higher National Diploma (HND),Community Health,2.0,2018-09,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,125,nan,HND
+Female,1999-02-04,mahmudzainab279@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Social Sciences,2.0,2018-06,GOMBE,GOMBE,JEKA DAFARI,GOMBE,GOMBE,26,20-29,GSCE
+Female,1988-03-07,fauziyaadamu0@gmail.com,National Diploma,Community Health,2.0,2018-09,GOMBE,GOMBE,BOLARI EAST,GOMBE,DUKKU,36,30-39,ND.
+Female,1999-10-10,maryamabdullahisani12@gmail.com,National Diploma,Community Health,2.0,2023-11,GOMBE,AKKO,GARKO,GOMBE,GOMBE,25,20-29,ND.
+Male,1998-12-06,HASSANYAU609@GMAIL.COM,National Diploma,Medical Laboratory Technology,2.0,2023-04,GOMBE,GOMBE,BOLARI WEST,GOMBE,AKKO,26,20-29,ND.
+Female,2003-04-04,abdullahihafsat303@gmail.com,National Diploma,Community Health,2.0,2023-09,GOMBE,GOMBE,BOLARI EAST,GOMBE,GOMBE,21,20-29,ND.
+Female,1996-06-03,asmaumuhammadbello@gmail.com,National Diploma,Health Information Management,2.0,2019-07,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,28,20-29,ND.
+Female,2000-09-04,shemauusman05@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2021-07,GOMBE,GOMBE,BOLARI WEST,GOMBE,GOMBE,24,20-29,GSCE
+Female,1987-09-05,ezzatuadamu646@gmail.com,National Diploma,Environmental Health Technology,2.0,2013-11,GOMBE,GOMBE,BOLARI WEST,GOMBE,YALMALTU/ DEBA,37,30-39,ND.
+Female,1984-08-28,aminatumohammedaliyu7@gmail.com,Certificate,Environmental Health,2.0,2013-07,GOMBE,GOMBE,BOLARI WEST,GOMBE,GOMBE,40,40-49,Cert
+Female,2000-07-11,aishatumuhammadmuhammad42@gmail.com,National Diploma,Environmental Health Technology,2.0,2022-11,GOMBE,GOMBE,,GOMBE,GOMBE,24,20-29,ND.
+Female,1988-01-30,ramatuadamu546@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2006-07,GOMBE,GOMBE,HERWAGANA,GOMBE,GOMBE,37,30-39,GSCE
+Male,1998-01-10,ibrahimsafiyanu8737@gmail.com,Higher National Diploma (HND),Science Lab. Technology,2.0,2023-12,GOMBE,GOMBE,,GOMBE,GOMBE,27,20-29,HND
+Female,1986-02-01,jaa7874342@gmail.com,National Diploma,Community Health,2.0,2018-12,GOMBE,GOMBE,DAWAKI,GOMBE,GOMBE,39,30-39,ND.
+Female,2001-08-08,aishatumsaid@gmail.com,National Diploma,Midwifery,2.0,2023-03,GOMBE,AKKO,,GOMBE,GOMBE,23,20-29,ND.
+Female,1996-03-27,muhammadibrahimamina17@gmail.com,National Diploma,Science Lab. Technology,2.0,2019-11,GOMBE,GOMBE,BOLARI EAST,GOMBE,GOMBE,28,20-29,ND.
+Female,2003-03-25,hafsatkabir824@gmail.com,National Diploma,Environmental Health,2.0,2023-11,GOMBE,GOMBE,BOLARI WEST,GOMBE,GOMBE,21,20-29,ND.
+Female,1970-05-06,tokiedavid@gmail.com,Higher National Diploma (HND),Community Health,2.0,2018-11,GOMBE,AKKO,GARKO,GOMBE,KALTUNGO,54,50-59,HND
+Female,2000-08-13,maryamaliyu3498@gmail.com,National Diploma,Health Education And Promotion,2.0,2022-12,GOMBE,GOMBE,,GOMBE,GOMBE,24,20-29,ND.
+Female,1996-01-09,sakyzarma5660@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Community Health,2.0,2020-01,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,29,20-29,Degree
+Male,2000-01-25,SALIHUMUHAMMADLAWAN470@GMAIL.COM,National Diploma,Medical Laboratory Technology,2.0,2021-12,GOMBE,GOMBE,PANTAMI,BAUCHI,BAUCHI,25,20-29,ND.
+Female,1983-07-22,Ummusudaiz1@gmail.com,National Diploma,Community Health,2.0,2009-12,GOMBE,GOMBE,HERWAGANA,GOMBE,GOMBE,41,40-49,ND.
+Female,1994-03-13,aishatuisah780@gmail.com,National Diploma,Environmental Health,2.0,2020-07,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,30,30-39,ND.
+Male,1998-10-09,abubakardanlami6000@gmail.com,National Diploma,Science Lab. Technology,2.0,2024-10,GOMBE,GOMBE,BOLARI WEST,GOMBE,YALMALTU/ DEBA,26,20-29,ND.
+Female,1971-06-18,hafsatuhamza63@gmail.com,National Diploma,Community Health,2.0,2003-09,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,53,50-59,ND.
+Female,1992-05-05,aishababadidi15@gmail.com,National Diploma,Community Health,2.0,2023-09,GOMBE,GOMBE,BOLARI EAST,GOMBE,GOMBE,32,30-39,ND.
+Male,1988-01-01,babaganaaliyu79@gmail.com,National Diploma,Environmental Health Technology,2.0,2013,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,37,30-39,ND.
+Female,1999-04-26,nabilaaliyu286@gmail.com,National Diploma,Medical Laboratory Technology,2.0,2023-11,GOMBE,GOMBE,DAWAKI,GOMBE,GOMBE,25,20-29,ND.
+Female,2003-02-17,abubakarfatimashuaibu@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2021-10,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,22,20-29,GSCE
+Male,1994-07-31,ibrahimabdulssalamal3@gmail.com,National Certificate In Education (NCE),,2.0,2015-10,GOMBE,GOMBE,HERWAGANA,GOMBE,GOMBE,30,30-39,NCE
+Female,1995-05-25,samirausman071@gmail.com,National Diploma,Business Administration,2.0,2016-10,GOMBE,GOMBE,HERWAGANA,GOMBE,AKKO,29,20-29,ND.
+Female,1982-12-25,farihaabdullahi@gmail.com80,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2021-07,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,42,40-49,GSCE
+Male,1987-01-30,aaibrahim6967@gmail.com,National Diploma,Environmental Health,2.0,2013-06,GOMBE,GOMBE,KUMBIYA - KUMBIYA,GOMBE,GOMBE,38,30-39,ND.
+Female,1991-11-16,aminaabubakarsulaiman69@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2005-09,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,33,30-39,GSCE
+Female,1987-08-03,rabiusmangombe@gmail.com,National Diploma,Community Health,2.0,2023-09,GOMBE,GOMBE,BOLARI WEST,GOMBE,GOMBE,37,30-39,ND.
+Male,1993-02-16,talmeezlabs@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Others,2.0,2017-06,GOMBE,AKKO,GARKO,GOMBE,GOMBE,32,30-39,Degree
+Female,1977-11-14,khaulatuibrahim775@gmail.com,Certificate,Community Health,2.0,2005-07,GOMBE,GOMBE,BOLARI EAST,GOMBE,GOMBE,47,40-49,Cert
+Female,1995-01-01,mamankhamisu004@gmail.com,National Diploma,Environmental Health Technology,2.0,2021-10,GOMBE,GOMBE,HERWAGANA,GOMBE,GOMBE,30,30-39,ND.
+Female,1990-01-15,jamilamohammed6133@gmail.com,National Diploma,Environmental Health Technology,2.0,2013-03,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,35,30-39,ND.
+Male,1986-06-01,auwalumohammedahmed@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Health Attendant (HA),2.0,2023-11,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,38,30-39,GSCE
+Female,1995-05-02,mhauwa366@gmail.com,National Diploma,Environmental Health Technology,2.0,2021-08,GOMBE,GOMBE,,GOMBE,GOMBE,29,20-29,ND.
+Female,1984-02-11,isajamila308@gmail.com,Higher National Diploma (HND),Community Health,2.0,2021-03,GOMBE,GOMBE,DAWAKI,GOMBE,GOMBE,41,40-49,HND
+Male,1978-04-28,ckmmayimahmed@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Health Education,2.0,2023-04,GOMBE,GOMBE,BAJOGA,GOMBE,GOMBE,46,40-49,Degree
+Female,1974-03-23,kulumohammeddawaki@gmail.com,National Diploma,Community Health,2.0,2020-12,GOMBE,GOMBE,AJIYA,GOMBE,GOMBE,50,50-59,ND.
+Female,1972-09-25,hajjabarde@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Others,2.0,1992-02,GOMBE,GOMBE,BAJOGA,GOMBE,GOMBE,52,50-59,GSCE
+Female,1985-08-31,maimunamuhammad815@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2006-11,GOMBE,GOMBE,BOLARI EAST,GOMBE,GOMBE,39,30-39,GSCE
+Female,1987-10-16,fatimamuhammadladan36@gmail.com,National Diploma,Public Health,2.0,2022-11,GOMBE,GOMBE,HERWAGANA,GOMBE,GOMBE,37,30-39,ND.
+Male,1986-04-16,shuaibukasimu0@gmail.com,National Certificate In Education (NCE),Business Administration,2.0,2013-01,GOMBE,GOMBE,JEKA DAFARI,GOMBE,GOMBE,38,30-39,NCE
+Male,1995-02-08,saiduadamu047@gmail.com,Higher National Diploma (HND),Environmental Health,2.0,2024-06,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,30,30-39,HND
+Female,2000-10-02,fatimamuazu247@gmail.com,National Diploma,Community Health,2.0,2023-12,GOMBE,GOMBE,BOLARI EAST,GOMBE,GOMBE,24,20-29,ND.
+Female,1992-05-05,saadatumahdi6@gmil.com,National Diploma,Health Information Management,2.0,2021-07,GOMBE,GOMBE,,GOMBE,AKKO,32,30-39,ND.
+Male,1992-07-07,ibrahimsulaiman71@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Accounting,2.0,2019-11,GOMBE,GOMBE,,GOMBE,GOMBE,32,30-39,Degree
+Male,2000-10-16,ha5789892@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2020-07,GOMBE,GOMBE,BOLARI WEST,GOMBE,GOMBE,24,20-29,GSCE
+Female,2000-02-28,Zarausabiusani@gmail.com,National Diploma,Medical Laboratory Technology,2.0,2023-11,GOMBE,GOMBE,HERWAGANA,GOMBE,GOMBE,25,20-29,ND.
+Female,2003-12-18,suleimanadamuaishatu@gmail.com,National Diploma,Medical Laboratory Technology,2.0,2024-01,GOMBE,GOMBE,BAJOGA,GOMBE,GOMBE,21,20-29,ND.
+Female,1987-05-05,fateegombe577@gmail.com,National Diploma,Health Information Management,2.0,2012-02,GOMBE,GOMBE,BOLARI WEST,GOMBE,GOMBE,37,30-39,ND.
+Female,2003-12-18,suleimainadamuaishatu@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2024-02,GOMBE,GOMBE,BOLARI EAST,GOMBE,GOMBE,21,20-29,GSCE
+Female,1988-10-16,sadiyamuhammad0444@gmail.com,National Diploma,Community Health,2.0,2009-12,GOMBE,GOMBE,,GOMBE,GOMBE,36,30-39,ND.
+Female,1981-08-17,faggajamila54@gmail.com,Certificate,Community Health,2.0,2003-12,GOMBE,GOMBE,,GOMBE,GOMBE,43,40-49,Cert
+Male,1974-07-14,bappahyerimaali@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,1996-01,GOMBE,GOMBE,,GOMBE,,50,50-59,GSCE
+Male,1976-02-15,lawanmohsani@gmail.com,National Diploma,Tropical Health and Disease Control,2.0,2023-01,GOMBE,GOMBE,,GOMBE,GOMBE,49,40-49,ND.
+Female,1994-05-22,mardiyajibrin755@gmail.com,National Diploma,Community Health,2.0,2024-09,GOMBE,GOMBE,BOLARI EAST,GOMBE,GOMBE,30,30-39,ND.
+Female,1980-08-27,zuwairaadamu40@gmail.com,National Diploma,Environmental Health Technology,2.0,2020-10,GOMBE,GOMBE,DAWAKI,GOMBE,GOMBE,44,40-49,ND.
+Female,1987-07-14,magajialicedavid5@gmail.com,National Diploma,Pharmacy,2.0,2014-11,GOMBE,AKKO,GARKO,GOMBE,SHONGOM,37,30-39,ND.
+Male,1980-08-10,achiroma999@gmail.com,Certificate,Science Lab. Technology,2.0,2007-01,GOMBE,AKKO,,GOMBE,GOMBE,44,40-49,Cert
+Female,1982-05-24,hafsatumusa29@gmail.com,Certificate,Community Health,2.0,2009-12,GOMBE,GOMBE,DAWAKI,GOMBE,GOMBE,42,40-49,Cert
+Female,1996-01-12,shahidaibrahim18@gmail.com,Certificate,Environmental Health,2.0,2017-05,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,29,20-29,Cert
+Male,1972-02-15,abubakarbilyaminu@gmail.com,Professional Diploma,Community Health,2.0,1999-06,GOMBE,GOMBE,NASARAWA,GOMBE,GOMBE,53,50-59,ND
+Male,1998-01-01,musamamaya61@gmail.com,National Diploma,Pharmacy,2.0,2019-02,GOMBE,GOMBE,SHAMAKI,GOMBE,KWAMI,27,20-29,ND.
+Female,1988-10-18,asileelonyambali@gmail.com,National Diploma,Food Hygiene,2.0,2012-06,GOMBE,GOMBE,,GOMBE,SHONGOM,36,30-39,ND.
+Female,2001-11-22,joshuagrace922@gmail.com,National Diploma,Midwifery,2.0,2022-03,GOMBE,GOMBE,JEKA DAFARI,GOMBE,BALANGA,23,20-29,ND.
+Male,1991-01-01,khalididris2092@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Accounting,2.0,2018-10,GOMBE,GOMBE,,GOMBE,GOMBE,34,30-39,Degree
+Male,1992-09-07,usmanbappahh@gmail.com,National Diploma,Community Health,2.0,2018,GOMBE,AKKO,GARKO,GOMBE,AKKO,32,30-39,ND.
+Female,1996-07-25,zainabisahmohammed001@gmail.com,National Diploma,Health Information Management,2.0,2021-07,GOMBE,AKKO,,GOMBE,BALANGA,28,20-29,ND.
+Female,1980-06-16,asmau929@gmail.com,Certificate,Community Health,2.0,1999-12,GOMBE,GOMBE,BOLARI WEST,GOMBE,GOMBE,44,40-49,Cert
+Female,1989-01-31,maryamismailyakubu@gmail.com,National Diploma,Science Lab. Technology,2.0,2013-04,GOMBE,GOMBE,BOLARI WEST,GOMBE,GOMBE,36,30-39,ND.
+Female,1994-12-07,zainabmuhammad1010@gmail.com,National Diploma,Community Health,2.0,2024-11,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,30,30-39,ND.
+Female,1986-07-05,elizabethgayus59@gmail.com,National Diploma,Community Health,2.0,2009,GOMBE,AKKO,GARKO,GOMBE,BILLIRI,38,30-39,ND.
+Male,1996-06-25,Ismaiabdullahi944@gmail.com,National Diploma,Medical Laboratory Technology,2.0,2021-01,GOMBE,GOMBE,,GOMBE,GOMBE,28,20-29,ND.
+Male,1974-05-03,alimuhammedmai@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Arts,2.0,2000-06,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,50,50-59,GSCE
+Male,1990-01-02,07066689266@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2018-06,GOMBE,GOMBE,BAJOGA,GOMBE,GOMBE,35,30-39,GSCE
+Female,2000-04-22,shafaatunuhammadsani@gmail.com,National Diploma,Environmental Health Technology,2.0,2021-08,GOMBE,GOMBE,BOLARI EAST,GOMBE,GOMBE,24,20-29,ND.
+Female,1980-12-27,tessyishaku7@gmail.com,National Diploma,Community Health,2.0,2015-02,GOMBE,GOMBE,BOLARI EAST,GOMBE,BALANGA,44,40-49,ND.
+Female,1988-05-25,mohdrashidaumar@gmail.com,National Diploma,Midwifery,2.0,2013-01,GOMBE,GOMBE,,GOMBE,GOMBE,36,30-39,ND.
+Male,1981-04-17,tatari3310@gamil.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2016-07,GOMBE,GOMBE,DAWAKI,GOMBE,GOMBE,43,40-49,GSCE
+Female,1990-12-22,zarauusmandikko364@gmail.com,Certificate,Environmental Health,2.0,2013-07,GOMBE,GOMBE,HERWAGANA,GOMBE,GOMBE,34,30-39,Cert
+Male,1999-07-17,babayommalami@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2017-07,GOMBE,GOMBE,,GOMBE,GOMBE,25,20-29,GSCE
+Female,1989-12-17,balkisuibrahimsharif@gmail.com,National Diploma,Community Health,2.0,2022-06,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,35,30-39,ND.
+Female,1978-06-11,yugudamaryam180@gmail.com,National Diploma,Community Health,2.0,2022-07,GOMBE,GOMBE,,GOMBE,GOMBE,46,40-49,ND.
+Female,1972-06-30,JANETKUTUBE@GMAIL.COM,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2017-06,GOMBE,GOMBE,,GOMBE,BILLIRI,52,50-59,GSCE
+Female,1990-08-08,ameenhanny@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Nurse/Midwife,2.0,2024-05,GOMBE,GOMBE,,GOMBE,GOMBE,34,30-39,Degree
+Male,1992-01-23,mamman0000@gmail.com,Certificate,Medical Laboratory Technology,2.0,2019-04,GOMBE,GOMBE,BOLARI EAST,GOMBE,GOMBE,33,30-39,Cert
+Female,1994-10-14,majeedadiwaleeda@gmail.com,National Diploma,Environmental Health Technology,2.0,2017,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,30,30-39,ND.
+Female,1999-02-23,ummusalmamuhammadsagir@gmail.com,National Diploma,Environmental Health Technology,2.0,2021-09,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,26,20-29,ND.
+Female,1997-06-10,mamanjamila18@gmail.com,Professional Diploma,Community Health,2.0,2019-06,GOMBE,GOMBE,BOLARI EAST,GOMBE,GOMBE,27,20-29,ND
+Female,1989-01-01,salamatushauibuzarma@gmail.com,National Diploma,Community Health,2.0,2022-12,GOMBE,GOMBE,BOLARI EAST,GOMBE,GOMBE,36,30-39,ND.
+Male,1993-03-01,saifullahbalaabubakar9@gmail.com,National Diploma,Medical Laboratory Technology,2.0,2018,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,32,30-39,ND.
+Female,1974-03-18,usamatuhussaini77@gmail.co.,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Arts,2.0,2001-03,GOMBE,GOMBE,,GOMBE,GOMBE,50,50-59,GSCE
+Female,2000-12-15,hauwausmanadamu4@gmail.com,National Diploma,Environmental Health,2.0,2022-11,GOMBE,AKKO,GARKO,GOMBE,GOMBE,24,20-29,ND.
+Female,2002-02-02,hanifasaminu@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2020-10,GOMBE,GOMBE,,GOMBE,GOMBE,23,20-29,GSCE
+Male,1999-06-04,shuaibumuhammadsabo@gmail.com,National Diploma,English Education,2.0,2020-06,GOMBE,GOMBE,,GOMBE,GOMBE,25,20-29,ND.
+Female,1988-09-21,jamilabalatahir@gmail.com,National Diploma,Nurse/Midwife,2.0,2016-11,GOMBE,AKKO,GARKO,GOMBE,GOMBE,36,30-39,ND.
+Male,2000-02-02,hamzayau'3152h@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Others,2.0,2018-06,GOMBE,GOMBE,BOLARI EAST,GOMBE,DUKKU,25,20-29,GSCE
+Male,1999-03-14,abuubaidahrn@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2018-06,GOMBE,GOMBE,BOLARI EAST,GOMBE,GOMBE,25,20-29,GSCE
+Female,1990-05-05,hauwaadamusaleh32@gmail.com,National Diploma,Community Health,2.0,2022-05,GOMBE,GOMBE,NASARAWA,GOMBE,GOMBE,34,30-39,ND.
+Male,1969-02-22,abdul2211@gmail.com,National Diploma,Public Health,2.0,2012-01,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,56,50-59,ND.
+Male,1990-05-07,aminudavid90@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Arts,2.0,2006-06,GOMBE,GOMBE,NASARAWA,GOMBE,SHONGOM,34,30-39,GSCE
+Male,1978-01-02,shuaibuumar6404@gmail.com,National Diploma,Public Health,2.0,2017,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,47,40-49,ND.
+Female,1989-03-29,safuramuhammad158@gmail.com,Certificate,Community Health,2.0,2021-11,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,35,30-39,Cert
+Female,2003-03-10,nafisausman498@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2020-07,GOMBE,AKKO,GARKO,GOMBE,GOMBE,21,20-29,GSCE
+Male,1978-07-01,ibrahimjalo1978@gmail.com,National Diploma,Accounting,2.0,2005-07,GOMBE,GOMBE,,GOMBE,GOMBE,46,40-49,ND.
+Female,1981-05-15,gracebibi36@gmail.com,National Diploma,Environmental Health Technology,2.0,2008-07,GOMBE,AKKO,GARKO,GOMBE,BILLIRI,43,40-49,ND.
+Female,1994-01-24,usmantafidar@mail.com,National Diploma,Community Health,2.0,2023-11,GOMBE,GOMBE,BOLARI EAST,GOMBE,YALMALTU/ DEBA,31,30-39,ND.
+Female,1985-05-06,mkulu015@gmail.com,Certificate,Senior Secondary Education - Sciences,2.0,2005-07,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,39,30-39,Cert
+Male,1984-02-12,mansirbako9@gmail.com,National Diploma,Environmental Health,2.0,2008-10,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,41,40-49,ND.
+Female,1975-10-05,marthastephen@gmail.com,Higher National Diploma (HND),Community Health,2.0,2020-09,GOMBE,AKKO,,GOMBE,YALMALTU/ DEBA,49,40-49,HND
+Male,1982-03-18,rabiuinuwa86@gmail.com,Certificate,Environmental Health,2.0,2006-10,GOMBE,GOMBE,DAWAKI,GOMBE,GOMBE,42,40-49,Cert
+Female,1987-09-10,shswanatua91@gmail.com,National Diploma,Community Health,2.0,2022-11,GOMBE,GOMBE,BOLARI WEST,GOMBE,GOMBE,37,30-39,ND.
+Female,1975-11-03,yemisioladiti@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Environmental Health,2.0,2017-06,GOMBE,AKKO,GARKO,GOMBE,GOMBE,49,40-49,Degree
+Female,1994-06-07,hadizaaliyuabdullahi468@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2014-09,GOMBE,GOMBE,NASARAWA,GOMBE,BALANGA,30,30-39,GSCE
+Female,1900-01-01,aishatumuhammadabubakar123@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2017-06,GOMBE,GOMBE,NASARAWA,GOMBE,GOMBE,125,nan,GSCE
+Female,1990-02-01,hajarahamma7@gmail.com,National Diploma,Community Health,2.0,2023-01,GOMBE,AKKO,,GOMBE,GOMBE,35,30-39,ND.
+Female,1973-04-11,aminahammaadamu37@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Public Health,2.0,2019-03,GOMBE,GOMBE,BOLARI WEST,GOMBE,GOMBE,51,50-59,Degree
+Female,1998-12-30,fatymaharuna082@gmail.com,National Diploma,Pharmacy,2.0,2022-01,GOMBE,GOMBE,SHAMAKI,GOMBE,KWAMI,26,20-29,ND.
+Female,2000-02-06,naeemaayubaaliyu@gmail.com,National Diploma,Health Education And Promotion,2.0,2020,GOMBE,GOMBE,HERWAGANA,GOMBE,BALANGA,25,20-29,ND.
+Male,1994-06-05,zaymerd3000@gmail.com,National Diploma,Health Information Management,2.0,2014-10,GOMBE,GOMBE,,GOMBE,BALANGA,30,30-39,ND.
+Male,1984-01-01,rufanice@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Community Health,2.0,2018-11,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,41,40-49,Degree
+Female,2000-05-28,maryamadamu128@gmail.com,National Diploma,Community Health,2.0,2019-11,GOMBE,GOMBE,BOLARI WEST,GOMBE,GOMBE,24,20-29,ND.
+Female,1997-05-15,Hauwaumuhammadabarshi224@gmail.com,National Diploma,Community Health,2.0,2021-09,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,27,20-29,ND.
+Male,1985-12-05,deenuumar28@gmail.com,National Diploma,Community Health,2.0,2020-09,GOMBE,GOMBE,,GOMBE,GOMBE,39,30-39,ND.
+Female,1988-09-05,aminaabubakar324@gmail.com,National Diploma,Community Health,2.0,2009-11,GOMBE,GOMBE,,GOMBE,GOMBE,36,30-39,ND.
+Female,1974-01-07,shabewabellorabi@gmail.com,National Diploma,Community Health,2.0,2007-12,GOMBE,GOMBE,,GOMBE,GOMBE,51,50-59,ND.
+Female,1999-03-01,asmauusmantaliyawa@gmail.com,National Diploma,Community Health,2.0,2019-11,GOMBE,AKKO,GARKO,GOMBE,AKKO,26,20-29,ND.
+Female,1979-05-22,talatuumaryuguda333@gmail.com,Professional Diploma,Health Information Management,2.0,2017-06,GOMBE,GOMBE,JEKA DAFARI,GOMBE,GOMBE,45,40-49,ND
+Female,1984-08-12,usmanidrisjamila@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Others,2.0,2012-06,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,40,40-49,GSCE
+Female,1998-01-01,karimaibrahim3425@gmail.com,Primary School Certificate,Others,2.0,2010-07,GOMBE,GOMBE,HERWAGANA,GOMBE,GOMBE,27,20-29,Pr. Cert.
+Female,1979-04-04,sadiyaadamuharuna@gmail.com,Certificate,Community Health,2.0,2008-12,GOMBE,GOMBE,,GOMBE,GOMBE,45,40-49,Cert
+Female,1988-08-02,jjbaka11@gmail.com,National Diploma,Community Health,2.0,2017-09,GOMBE,GOMBE,BOLARI WEST,GOMBE,SHONGOM,36,30-39,ND.
+Female,1978-01-01,ahmedasmau22@gmail.com,National Diploma,Environmental Health Technology,2.0,2014-10,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,47,40-49,ND.
+Female,1986-12-10,abubakarrukayya048@gmail.com,National Diploma,Environmental Health,2.0,2006-10,GOMBE,GOMBE,,GOMBE,GOMBE,38,30-39,ND.
+Female,1976-02-21,comfortnaho2621@gmail.com,National Diploma,Community Health,2.0,2017-07,GOMBE,GOMBE,SHAMAKI,GOMBE,BILLIRI,49,40-49,ND.
+Female,1994-12-25,khadijamuhammadusman10@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2020-07,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,30,30-39,GSCE
+Male,1984-07-04,ibrahimabubakar090@gmail.com,Higher National Diploma (HND),Health Information Management,2.0,2017-09,GOMBE,GOMBE,JEKA DAFARI,GOMBE,GOMBE,40,40-49,HND
+Female,1982-07-17,umarurakiya91@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Arts,2.0,2000-07,GOMBE,AKKO,AKKO,GOMBE,FUNAKAYE,42,40-49,GSCE
+Female,1996-01-03,khadijamuhammadmuhammad83@gmail.com,Certificate,Others,2.0,2020-12,GOMBE,GOMBE,BOLARI WEST,GOMBE,GOMBE,29,20-29,Cert
+Female,1983-08-11,mohammedjamilamj8@gmail.com,Professional Diploma,Community Health,2.0,2003-06,GOMBE,GOMBE,BAJOGA,GOMBE,GOMBE,41,40-49,ND
+Female,1997-01-01,jamilasaidugombe@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2013-01,GOMBE,GOMBE,,GOMBE,GOMBE,28,20-29,GSCE
+Female,1973-04-11,aninahammaadamu037@gmial.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Environmental Health,2.0,2019-03,GOMBE,GOMBE,BOLARI WEST,GOMBE,GOMBE,51,50-59,Degree
+Female,1979-05-10,aishatuumar2990@gmail.com,National Diploma,Community Health,2.0,2007-12,GOMBE,GOMBE,,GOMBE,GOMBE,45,40-49,ND.
+Male,1999-11-19,abdulhamidbabangidaibrahim@gmail.com,National Diploma,Community Health,2.0,2023-03,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,25,20-29,ND.
+Female,1987-04-12,abubakarrukayya589@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,1.0,2010-07,GOMBE,GOMBE,,GOMBE,GOMBE,37,30-39,GSCE
+Female,1975-07-23,jummaipuma334@gmail.com,National Diploma,Community Health,2.0,2011-12,GOMBE,YALMALTU/ DEBA,,GOMBE,YALMALTU/ DEBA,49,40-49,ND.
+Male,2002-05-12,samsoncelestine495@gmail.com,National Diploma,Community Health,2.0,2024-10,GOMBE,GOMBE,PANTAMI,NIGER,SHIRORO,22,20-29,ND.
+Female,1974-08-12,hafsatmuhammadjika@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Health Education,2.0,2024-03,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,50,50-59,Degree
+Female,1984-02-01,rhodasaidu7@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Arts,2.0,2005-07,GOMBE,GOMBE,,GOMBE,GOMBE,41,40-49,GSCE
+Female,1979-12-04,halimaahmedkole@gmail.com,Higher National Diploma (HND),Community Health,2.0,2022-09,GOMBE,GOMBE,,GOMBE,GOMBE,45,40-49,HND
+Female,1981-10-27,kaunasaleh1981@gmail.com,National Diploma,Community Health,2.0,2022-05,GOMBE,AKKO,,GOMBE,KALTUNGO,43,40-49,ND.
+Female,2000-01-01,zainabisahalawi@gmail.com,National Diploma,Community Health,2.0,2019-07,GOMBE,GOMBE,,GOMBE,GOMBE,25,20-29,ND.
+Female,1978-12-13,elsyabdu@gmail.com,Primary School Certificate,Primary Education,2.0,1999-07,GOMBE,AKKO,GARKO,GOMBE,SHONGOM,46,40-49,Pr. Cert.
+Female,1990-01-01,falilahabdullahi29@gmail.com,Primary School Certificate,Primary Education,2.0,2006-11,GOMBE,GOMBE,,GOMBE,GOMBE,35,30-39,Pr. Cert.
+Male,1999-04-01,aadamuabdullahi29@gmail.com,National Diploma,Medical Laboratory Technology,2.0,2021-08,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,25,20-29,ND.
+Female,2001-08-01,ashiruyauhassana@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Juniour Secondary Education,2.0,2020-06,GOMBE,GOMBE,,GOMBE,GOMBE,23,20-29,GSCE
+Male,1987-08-20,sulaimanadamu31@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Economics,2.0,2015-11,GOMBE,GOMBE,BOLARI WEST,GOMBE,GOMBE,37,30-39,Degree
+Female,1999-06-15,maryamaabdullahi38@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2011-06,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,25,20-29,GSCE
+Female,2001-01-02,hauwauumar912@gmail.com,National Diploma,Community Health,2.0,2023-12,GOMBE,GOMBE,KUMBIYA - KUMBIYA,GOMBE,YALMALTU/ DEBA,24,20-29,ND.
+Female,1984-02-01,08030273014@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2007-07,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,41,40-49,GSCE
+Female,1990-01-01,shafyu17@gmail.com,National Diploma,Community Health,2.0,2019-09,GOMBE,GOMBE,,GOMBE,GOMBE,35,30-39,ND.
+Female,1999-11-22,yunusafatima352@gmail.com,National Diploma,Community Health,2.0,2020-11,GOMBE,GOMBE,JEKA DAFARI,GOMBE,GOMBE,25,20-29,ND.
+Female,1989-02-17,hajaramuhd8@gmail.com,National Diploma,Environmental Health,2.0,2014-06,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,36,30-39,ND.
+Female,1995-04-05,nafisaabdullahiabbayo5552@gmail.com,National Diploma,Health Administration And Management,2.0,2018-04,GOMBE,GOMBE,JEKA DAFARI,GOMBE,GOMBE,29,20-29,ND.
+Female,2004-04-25,zainabayuba767@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2023-07,GOMBE,GOMBE,JEKA DAFARI,GOMBE,GOMBE,20,20-29,GSCE
+Female,1980-01-01,aishatusabo83@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Arts,2.0,2012-06,GOMBE,GOMBE,,GOMBE,GOMBE,45,40-49,GSCE
+Female,1999-05-16,wasiyyaisah3773@gmail.com,National Certificate In Education (NCE),Education,2.0,2019-10,GOMBE,GOMBE,BOLARI EAST,GOMBE,GOMBE,25,20-29,NCE
+Female,1995-07-30,aishatualhassangirbo@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Social Sciences,2.0,2017-07,GOMBE,GOMBE,,GOMBE,GOMBE,29,20-29,GSCE
+Male,2000-08-01,nazifimuazu101@gmail.com,National Diploma,Environmental Health,2.0,2021-11,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,24,20-29,ND.
+Female,1970-01-01,ummuabubakar@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,1987-07,GOMBE,GOMBE,JEKA DAFARI,GOMBE,GOMBE,55,50-59,GSCE
+Female,1985-11-11,phekmyluv@gmail.com,Certificate,Community Health,2.0,2005-06,GOMBE,GOMBE,BOLARI EAST,GOMBE,YALMALTU/ DEBA,39,30-39,Cert
+Female,1994-06-22,florencealha572@gmail.com,National Diploma,Environmental Health Technology,2.0,2021-10,GOMBE,AKKO,GARKO,GOMBE,BILLIRI,30,30-39,ND.
+Female,1992-10-12,hadizaibrahim888@outloot.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2022-07,GOMBE,GOMBE,JEKA DAFARI,GOMBE,GOMBE,32,30-39,GSCE
+Female,1999-01-30,aminaahmadabubakar1818@gmail.com,National Diploma,Dental Health Technology,2.0,2020-11,GOMBE,GOMBE,BOLARI WEST,GOMBE,GOMBE,26,20-29,ND.
+Female,1980-04-14,Balkisuhassan81@gmail.com,National Diploma,Community Health,2.0,2018-09,GOMBE,GOMBE,,GOMBE,GOMBE,44,40-49,ND.
+Female,1997-12-19,aishatuabubakarabdullahi6453@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2021-06,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,27,20-29,GSCE
+Male,2002-01-01,adamumuhammadustaz@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2014-07,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,23,20-29,GSCE
+Female,2004-12-07,aminaabubakar@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2023-12,GOMBE,GOMBE,,GOMBE,GOMBE,20,20-29,GSCE
+Female,1998-01-01,layuzagarba@gmail.com,Certificate,Environmental Health,2.0,2012-10,GOMBE,GOMBE,,GOMBE,GOMBE,27,20-29,Cert
+Female,1988-04-04,fatimaahmadkhalid63@gmail.com,National Diploma,Community Health,2.0,2022-01,GOMBE,AKKO,,GOMBE,YALMALTU/ DEBA,36,30-39,ND.
+Female,1994-12-07,sdyjoji@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2011-06,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,30,30-39,GSCE
+Female,1992-03-14,abubakaraishah426@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2011-07,GOMBE,GOMBE,SHAMAKI,GOMBE,,32,30-39,GSCE
+Female,1992-12-04,aishatuadamusalisu@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2017-06,GOMBE,GOMBE,,GOMBE,GOMBE,32,30-39,GSCE
+Female,1991-03-25,halima.nafiu@gmail.com,National Diploma,Nurse/Midwife,2.0,2024-05,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,33,30-39,ND.
+Female,1996-04-11,rabiatumuhammadabubaka@gmail.com,National Diploma,Dental Health Technology,2.0,2019-09,GOMBE,AKKO,GARKO,GOMBE,GOMBE,28,20-29,ND.
+Female,1994-05-22,hadizaidris041@gmail.com,Higher National Diploma (HND),Environmental Health Technology,2.0,2019-06,GOMBE,GOMBE,,GOMBE,GOMBE,30,30-39,HND
+Female,1992-10-29,rashidamuazusani@gmail.com,National Diploma,Environmental Health Technology,2.0,2021-08,GOMBE,GOMBE,JEKA DAFARI,GOMBE,GOMBE,32,30-39,ND.
+Female,1998-03-26,hassanayshert@gmail.com,National Diploma,Environmental Health Technology,2.0,2019-10,GOMBE,AKKO,,GOMBE,GOMBE,26,20-29,ND.
+Female,1997-07-23,zahrauahmad50@gmail.com,National Diploma,Environmental Health,2.0,2020-06,GOMBE,GOMBE,HERWAGANA,GOMBE,GOMBE,27,20-29,ND.
+Male,1976-04-24,yaranduwa@gmail.com,National Diploma,Community Health,2.0,2021-09,GOMBE,YALMALTU/ DEBA,,GOMBE,YALMALTU/ DEBA,48,40-49,ND.
+Female,1997-06-06,khadijahahmad6@gmail.com,National Diploma,Environmental Health,2.0,2018-10,GOMBE,GOMBE,,GOMBE,GOMBE,27,20-29,ND.
+Male,1978-05-19,umarsalama86@gmail.com,Certificate,,2.0,2001-04,GOMBE,GOMBE,DAWAKI,GOMBE,GOMBE,46,40-49,Cert
+Female,2000-04-05,halimabubakar2001@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2019-07,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,24,20-29,GSCE
+Male,1984-02-26,mbahmad97@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Public Health,2.0,2015-12,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,41,40-49,Degree
+Female,1988-10-25,faizajibirinmaaji@gmail.com,National Diploma,Community Health,2.0,2022-09,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,36,30-39,ND.
+Female,1991-04-06,aishatmuazu51@gmail.com,Certificate,Nurse/Midwife,2.0,2012-03,GOMBE,AKKO,,GOMBE,GOMBE,33,30-39,Cert
+Male,1998-03-23,kabirumuhammad4676@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2017-07,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,26,20-29,GSCE
+Male,1983-01-13,harunaumar15614040@gmail.com,National Diploma,Science Lab. Technology,2.0,2015-12,GOMBE,GOMBE,SHAMAKI,GOMBE,KWAMI,42,40-49,ND.
+Female,1999-08-25,maryamahmadabdullahi19@gmail.com,National Diploma,Medical Laboratory Technology,2.0,2023-10,GOMBE,GOMBE,,GOMBE,GOMBE,25,20-29,ND.
+Female,1980-02-22,HAUWAYUGUDA8@GMAIL.COM,National Diploma,Community Health,2.0,2023-10,GOMBE,GOMBE,,GOMBE,GOMBE,45,40-49,ND.
+Male,1990-07-22,hassanjoji1990@gmail.com,National Diploma,Environmental Health,2.0,2012-12,GOMBE,GOMBE,,GOMBE,GOMBE,34,30-39,ND.
+Female,1997-09-15,hadizausman3441@gmail.com,National Diploma,Community Health,2.0,2019-12,GOMBE,GOMBE,SHAMAKI,GOMBE,AKKO,27,20-29,ND.
+Female,1992-09-23,maryamabubakarbello1992@gmail.com,National Diploma,Community Health,2.0,2023-11,GOMBE,GOMBE,,GOMBE,GOMBE,32,30-39,ND.
+Female,1970-12-29,hannatumohammed997@gmail.com,National Diploma,Community Health,2.0,2014-07,GOMBE,GOMBE,HERWAGANA,GOMBE,KALTUNGO,54,50-59,ND.
+Female,1999-01-02,zainabdanfodio17@gmail.com,National Diploma,Medical Laboratory Technology,2.0,2023-09,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,26,20-29,ND.
+Male,1989-06-06,bellobaturenasir@gmail.com,Higher National Diploma (HND),,2.0,2019-11,GOMBE,GOMBE,JEKA DAFARI,GOMBE,GOMBE,35,30-39,HND
+Female,1975-12-20,rabiabdullahi95@gmail.com,National Diploma,Nurse/Midwife,2.0,2017-03,GOMBE,AKKO,GARKO,GOMBE,SHONGOM,49,40-49,ND.
+Female,2003-11-26,aminamuhdayuba2020@gmail.com,National Diploma,Community Health,2.0,2024-10,GOMBE,GOMBE,BOLARI EAST,GOMBE,GOMBE,21,20-29,ND.
+Female,2000-04-13,istakisannah2@gmail.com,National Diploma,Midwifery,2.0,2023,GOMBE,BALANGA,NYUWAR / JESSU,GOMBE,BALANGA,24,20-29,ND.
+Female,1992-06-26,rashidaabubakarumar23@gmail.com,Certificate,Environmental Health,2.0,2013-02,GOMBE,GOMBE,SHAMAKI,GOMBE,BALANGA,32,30-39,Cert
+Male,2002-08-22,nehemiahhassan2022@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2020-07,GOMBE,AKKO,GARKO,GOMBE,BALANGA,22,20-29,GSCE
+Female,1973-09-25,yohannanartha777@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Arts,2.0,1990-11,GOMBE,AKKO,GARKO,GOMBE,YALMALTU/ DEBA,51,50-59,GSCE
+Female,1998-09-20,ibgarbameelart@gmail.com,National Diploma,Medical Laboratory Technology,2.0,2023-10,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,26,20-29,ND.
+Female,1982-07-05,aishaadamu754@gmail.com,National Diploma,Community Health,2.0,2003-12,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,42,40-49,ND.
+Female,1979-11-19,aishapindiga8695@gmail.com,National Diploma,Environmental Health Technology,2.0,1999-01,GOMBE,GOMBE,,GOMBE,GOMBE,45,40-49,ND.
+Male,1973-02-20,abdulmuminijalo219@gmail.com,National Diploma,Community Health,2.0,2008-11,GOMBE,AKKO,GARKO,GOMBE,GOMBE,52,50-59,ND.
+Female,1996-11-16,sadiyaishaq14@gmail.com,National Diploma,Community Health,2.0,2015-10,GOMBE,GOMBE,,GOMBE,GOMBE,28,20-29,ND.
+Female,1980-03-30,orphanabubakardogo@gmail.com,Certificate,Environmental Health Technology,2.0,2008-01,GOMBE,AKKO,,GOMBE,GOMBE,44,40-49,Cert
+Female,1990-01-02,asiyaahmad6467@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2018-06,GOMBE,GOMBE,BAJOGA,GOMBE,GOMBE,35,30-39,GSCE
+Female,2000-05-23,musahauwa8199@gmail.com,National Diploma,Health Education And Promotion,2.0,2020,GOMBE,AKKO,GARKO,GOMBE,GOMBE,24,20-29,ND.
+Female,1996-08-28,aishatulawanisah24@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2014-07,GOMBE,GOMBE,JEKA DAFARI,GOMBE,GOMBE,28,20-29,GSCE
+Female,1978-09-25,bintamkallamu111@gmail.com,National Diploma,Community Health,2.0,2019-01,GOMBE,AKKO,,GOMBE,GOMBE,46,40-49,ND.
+Female,1995-08-08,safiyaabdul8895@gmail.com,National Diploma,Environmental Health,2.0,2017-11,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,29,20-29,ND.
+Female,2000-07-02,hussainaismail78@gmail.com,Certificate,Environmental Health,2.0,2022-09,GOMBE,GOMBE,BOLARI EAST,GOMBE,BALANGA,24,20-29,Cert
+Female,1998-04-10,aminayakubu0369@gmail.com,National Diploma,Community Health,2.0,2022,GOMBE,GOMBE,NASARAWA,GOMBE,GOMBE,26,20-29,ND.
+Female,2000-01-23,abdullahikarambahafsat@gmail.com,National Diploma,Community Health,2.0,2019-09,GOMBE,GOMBE,AJIYA,GOMBE,GOMBE,25,20-29,ND.
+Female,2000-11-15,kishjuliana106@gmail.com,National Diploma,Pharmacy,2.0,2024-06,GOMBE,AKKO,GARKO,GOMBE,AKKO,24,20-29,ND.
+Female,1974-08-18,rabiahmad1974@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Health Attendant (HA),2.0,1989-01,GOMBE,GOMBE,,GOMBE,GOMBE,50,50-59,GSCE
+Female,1990-12-06,zasadiq1@gmail.com,National Diploma,Environmental Health,2.0,2014-07,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,34,30-39,ND.
+Female,1992-02-22,fauziyaadamumuhammed4@gmail.com,National Diploma,Environmental Health Technology,2.0,2021,GOMBE,GOMBE,NASARAWA,GOMBE,GOMBE,33,30-39,ND.
+Female,2001-08-20,hasiyaumar087@gmail.com,Certificate,Community Health,2.0,2023-12,GOMBE,GOMBE,BOLARI EAST,GOMBE,GOMBE,23,20-29,Cert
+Female,1982-07-05,aishatuadamu754@gmail.com,National Diploma,Community Health,2.0,2003-12,GOMBE,GOMBE,,GOMBE,GOMBE,42,40-49,ND.
+Female,2002-02-02,fatimahaske0@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2020-07,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,23,20-29,GSCE
+Female,1976-10-12,maryamusman6724@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2002-06,GOMBE,GOMBE,KUMBIYA - KUMBIYA,GOMBE,GOMBE,48,40-49,GSCE
+Male,1988-09-07,ammarnafiu78@gmail.com,National Certificate In Education (NCE),Accounting,2.0,2018-03,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,36,30-39,NCE
+Female,2000-09-11,umaimaauwal2000@gmail.com,National Diploma,Community Health,2.0,2023-09,GOMBE,GOMBE,BOLARI EAST,GOMBE,GOMBE,24,20-29,ND.
+Female,1996-08-01,gabannifadilaado@gmail.com,National Diploma,Environmental Health Technology,2.0,2023-09,GOMBE,GOMBE,KUMBIYA - KUMBIYA,GOMBE,KWAMI,28,20-29,ND.
+Female,2003-12-19,hadizaali234@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2021,GOMBE,YALMALTU/ DEBA,KWADON / LIJI / KURBA,BORNO,BAYO,21,20-29,GSCE
+Female,1977-02-22,aishatulamuwaturaki@gmail.com,Certificate,Community Health,2.0,2003-12,GOMBE,GOMBE,,GOMBE,GOMBE,48,40-49,Cert
+Female,1970-07-15,jamilaalkaliyaya@gmail.com,National Diploma,Environmental Health,2.0,2014-03,GOMBE,GOMBE,DAWAKI,GOMBE,GOMBE,54,50-59,ND.
+Male,1989-09-20,najibutrue@gmail.com,National Certificate In Education (NCE),Primary Education,2.0,2017-06,GOMBE,GOMBE,,GOMBE,BALANGA,35,30-39,NCE
+Female,1988-02-25,hannatukefas87@gmail.com,National Diploma,Community Health,2.0,2023,GOMBE,AKKO,GARKO,GOMBE,KALTUNGO,37,30-39,ND.
+Female,1986-09-15,salehsarah663@gmail.com,National Diploma,Community Health,2.0,2017-09,GOMBE,AKKO,AKKO,GOMBE,BALANGA,38,30-39,ND.
+Male,2001-12-22,bellonasirubello1709@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2020-07,GOMBE,GOMBE,DAWAKI,GOMBE,GOMBE,23,20-29,GSCE
+Male,1994-06-16,uthmanmuhammad2g@gmail.com,National Diploma,Environmental Health,2.0,2018-11,GOMBE,GOMBE,AJIYA,GOMBE,GOMBE,30,30-39,ND.
+Male,2002-04-02,muhammadusmanharuna000@gmail.com,Professional Diploma,Community Health,2.0,2019-07,GOMBE,GOMBE,HERWAGANA,GOMBE,GOMBE,22,20-29,ND
+Female,1991-02-27,hauwamuazu29@gmail.com,Certificate,Environmental Health,2.0,2015-11,GOMBE,GOMBE,BOLARI EAST,GOMBE,GOMBE,34,30-39,Cert
+Female,1990-01-01,jamilahassan3757@gmail.com,National Certificate In Education (NCE),,2.0,2021-09,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,35,30-39,NCE
+Male,2002-04-02,usmanharunamuhammad000@gmail.com,Professional Diploma,Community Health,2.0,2019-07,GOMBE,GOMBE,KUMBIYA - KUMBIYA,GOMBE,GOMBE,22,20-29,ND
+Female,1982-04-11,fatimaabdulsalam145@gmail.com,National Diploma,Community Health,2.0,2003-01,GOMBE,GOMBE,,GOMBE,GOMBE,42,40-49,ND.
+Male,1992-02-28,teteahmedmohammed@gmail.com,National Diploma,Health Information Management,2.0,2020,GOMBE,GOMBE,BOLARI EAST,GOMBE,KALTUNGO,33,30-39,ND.
+Female,1992-01-01,naimaharuna36@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2017-07,GOMBE,GOMBE,BOLARI WEST,GOMBE,GOMBE,33,30-39,GSCE
+Female,1985-12-01,fatsumaahmadu81@gmail.com,National Diploma,Environmental Health,2.0,2006-10,GOMBE,GOMBE,,GOMBE,GOMBE,39,30-39,ND.
+Male,1998-07-20,abdulmalikbadamasi415@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2017,GOMBE,GOMBE,JEKA DAFARI,GOMBE,GOMBE,26,20-29,GSCE
+Male,2001-10-08,jabirsdauda@gmail.com,Professional Diploma,Medical Laboratory Technology,2.0,2020-11,GOMBE,GOMBE,AJIYA,GOMBE,KWAMI,23,20-29,ND
+Male,1988-06-20,mohammedsalehm69@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Others,2.0,2023-09,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,36,30-39,Degree
+Female,1982-01-01,hajaraadamu8888@gmail.com,Primary School Certificate,Primary Education,2.0,1994-02,GOMBE,GOMBE,DAWAKI,GOMBE,GOMBE,43,40-49,Pr. Cert.
+Male,1976-03-25,UMARACHIROMA@GMAIL.COM,Higher National Diploma (HND),Community Health,1.0,2020-11,GOMBE,GOMBE,,GOMBE,GOMBE,48,40-49,HND
+Male,1987-09-30,mildredseth@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2004,GOMBE,AKKO,AKKO,GOMBE,SHONGOM,37,30-39,GSCE
+Male,1979-08-16,HASSANADAMU3973@GMAIL.COM,National Diploma,Community Health,2.0,2008-01,GOMBE,GOMBE,,GOMBE,GOMBE,45,40-49,ND.
+Female,1968-09-10,ramatuabdullahi231@gmail.com,National Diploma,Community Health,2.0,2019-01,GOMBE,GOMBE,,GOMBE,GOMBE,56,50-59,ND.
+Male,1997-11-21,umarmusa6359@gmail.com,National Diploma,Environmental Health Technology,2.0,2019-09,GOMBE,GOMBE,,GOMBE,GOMBE,27,20-29,ND.
+Female,1993-11-24,aeeshusman0@gmail.com,National Diploma,Community Health,2.0,2022-09,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,31,30-39,ND.
+Male,1968-01-01,yusufladangombe863@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,1992-07,GOMBE,GOMBE,JEKA DAFARI,GOMBE,GOMBE,57,50-59,GSCE
+Male,1967-04-20,JUMAADAMU221@GMAIL.COM,Primary School Certificate,Primary Education,2.0,2001-05,GOMBE,GOMBE,,GOMBE,GOMBE,57,50-59,Pr. Cert.
+Male,1991-10-23,samailamuhammadsaleh@gmail.com,National Diploma,Community Health,2.0,2012-12,GOMBE,GOMBE,BOLARI EAST,GOMBE,GOMBE,33,30-39,ND.
+Male,1980-11-05,yamuhammad664@gmail.com,National Diploma,Community Health,2.0,2019-01,GOMBE,AKKO,,GOMBE,GOMBE,44,40-49,ND.
+Female,1999-01-01,hannatumuhammadsaeed77@gmail.com,National Diploma,Medical Laboratory Technology,2.0,2023-04,GOMBE,AKKO,GARKO,GOMBE,,26,20-29,ND.
+Female,1999-11-10,zainabumarhassan6@gmail.com,National Diploma,Environmental Health Technology,2.0,2023-11,GOMBE,GOMBE,BOLARI EAST,GOMBE,GOMBE,25,20-29,ND.
+Male,2002-10-08,adamumusaadamu6722@gmail.com,National Diploma,Dental Health Technology,2.0,2023,GOMBE,GOMBE,NASARAWA,GOMBE,AKKO,22,20-29,ND.
+Female,2001-10-12,hajara0721@gmail.com,Professional Diploma,Medical Laboratory Technology,2.0,2020-10,GOMBE,GOMBE,,GOMBE,KWAMI,23,20-29,ND
+Female,2005-04-04,fatimaabubakar5050@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2023-06,GOMBE,AKKO,GARKO,GOMBE,GOMBE,19,< 20,GSCE
+Male,2000-04-23,aliyuanas445@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Biology/Chemistry,2.0,2024,GOMBE,GOMBE,BOLARI EAST,GOMBE,GOMBE,24,20-29,Degree
+Male,1984-11-11,danlamigarba112@gmail.cm,National Diploma,Environmental Health Technology,2.0,2020-09,GOMBE,GOMBE,,GOMBE,GOMBE,40,40-49,ND.
+Female,1980-02-20,fatsumauabubakarl@gmail.com,Primary School Certificate,Primary Education,2.0,2002-07,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,45,40-49,Pr. Cert.
+Male,1995-10-06,badamasiaminu67@gmail.com,Certificate,Tropical Health and Disease Control,2.0,2017-07,GOMBE,AKKO,GARKO,GOMBE,BALANGA,29,20-29,Cert
+Male,1981-06-01,aahmedsuleiman443@gmail.com,Certificate,Community Health,2.0,2009-12,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,43,40-49,Cert
+Female,2002-01-18,mathewmary516@gmail.com,National Diploma,Health Information Management,2.0,2024-10,GOMBE,GOMBE,BOLARI EAST,GOMBE,SHONGOM,23,20-29,ND.
+Female,1992-01-11,aishamaikusa20@gmail.com,National Diploma,Community Health,2.0,2019-11,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,33,30-39,ND.
+Female,2004-01-01,maryamumar9028@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Arts,2.0,2023-07,GOMBE,GOMBE,BOLARI EAST,GOMBE,GOMBE,21,20-29,GSCE
+Female,2001-11-09,hafsatabubakar5723@gmail.com,National Diploma,Environmental Health Technology,2.0,2021-11,GOMBE,GOMBE,BOLARI EAST,GOMBE,GOMBE,23,20-29,ND.
+Male,1988-06-16,drabdullahibello@gmail.com,Certificate,Community Health,2.0,2012-09,GOMBE,GOMBE,,GOMBE,GOMBE,36,30-39,Cert
+Female,1981-08-02,zainabyahuzamuhammad@gmail.com,National Diploma,Community Health,2.0,2016-09,GOMBE,GOMBE,HERWAGANA,GOMBE,GOMBE,43,40-49,ND.
+Female,1998-06-03,lydiaalizubairu@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Sociology,2.0,2023-06,GOMBE,GOMBE,JEKA DAFARI,GOMBE,BILLIRI,26,20-29,Degree
+Female,2000-01-01,firdausibarde@gmail.com,National Diploma,Community Health,2.0,2022,GOMBE,GOMBE,,GOMBE,GOMBE,25,20-29,ND.
+Male,1989-10-17,muhammadshafiu28@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2008-01,GOMBE,GOMBE,,GOMBE,GOMBE,35,30-39,GSCE
+Female,2002-05-11,hauwaahmad700@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Arts,2.0,2018-07,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,22,20-29,GSCE
+Female,2000-11-17,khadijaadamukhadija5@gmail.com,Primary School Certificate,Primary Education,2.0,2005-11,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,24,20-29,Pr. Cert.
+Male,1997-02-24,abdulrahmanmijinyawa@gmail.com,National Diploma,Community Health,2.0,2018-09,GOMBE,GOMBE,,GOMBE,GOMBE,28,20-29,ND.
+Male,1985-05-22,abubakardauda1966@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Arts,2.0,2003-07,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,39,30-39,GSCE
+Female,1988-03-12,sabofatimaadamu12@gmail.com,National Diploma,Community Health,2.0,2022-01,GOMBE,GOMBE,,GOMBE,GOMBE,36,30-39,ND.
+Female,1999-04-09,hauwaudanamar99@gmail.com,National Diploma,Environmental Health,2.0,2020-07,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,25,20-29,ND.
+Male,1979-07-01,myahayaenvironmental@gmail.com,National Diploma,Environmental Health Technology,2.0,2003-12,GOMBE,GOMBE,,GOMBE,GOMBE,45,40-49,ND.
+Female,1995-04-19,aishatuumarabdullahi360@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Health Attendant (HA),2.0,2014-01,GOMBE,GOMBE,,GOMBE,GOMBE,29,20-29,GSCE
+Female,1993-07-23,hannybash1993@gmail.com,National Diploma,Medical Laboratory Technology,2.0,2022-10,GOMBE,GOMBE,JEKA DAFARI,GOMBE,FUNAKAYE,31,30-39,ND.
+Female,1996-11-12,aishatumuhammadmanga9@gmail.com,Certificate,Environmental Health,2.0,2018-07,GOMBE,GOMBE,KUMBIYA - KUMBIYA,GOMBE,GOMBE,28,20-29,Cert
+Female,1989-05-30,hafsatabubakarbolari@gmail.com,National Diploma,Community Health,2.0,2023-10,GOMBE,GOMBE,,GOMBE,GOMBE,35,30-39,ND.
+Female,1996-10-03,abdulhamidkhadija25@gmail.com,National Diploma,Community Health,2.0,2019-01,GOMBE,GOMBE,,GOMBE,GOMBE,28,20-29,ND.
+Female,2006-03-27,08086622857@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2023-07,GOMBE,GOMBE,,GOMBE,GOMBE,18,< 20,GSCE
+Female,1997-05-22,ADAMAILIYASUKALLU@GMAIL.COM,National Diploma,Community Health,2.0,2022-01,GOMBE,GOMBE,,GOMBE,KWAMI,27,20-29,ND.
+Female,1994-01-01,saadatuumar793@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2016-06,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,31,30-39,GSCE
+Female,1986-01-01,habibalukman853@gmail.com,National Diploma,Community Health,2.0,2021-01,GOMBE,AKKO,,GOMBE,GOMBE,39,30-39,ND.
+Female,1999-11-30,aishatudanladi52@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2018-06,GOMBE,AKKO,AKKO,GOMBE,SHONGOM,25,20-29,GSCE
+Male,1984-03-05,kyari900@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Health Education And Promotion,2.0,2016-12,GOMBE,GOMBE,,GOMBE,GOMBE,41,40-49,Degree
+Female,2001-10-12,ayubaummusalma@gmail.com,National Diploma,Pharmacy,2.0,2023-10,GOMBE,GOMBE,BOLARI EAST,GOMBE,GOMBE,23,20-29,ND.
+Female,1996-01-20,mallump8592@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Medical Laboratory Technology,2.0,2023-09,GOMBE,AKKO,GARKO,GOMBE,BILLIRI,29,20-29,Degree
+Male,1998-04-14,atj228284@gmail.com,National Diploma,Health Education And Promotion,2.0,2020,GOMBE,GOMBE,DAWAKI,GOMBE,GOMBE,26,20-29,ND.
+Male,1994-07-02,aminuabubakargm@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2017-06,GOMBE,GOMBE,DAWAKI,GOMBE,GOMBE,30,30-39,GSCE
+Female,1992-09-11,sadiyahassanadamu1@gmail.com,National Diploma,Environmental Health,2.0,2022-10,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,32,30-39,ND.
+Female,1998-08-21,hajaraabubakar6460@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Others,2.0,2018-02,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,26,20-29,GSCE
+Female,1998-09-14,fuddausiisah@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Others,2.0,2018-11,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,26,20-29,GSCE
+Female,1983-06-03,hadiza7639@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2011-07,GOMBE,AKKO,GARKO,GOMBE,BALANGA,41,40-49,GSCE
+Female,1996-06-02,asiyadahiru83@gmail.com,National Diploma,Community Health,2.0,2022-06,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,28,20-29,ND.
+Female,1994-04-24,abubakar.jamila213@gmail.com,National Diploma,Community Health,2.0,2019-11,GOMBE,GOMBE,BOLARI WEST,GOMBE,GOMBE,30,30-39,ND.
+Female,1984-04-01,nafisatuadamu41@gmail.com,National Diploma,Community Health,2.0,2022-09,GOMBE,GOMBE,,GOMBE,GOMBE,40,40-49,ND.
+Female,1990-04-05,rabiabdullahi@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2008-07,GOMBE,AKKO,,GOMBE,GOMBE,34,30-39,GSCE
+Male,1995-08-29,umarabdullahihussaini31@gmail.com,Certificate,Community Health,2.0,2019-08,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,29,20-29,Cert
+Male,1994-06-01,sabosafiyanu@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Biology,2.0,2021-07,GOMBE,GOMBE,BOLARI EAST,GOMBE,,30,30-39,Degree
+Female,2002-06-09,hauwaumusaharuna@gmail.com,Professional Diploma,Community Health,2.0,2021-10,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,22,20-29,ND
+Male,1982-10-01,musalab63@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Medical Laboratory Science,2.0,2016-11,GOMBE,GOMBE,DAWAKI,GOMBE,GOMBE,42,40-49,Degree
+Female,1991-09-15,muhammadummul2020@gmail.com,National Diploma,Community Health,2.0,2018-12,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,33,30-39,ND.
+Male,1988-08-08,abdulhamidmlamido@gmail.com,Higher National Diploma (HND),Public Health,2.0,2022-05,GOMBE,GOMBE,,GOMBE,GOMBE,36,30-39,HND
+Female,2002-03-10,zainabmohammed09160@gmail.com,National Diploma,Environmental Health,2.0,2023-09,GOMBE,GOMBE,SHAMAKI,GOMBE,KWAMI,22,20-29,ND.
+Female,1983-04-22,bitrusgodiya079@gmail.com,National Diploma,Health Information Management,2.0,2023-04,GOMBE,GOMBE,,GOMBE,GOMBE,41,40-49,ND.
+Female,1993-06-25,hauwauismail96@gmail.com,National Diploma,Environmental Health Technology,2.0,2017-10,GOMBE,GOMBE,NASARAWA,GOMBE,GOMBE,31,30-39,ND.
+Female,2006-03-27,nafisaumarhassan@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2017-07,GOMBE,GOMBE,BOLARI EAST,GOMBE,GOMBE,18,< 20,GSCE
+Female,2003-11-11,safiyyamuhammadlamido@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2022-07,GOMBE,GOMBE,,GOMBE,GOMBE,21,20-29,GSCE
+Male,1995-09-09,salmanumuhammadnaseer@gmail.com,Higher National Diploma (HND),Environmental Health Technology,2.0,2020-08,GOMBE,GOMBE,BOLARI EAST,GOMBE,GOMBE,29,20-29,HND
+Female,2000-09-12,zauwalgarba@gmail.com,National Diploma,Health Education And Promotion,2.0,2020-03,GOMBE,AKKO,GARKO,GOMBE,GOMBE,24,20-29,ND.
+Male,1998-08-05,hassansunusi180@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2020-07,GOMBE,GOMBE,,GOMBE,GOMBE,26,20-29,GSCE
+Male,1984-04-20,bashirmgj42@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Public Health,2.0,2023-07,GOMBE,GOMBE,,GOMBE,GOMBE,40,40-49,Degree
+Female,1993-05-15,fiddygurama62@gmail.com,National Diploma,Community Health,2.0,2022-10,GOMBE,GOMBE,AJIYA,GOMBE,GOMBE,31,30-39,ND.
+Male,1990-05-09,abubakarmijinyawa96@gmail.com,National Diploma,Dental Health Technology,2.0,2017-11,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,34,30-39,ND.
+Male,1984-12-27,dimangarba81@gmail.com,Certificate,Community Health,2.0,2024-09,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,40,40-49,Cert
+Male,1980-06-09,mohammedsaidusulaiman67@gmail.com,Higher National Diploma (HND),Community Health,2.0,2021-09,GOMBE,AKKO,GARKO,GOMBE,GOMBE,44,40-49,HND
+Female,1999-11-28,danladipelima8@gmail.com,National Diploma,Nursing,2.0,2023-11,GOMBE,GOMBE,,GOMBE,SHONGOM,25,20-29,ND.
+Female,1989-11-11,aishashuaibu563@gmail.com,National Diploma,Community Health,2.0,2023-10,GOMBE,GOMBE,BOLARI EAST,GOMBE,GOMBE,35,30-39,ND.
+Male,1999-08-08,adamuaminu@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2011-07,GOMBE,GOMBE,DAWAKI,GOMBE,GOMBE,25,20-29,GSCE
+Female,1990-08-04,rukayyaabubakarkole6421@gmail.com,Certificate,Environmental Health,2.0,2011-10,GOMBE,AKKO,GARKO,GOMBE,DUKKU,34,30-39,Cert
+Male,1983-12-27,ibrahimibs349@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Environmental Health Technology,2.0,2022-11,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,41,40-49,Degree
+Male,2000-12-18,mubarakspecial57@gmail.com,National Diploma,English Education,2.0,2021-01,GOMBE,GOMBE,,GOMBE,GOMBE,24,20-29,ND.
+Male,1994-11-15,ahmedadamuabubakar0029@gmail.com,National Diploma,Environmental Health,2.0,2020-06,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,30,30-39,ND.
+Female,1981-02-17,altenemagaji584@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2010-07,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,44,40-49,GSCE
+Female,1993-03-03,mohammedmaryam835648@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2022-07,GOMBE,GOMBE,,GOMBE,GOMBE,32,30-39,GSCE
+Female,1992-04-26,zainababba4291@gmail.com,National Certificate In Education (NCE),Biology,2.0,2018-11,GOMBE,GOMBE,BAJOGA,GOMBE,GOMBE,32,30-39,NCE
+Male,1988-09-11,muhammadmaigari6@gmail.com,Higher National Diploma (HND),Public Health,2.0,2021-01,GOMBE,GOMBE,,GOMBE,GOMBE,36,30-39,HND
+Male,1990-07-27,zaiyanuumar77@gmail.com,Certificate,Dental Health Technology,2.0,2017-10,GOMBE,GOMBE,,GOMBE,GOMBE,34,30-39,Cert
+Female,1990-12-15,ummulaimanayahayasdi@gmail.com,Certificate,Nurse/Midwife,2.0,2015-03,GOMBE,GOMBE,,GOMBE,GOMBE,34,30-39,Cert
+Female,1993-09-26,sahalatusale@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Others,2.0,2010-09,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,31,30-39,GSCE
+Female,1993-09-23,aishatukasimu02@gmail.com,Professional Diploma,Community Health,2.0,2016-07,GOMBE,GOMBE,JEKA DAFARI,GOMBE,GOMBE,31,30-39,ND
+Female,1990-10-10,gddsaa12@gmail.com,National Diploma,Environmental Health Technology,2.0,2017-08,GOMBE,AKKO,GARKO,GOMBE,GOMBE,34,30-39,ND.
+Male,1975-04-21,auduahmadu2020@gmial.com,National Diploma,Environmental Health Technology,2.0,2015-10,GOMBE,GOMBE,DAWAKI,GOMBE,GOMBE,49,40-49,ND.
+Female,1994-08-02,sarayasamson@gmail.com,Certificate,Community Health,2.0,2022-12,GOMBE,GOMBE,SHAMAKI,GOMBE,KALTUNGO,30,30-39,Cert
+Male,1992-03-02,rabiuusman707@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Accounting,2.0,2021-09,GOMBE,GOMBE,BAJOGA,GOMBE,GOMBE,33,30-39,Degree
+Female,2001-03-15,hafsatmuazu811@gmail.com,National Diploma,Health Education And Promotion,2.0,2023-10,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,23,20-29,ND.
+Female,1989-12-27,hadizaisah295@gmail.com,National Diploma,Health Information Management,2.0,2014-07,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,35,30-39,ND.
+Male,1999-06-15,abbakarbanjul@gmail.com,National Diploma,Community Health,2.0,2019-10,GOMBE,GOMBE,SHAMAKI,GOMBE,KWAMI,25,20-29,ND.
+Female,1990-09-01,haishatu68@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Social Sciences,2.0,2008-07,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,34,30-39,GSCE
+Female,1992-10-23,bnadamfaiza@gmail.com,National Diploma,Health Information Management,2.0,2018-04,GOMBE,GOMBE,,GOMBE,GOMBE,32,30-39,ND.
+Male,1979-07-11,auwaluadamudukku@gmail.com,National Diploma,Environmental Health,2.0,2011-01,GOMBE,GOMBE,,GOMBE,GOMBE,45,40-49,ND.
+Female,1984-12-19,patentiencengwaldi@gmail.com,National Diploma,Community Health,2.0,2019-11,GOMBE,GOMBE,,GOMBE,,40,40-49,ND.
+Female,1970-04-05,hadizajibrinadamu124@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Community Health,2.0,2021-01,GOMBE,GOMBE,,GOMBE,GOMBE,54,50-59,Degree
+Female,2001-01-25,fatimamuhammadabbati74@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2018-06,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,24,20-29,GSCE
+Male,1977-05-11,abufuad@gmail.com,National Diploma,Community Health,2.0,2022-01,GOMBE,AKKO,,GOMBE,GOMBE,47,40-49,ND.
+Male,2003-09-08,yahayaabdulmumin2021@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2021-07,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,21,20-29,GSCE
+Female,1987-12-26,zainabalamido@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Health Education And Promotion,2.0,2023-08,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,37,30-39,Degree
+Female,1979-03-16,Zainabkuna09@gmail.com,National Diploma,Community Health,2.0,2021-12,GOMBE,GOMBE,,GOMBE,GOMBE,45,40-49,ND.
+Male,1987-06-11,abubakarjalo1106@gmail.com,National Diploma,Community Health,2.0,2022-01,GOMBE,GOMBE,,GOMBE,GOMBE,37,30-39,ND.
+Female,1994-05-30,umaridrishauwau@gmail.com,National Certificate In Education (NCE),Education,2.0,2021-06,GOMBE,GOMBE,SHAMAKI,GOMBE,NAFADA,30,30-39,NCE
+Female,1985-01-01,lauratuidris2@gmail.com,National Diploma,Environmental Health,2.0,2023-12,GOMBE,AKKO,GARKO,GOMBE,GOMBE,40,40-49,ND.
+Male,1985-11-11,inuwaamagaji546@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Community Health,2.0,2021-01,GOMBE,GOMBE,,GOMBE,GOMBE,39,30-39,Degree
+Female,1987-03-08,halimamhdgdm@gmail.com,Certificate,Environmental Health,2.0,2009-10,GOMBE,GOMBE,SHAMAKI,GOMBE,KWAMI,37,30-39,Cert
+Male,1986-06-22,aliyuyahaya736@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Public Health,2.0,2017-11,GOMBE,GOMBE,,GOMBE,GOMBE,38,30-39,Degree
+Female,1992-05-10,bintaabdullahi119@gmail.com,National Diploma,Health Information Management,2.0,2018-06,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,32,30-39,ND.
+Female,1965-09-25,abugaladima5@gmail.com,Primary School Certificate,Primary Education,2.0,1973-07,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,59,50-59,Pr. Cert.
+Male,1972-08-27,yayashetima@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Others,2.0,1995-01,GOMBE,GOMBE,,GOMBE,GOMBE,52,50-59,GSCE
+Female,1996-12-10,salehaisha75@gmail.com,National Diploma,Nursing,2.0,2023-11,GOMBE,AKKO,GARKO,GOMBE,DUKKU,28,20-29,ND.
+Female,1980-01-07,mamanfawas262@gmail.com,Primary School Certificate,Primary Education,2.0,1987-06,GOMBE,GOMBE,BOLARI EAST,GOMBE,GOMBE,45,40-49,Pr. Cert.
+Female,1980-05-03,sahalima734@gmail.com,National Diploma,Community Health,2.0,2022-09,GOMBE,GOMBE,DAWAKI,GOMBE,GOMBE,44,40-49,ND.
+Female,1973-11-05,aishatuusman54@gmail.com,National Diploma,Community Health,2.0,2011-12,GOMBE,AKKO,,GOMBE,KALTUNGO,51,50-59,ND.
+Male,1974-02-12,usmankachalla93@gmail.com,Certificate,Community Health,2.0,1999-01,GOMBE,GOMBE,,GOMBE,GOMBE,51,50-59,Cert
+Male,1993-10-05,abubakarshuaibu366@gmail.com,National Diploma,Community Health,2.0,2018-08,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,31,30-39,ND.
+Female,1991-02-14,suwaibamohammed587@gmail.com,National Diploma,Community Health,2.0,2023-09,GOMBE,GOMBE,BOLARI EAST,GOMBE,GOMBE,34,30-39,ND.
+Male,1974-03-03,FADIMATUMUHAMMAD@GMAIL.COM,National Diploma,Community Health,2.0,2003-01,GOMBE,AKKO,,GOMBE,GOMBE,51,50-59,ND.
+Female,1992-06-20,naimaidris906@gmail.com,National Diploma,Environmental Health Technology,2.0,2023-11,GOMBE,AKKO,,GOMBE,KWAMI,32,30-39,ND.
+Male,1995-01-15,hamisumuhammadusman1902@gmail.com,National Diploma,Health Information Management,2.0,2021-11,GOMBE,GOMBE,DAWAKI,GOMBE,GOMBE,30,30-39,ND.
+Female,1987-12-26,zainaabalamido@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Health Education And Promotion,2.0,2023-08,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,37,30-39,Degree
+Male,1998-12-30,mohammadgidado6@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Others,2.0,2016-01,GOMBE,GOMBE,AJIYA,GOMBE,GOMBE,26,20-29,GSCE
+Female,1970-10-21,abbakarsafiyausman@gmail.com,National Diploma,Community Health,2.0,2007-12,GOMBE,GOMBE,,GOMBE,GOMBE,54,50-59,ND.
+Female,1994-06-15,adamuaishatu57@gmail.com,National Diploma,Dental Health Technology,2.0,2021-06,GOMBE,GOMBE,BAJOGA,GOMBE,GOMBE,30,30-39,ND.
+Male,2001-04-02,abdulrazerk111@gamail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Others,2.0,2021-01,GOMBE,GOMBE,,GOMBE,GOMBE,23,20-29,GSCE
+Female,1990-03-22,aishatuu156@gmail.com,National Diploma,Community Health,2.0,2023-09,GOMBE,GOMBE,,GOMBE,GOMBE,34,30-39,ND.
+Female,1991-01-01,zainabgaladima1903@gmail.com,Professional Diploma,Community Health,2.0,2021-08,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,34,30-39,ND
+Female,1985-05-16,fsuleiman096@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Community Health,2.0,2023-06,GOMBE,GOMBE,,GOMBE,GOMBE,39,30-39,Degree
+Male,1995-04-06,gmichaelkulani@gmail.com,National Certificate In Education (NCE),Education,2.0,2020-01,GOMBE,AKKO,,GOMBE,GOMBE,29,20-29,NCE
+Female,1990-01-01,zabbaudanazumi5@gmail.com,Primary School Certificate,Primary Education,2.0,2013-07,GOMBE,GOMBE,PANTAMI,GOMBE,,35,30-39,Pr. Cert.
+Female,1974-05-16,aishatualiyu370@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Others,2.0,1995-01,GOMBE,GOMBE,,GOMBE,GOMBE,50,50-59,GSCE
+Female,1997-07-22,aishatumusa6015@gmail.com,National Diploma,Science Lab. Technology,2.0,2019-07,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,27,20-29,ND.
+Female,1999-01-27,muhammamuhammadummi@gmail.com,National Diploma,Environmental Health Technology,2.0,2021-01,GOMBE,GOMBE,,GOMBE,GOMBE,26,20-29,ND.
+Female,1992-09-21,yohdogara@gmail.com,National Diploma,Community Health,2.0,2018-09,GOMBE,GOMBE,BAJOGA,GOMBE,BALANGA,32,30-39,ND.
+Female,1995-07-21,hadizamuhammad3232@gmail.com,National Diploma,Community Health,2.0,2023-09,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,29,20-29,ND.
+Female,1975-07-04,YSAADATU932@GMAIL.COM,Primary School Certificate,,2.0,2024-11,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,49,40-49,Pr. Cert.
+Male,2001-12-03,abdulmalikhassanmukaddam@gmail.com,National Diploma,Medical Laboratory Technology,2.0,2023-07,GOMBE,AKKO,GARKO,GOMBE,DUKKU,23,20-29,ND.
+Female,1980-11-03,balkisaidulondon@gmail.com,Certificate,Environmental Health Technology,2.0,2013-01,GOMBE,GOMBE,,GOMBE,GOMBE,44,40-49,Cert
+Female,1982-08-13,07065945359@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Social Sciences,2.0,2000-07,GOMBE,GOMBE,DAWAKI,GOMBE,GOMBE,42,40-49,GSCE
+Male,1995-08-12,aminuhasaan23@gmail.com,National Diploma,Medical Laboratory Technology,2.0,2021-01,GOMBE,GOMBE,,GOMBE,GOMBE,29,20-29,ND.
+Female,1999-09-28,AISHATUMAIGARI1@GMAIL.COM,National Diploma,Community Health,2.0,2022-10,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,25,20-29,ND.
+Male,1990-01-01,salisuabubakar3132@gmail.com,National Diploma,Environmental Health,2.0,2017-09,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,35,30-39,ND.
+Female,1983-01-01,ZAINABUMARALIYU1983@EMAIL.COM,Certificate,Community Health,2.0,2008-12,GOMBE,GOMBE,,GOMBE,GOMBE,42,40-49,Cert
+Female,1973-10-10,hadizadanjuma45@gmail.com,National Diploma,Community Health,2.0,2001-12,GOMBE,GOMBE,SHAMAKI,GOMBE,KWAMI,51,50-59,ND.
+Female,1997-07-12,rashidahashimu620@gmail.com,Certificate,Community Health,2.0,2024-03,GOMBE,AKKO,GARKO,GOMBE,YALMALTU/ DEBA,27,20-29,Cert
+Female,2005-05-31,maimunasulaiman190@gmail.com,Certificate,Midwifery,2.0,2021-05,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,19,< 20,Cert
+Female,1988-01-01,khadijaabubakar006@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Others,2.0,2008-01,GOMBE,GOMBE,,GOMBE,GOMBE,37,30-39,GSCE
+Female,1991-01-01,hadizausman4081@gmail.com,Certificate,Community Health,2.0,2017-09,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,34,30-39,Cert
+Female,2000-07-02,misturaibrahim14@gmail.com,National Diploma,Nutrition And Dietetics,2.0,2020-10,GOMBE,GOMBE,,GOMBE,GOMBE,24,20-29,ND.
+Female,1987-05-15,hawwaadamu37@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2006-07,GOMBE,GOMBE,BAJOGA,GOMBE,GOMBE,37,30-39,GSCE
+Female,2000-05-31,Maikusazainab@gmail.com,National Diploma,Nutrition And Dietetics,2.0,2020-01,GOMBE,GOMBE,,GOMBE,GOMBE,24,20-29,ND.
+Male,2000-01-03,ABDULMUMINIABDULSALAM01@GMAIL.COM,National Diploma,Community Health,2.0,2024-10,GOMBE,GOMBE,,GOMBE,GOMBE,25,20-29,ND.
+Female,2002-01-01,aishatuumarbello46@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2016-07,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,23,20-29,GSCE
+Female,1991-02-07,maimunaibrahimkuna@gmail.com,National Diploma,Health Information Management,2.0,2018-12,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,34,30-39,ND.
+Female,1997-05-09,hauwamuhammadmusa@gmail.com,Certificate,Community Health,2.0,2019-09,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,27,20-29,Cert
+Male,1977-12-12,ismailsabo197@gmail.com,National Diploma,Community Health,2.0,2003-06,GOMBE,GOMBE,,GOMBE,GOMBE,47,40-49,ND.
+Female,1988-05-29,aishatumidris@gmail.com,National Diploma,Environmental Health Technology,2.0,2024-11,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,36,30-39,ND.
+Male,1996-08-01,modibboahmad001@gmail.com,National Diploma,Community Health,2.0,2022-09,GOMBE,GOMBE,,GOMBE,KWAMI,28,20-29,ND.
+Female,1984-08-13,adamufatsumasaidu@gmail.com,National Diploma,Environmental Health,2.0,2020-01,GOMBE,GOMBE,,GOMBE,GOMBE,40,40-49,ND.
+Female,1998-09-21,ibrahimabubakarfatima07@gmail.com,National Diploma,Dental Health Technology,2.0,2019-09,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,26,20-29,ND.
+Female,1992-05-27,faizasunusi2020@gmail.com,National Certificate In Education (NCE),Others,2.0,2016-11,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,32,30-39,NCE
+Male,1985-11-20,abdulkadirabubakar@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Public Health,2.0,2022-04,GOMBE,GOMBE,,GOMBE,GOMBE,39,30-39,Degree
+Female,2001-10-21,naeematabdul63@gmail.com,National Diploma,Community Health,2.0,2022-09,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,23,20-29,ND.
+Female,1996-08-03,fatimagana6646@gmail.com,National Diploma,Health Information Management,2.0,2019-12,GOMBE,GOMBE,,GOMBE,GOMBE,28,20-29,ND.
+Male,1999-12-11,ibrahimbalabarde01@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2017-06,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,25,20-29,GSCE
+Male,1993-01-01,musa07061530549@gmail.com,National Diploma,Dental Health Technology,2.0,2019-07,GOMBE,GOMBE,,GOMBE,GOMBE,32,30-39,ND.
+Female,1999-02-22,habibamuhammadbello319@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Others,2.0,2017-06,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,26,20-29,GSCE
+Male,2000-02-06,ibrahimbalaabubakar5@gmail.com,National Diploma,Health Information Management,2.0,2021-07,GOMBE,GOMBE,,GOMBE,GOMBE,25,20-29,ND.
+Female,1994-08-15,abalkisu327@gmail.com,National Diploma,Health Education And Promotion,2.0,2023-08,GOMBE,GOMBE,,GOMBE,GOMBE,30,30-39,ND.
+Female,1994-11-08,abdulwahabadamu600@gmail.com,National Diploma,Environmental Health,2.0,2018-12,GOMBE,GOMBE,SHAMAKI,GOMBE,YALMALTU/ DEBA,30,30-39,ND.
+Female,1991-01-01,aishatumohammed787@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2022-07,GOMBE,GOMBE,SHAMAKI,GOMBE,KWAMI,34,30-39,GSCE
+Female,1990-05-15,MARYAMBABAYO44@GMAIL.COM,National Diploma,Community Health,2.0,2020-09,GOMBE,GOMBE,,GOMBE,GOMBE,34,30-39,ND.
+Male,1992-10-14,adamubala551@gmail.com,National Certificate In Education (NCE),Accounting,2.0,2015-05,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,32,30-39,NCE
+Female,1986-10-19,aminasale3662@gmail.com,National Diploma,Community Health,2.0,2023-10,GOMBE,GOMBE,,GOMBE,GOMBE,38,30-39,ND.
+Female,2000-06-17,aishatuadamubabayo38@gmail.com,National Diploma,Medical Laboratory Technology,2.0,2019-04,GOMBE,GOMBE,,GOMBE,GOMBE,24,20-29,ND.
+Male,1977-01-15,abubakarmohammedadamu28@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Education,2.0,2017-01,GOMBE,GOMBE,JEKA DAFARI,GOMBE,GOMBE,48,40-49,Degree
+Female,1996-08-03,faimagana6646@gmail.com,National Diploma,Health Information Management,2.0,2019-12,GOMBE,GOMBE,BOLARI WEST,GOMBE,GOMBE,28,20-29,ND.
+Female,1976-02-12,aishatumalanhamza@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2019-06,GOMBE,GOMBE,,GOMBE,GOMBE,49,40-49,GSCE
+Female,1994-03-01,99aminaibrahim@gmail.com,Certificate,Midwifery,2.0,2022-03,GOMBE,GOMBE,SHAMAKI,KADUNA,CHIKUN,31,30-39,Cert
+Female,1988-07-20,karimatusaeed@gmail.com,Professional Diploma,Community Health,2.0,2010-11,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,36,30-39,ND
+Female,1997-08-05,habibaia63g04@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2015-07,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,27,20-29,GSCE
+Female,2002-09-14,zainabmuhamma0202@gmail.com,National Diploma,Community Health,2.0,2024-03,GOMBE,GOMBE,PANTAMI,GOMBE,NAFADA,22,20-29,ND.
+Female,1994-11-29,ikilimamuhammadabdullahi33@gmail.com,Certificate,Community Health,2.0,2017-12,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,30,30-39,Cert
+Female,1900-01-01,umarameenah2@gmail.com,National Diploma,Midwifery,2.0,2021-03,GOMBE,AKKO,,GOMBE,AKKO,125,nan,ND.
+Female,1982-08-20,zalihatuusman43@gmail.com,National Diploma,Community Health,2.0,2023-03,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,42,40-49,ND.
+Female,1985-11-10,hussainaa373@gmail.com,National Diploma,Nutrition And Dietetics,2.0,2016-10,GOMBE,GOMBE,,GOMBE,NAFADA,39,30-39,ND.
+Female,2004-10-18,fatimabukarjamami@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Health Attendant (HA),2.0,2024-06,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,20,20-29,GSCE
+Female,1990-10-25,asmaumuhammad839@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2013-11,GOMBE,GOMBE,,GOMBE,GOMBE,34,30-39,GSCE
+Female,1998-05-02,aishatuyusuf061@gmail.com,National Diploma,Environmental Health Technology,2.0,2021-08,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,26,20-29,ND.
+Female,1979-05-28,hamusa065@gmail.com,National Diploma,Community Health,2.0,2004-01,GOMBE,AKKO,,GOMBE,GOMBE,45,40-49,ND.
+Female,2002-06-10,maimunakawubello@gmail.com,National Diploma,Community Health,2.0,2021-09,GOMBE,GOMBE,,GOMBE,GOMBE,22,20-29,ND.
+Female,2004-08-10,maimunaadamum1@gmail.com,Junior Secondary Certificate Examination (JSCE),Juniour Secondary Education,2.0,2019-10,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,20,20-29,JSCE
+Female,1984-12-01,asmaumusagsu@gmail.com,National Diploma,Environmental Health Technology,2.0,2022-01,GOMBE,GOMBE,,GOMBE,GOMBE,40,40-49,ND.
+Male,1990-04-20,albani9701@gmail.com,Higher National Diploma (HND),Environmental Health,2.0,2018-11,GOMBE,GOMBE,,GOMBE,GOMBE,34,30-39,HND
+Female,1989-09-09,zainabbello052@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2018-09,GOMBE,GOMBE,,GOMBE,GOMBE,35,30-39,GSCE
+Female,1997-09-17,aishatuisah36@gmail.com,Certificate,Environmental Health,2.0,2016-01,GOMBE,GOMBE,,GOMBE,GOMBE,27,20-29,Cert
+Female,1992-01-01,zainabaliyu054@gmail.com,National Diploma,Health Information Management,2.0,2017-09,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,33,30-39,ND.
+Female,1996-12-22,aminahassanjamilu77@gmail.com,National Diploma,Community Health,2.0,2022-05,GOMBE,GOMBE,NASARAWA,GOMBE,GOMBE,28,20-29,ND.
+Female,1995-11-17,aishatuibrahimjalo87@gmail.com,National Diploma,Community Health,2.0,2022-03,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,29,20-29,ND.
+Female,1991-05-15,ummatibabaakuya@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2012-06,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,33,30-39,GSCE
+Female,1994-01-01,ummuAteek1@gmail.com,National Diploma,Community Health,2.0,2022-12,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,31,30-39,ND.
+Male,1982-08-11,usmanidrispt@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Health Education And Promotion,2.0,2024-03,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,42,40-49,Degree
+Female,1988-03-16,samiraumar311@gmail.com,Certificate,Environmental Health,2.0,2011-01,GOMBE,AKKO,,GOMBE,GOMBE,36,30-39,Cert
+Female,1977-12-15,ladidiumar846@gmail.com,Nill,,2.0,,GOMBE,GOMBE,,KANO,KIBIYA,47,40-49,
+Female,2000-11-09,hauwaali375@gmail.com,National Diploma,Medical Laboratory Technology,2.0,2023-01,GOMBE,GOMBE,,GOMBE,GOMBE,24,20-29,ND.
+Female,1996-12-25,rukayyamusa756@gmail.com,National Diploma,Occupational Health And Safety,2.0,2022-10,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,28,20-29,ND.
+Female,1994-04-17,jamilaabubakar261@gmail.com,Higher National Diploma (HND),Environmental Health,2.0,2018-05,GOMBE,GOMBE,SHAMAKI,GOMBE,KWAMI,30,30-39,HND
+Male,1985-04-04,abdalamana01@gmail.com,Certificate,Community Health,2.0,2008-11,GOMBE,GOMBE,JEKA DAFARI,GOMBE,GOMBE,39,30-39,Cert
+Female,1982-04-22,jamilasallau49@gmail.com,National Diploma,Community Health,2.0,2008-12,GOMBE,GOMBE,BAJOGA,GOMBE,GOMBE,42,40-49,ND.
+Female,1982-03-15,08136203095@gmail.com,Certificate,Community Health,2.0,2008-12,GOMBE,GOMBE,BAJOGA,GOMBE,NAFADA,42,40-49,Cert
+Female,2001-10-29,hajaramuhammadibrahim35@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2019-06,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,23,20-29,GSCE
+Female,1990-07-04,babajirebecca97@gmail.com,Certificate,Community Health,2.0,2013-09,GOMBE,GOMBE,,GOMBE,GOMBE,34,30-39,Cert
+Female,2004-01-04,jafarmaimuna287@gmail.com,National Diploma,Community Health,2.0,2024-01,GOMBE,GOMBE,,GOMBE,GOMBE,21,20-29,ND.
+Male,1974-10-14,sanimohammeddikko@gmail.com,National Diploma,Community Health,2.0,2001-12,GOMBE,GOMBE,DAWAKI,GOMBE,GOMBE,50,50-59,ND.
+Female,1997-09-17,maryambelloyauta@gmail.com,Certificate,Community Health,2.0,2018-09,GOMBE,GOMBE,BAJOGA,GOMBE,DUKKU,27,20-29,Cert
+Female,1999-08-08,abubakarhasasiya183@gmail.com,National Diploma,Environmental Health,2.0,2022-12,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,25,20-29,ND.
+Female,1990-12-27,fausatabare1990@gmail.com,Higher National Diploma (HND),Nursing,2.0,2020-01,GOMBE,GOMBE,,GOMBE,GOMBE,34,30-39,HND
+Female,1995-01-01,hassanasaidu35@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2007-06,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,30,30-39,GSCE
+Female,2003-08-22,aishailiya00@gmail.com,National Diploma,Community Health,2.0,2023-01,GOMBE,GOMBE,,GOMBE,GOMBE,21,20-29,ND.
+Female,1984-09-25,ismailaziza069@gmail.com,Certificate,Community Health,2.0,2018-11,GOMBE,GOMBE,BAJOGA,GOMBE,GOMBE,40,40-49,Cert
+Female,1978-05-16,aishamaigari866@gmail.com,National Diploma,Medical Laboratory Technology,2.0,2022-10,GOMBE,GOMBE,,GOMBE,GOMBE,46,40-49,ND.
+Male,1993-11-17,faisalmgoni@gmail.com,National Diploma,Tropical Health and Disease Control,2.0,2016-01,GOMBE,GOMBE,,GOMBE,GOMBE,31,30-39,ND.
+Female,1968-06-03,halimasanusi2427@gmail.com,National Diploma,Community Health,2.0,1993-12,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,56,50-59,ND.
+Female,1999-10-12,khadijaumar7253676@gmail.com,National Diploma,Environmental Health,2.0,2022-11,GOMBE,GOMBE,SHAMAKI,GOMBE,KWAMI,25,20-29,ND.
+Female,2002-12-12,zainabaminumusa10@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2021-07,GOMBE,GOMBE,PANTAMI,GOMBE,,22,20-29,GSCE
+Male,1995-05-17,abdullahiabbayakubu1010@gmail.com,National Diploma,Science Lab. Technology,2.0,2021-06,GOMBE,GOMBE,,GOMBE,GOMBE,29,20-29,ND.
+Female,2003-02-04,bahzara03@gmail.com,National Diploma,Community Health,2.0,2021-10,GOMBE,GOMBE,,GOMBE,GOMBE,22,20-29,ND.
+Female,1991-11-05,ishaqzainab62@gmail.com,National Diploma,Health Information Management,2.0,2019-12,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,33,30-39,ND.
+Female,1976-02-12,aishatumalamhamza@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Primary Education,2.0,2019-06,GOMBE,GOMBE,,GOMBE,GOMBE,49,40-49,GSCE
+Female,2001-12-11,adamusadya109@gmail.com,National Certificate In Education (NCE),Biology,2.0,2022-10,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,23,20-29,NCE
+Female,2002-09-23,khadijaadamu4020@gmail.com,National Diploma,Health Information Management,2.0,2020-09,GOMBE,GOMBE,,GOMBE,GOMBE,22,20-29,ND.
+Male,1994-10-02,abdulazizumar099@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Accounting,2.0,2023-01,GOMBE,GOMBE,,GOMBE,GOMBE,30,30-39,Degree
+Female,1991-02-01,sadiyaabubakarmoh022@gmail.com,National Diploma,Environmental Health,2.0,2017-08,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,34,30-39,ND.
+Female,1981-03-16,fatsumabappahyaya@gmail.com,Certificate,Community Health,2.0,2003-03,GOMBE,AKKO,,GOMBE,GOMBE,43,40-49,Cert
+Female,1973-07-29,habibasaidu81@gmail.com,National Diploma,Community Health,2.0,2023-11,GOMBE,GOMBE,,GOMBE,KALTUNGO,51,50-59,ND.
+Female,1989-01-02,zaliyu480@gmail.com,Certificate,Environmental Health,2.0,2016-11,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,36,30-39,Cert
+Female,1996-10-17,addaaisha25@gmail.com,National Diploma,Medical Laboratory Technology,2.0,2021-10,GOMBE,GOMBE,DAWAKI,GOMBE,GOMBE,28,20-29,ND.
+Male,2006-05-09,umaryayalle2024@gmail.com,Primary School Certificate,Primary Education,2.0,2019-09,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,18,< 20,Pr. Cert.
+Female,1994-09-10,abubakarrabi758@gmail.com,National Diploma,Health Information Management,2.0,2016-08,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,30,30-39,ND.
+Male,1988-01-01,sgarbaharuna976@gmail.com,Certificate,Community Health,2.0,2017-10,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,37,30-39,Cert
+Female,1977-09-09,johnhannatu422@mail.com,Certificate,Others,2.0,2000-07,GOMBE,AKKO,GARKO,GOMBE,YALMALTU/ DEBA,47,40-49,Cert
+Female,1985-07-23,gidadosakina4@gmail.com,National Diploma,Community Health,2.0,2023-07,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,39,30-39,ND.
+Female,1987-04-21,01hadizabello@gmail.com,National Diploma,Environmental Health,2.0,2018-04,GOMBE,AKKO,GARKO,GOMBE,GOMBE,37,30-39,ND.
+Female,1998-04-16,aasmau599@gmail.com,Certificate,Midwifery,2.0,2020-04,GOMBE,GOMBE,,GOMBE,GOMBE,26,20-29,Cert
+Female,1987-11-17,yugudaasmauuamar@gmail.com,National Diploma,Community Health,2.0,2022-01,GOMBE,GOMBE,,GOMBE,GOMBE,37,30-39,ND.
+Male,2000-03-23,muktardanladiisah449@gmail.com,National Diploma,Community Health,2.0,2023-12,GOMBE,GOMBE,,GOMBE,GOMBE,24,20-29,ND.
+Male,1998-06-24,ABDULAZEZMUHAMMADBABANGIDA@GMAIL.COM,National Diploma,Community Health,2.0,2021-12,GOMBE,GOMBE,,GOMBE,GOMBE,26,20-29,ND.
+Male,1983-01-13,adamumusa3759@gmail.com,National Certificate In Education (NCE),Chemistry,2.0,2015-04,GOMBE,GOMBE,,GOMBE,GOMBE,42,40-49,NCE
+Female,1986-07-14,AISHATUABDULLAHIAAG@GMAIL.COM,National Diploma,Environmental Health Technology,2.0,2010-11,GOMBE,GOMBE,,GOMBE,GOMBE,38,30-39,ND.
+Male,2004-05-06,salisumusaa5@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Others,2.0,2022-01,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,20,20-29,GSCE
+Male,1985-02-02,shayibumagaji488@gmail.com,National Diploma,Community Health,2.0,2010-12,GOMBE,AKKO,GARKO,GOMBE,GOMBE,40,40-49,ND.
+Male,2001-05-06,muhammadhamzaauwal2184@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2016-07,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,23,20-29,GSCE
+Female,1985-04-24,karimatunuhu3@gmail.com,Primary School Certificate,Primary Education,2.0,1917-05,GOMBE,GOMBE,,GOMBE,GOMBE,39,30-39,Pr. Cert.
+Female,1966-01-02,fatsumabappayo@gmail.com,Primary School Certificate,Primary Education,2.0,1978-05,GOMBE,GOMBE,KUMBIYA - KUMBIYA,GOMBE,GOMBE,59,50-59,Pr. Cert.
+Male,1999-01-15,adamuidrisadam568@gmail.com,National Diploma,Community Health,2.0,2020-11,GOMBE,GOMBE,,GOMBE,FUNAKAYE,26,20-29,ND.
+Female,1986-03-25,maryamalabura65@gmail.com,National Diploma,Environmental Health,2.0,2013-01,GOMBE,GOMBE,,GOMBE,GOMBE,38,30-39,ND.
+Male,1977-09-10,aliskida57@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Others,2.0,2003-01,GOMBE,GOMBE,,GOMBE,GOMBE,47,40-49,GSCE
+Male,1987-04-01,iibrahimkuna@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Others,2.0,2015-11,GOMBE,GOMBE,,GOMBE,GOMBE,37,30-39,Degree
+Male,1993-10-10,suleiman6870@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Accounting,2.0,2019-11,GOMBE,GOMBE,,GOMBE,KWAMI,31,30-39,Degree
+Female,1984-11-20,abubakardahozulai@gmail.com,National Diploma,Community Health,2.0,2009-10,GOMBE,AKKO,GARKO,GOMBE,GOMBE,40,40-49,ND.
+Female,1982-06-06,maryamriga@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Social Sciences,2.0,2000-06,GOMBE,GOMBE,AJIYA,GOMBE,GOMBE,42,40-49,GSCE
+Female,2000-04-15,faridagombe8@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Social Sciences,2.0,2021-07,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,24,20-29,GSCE
+Female,1987-06-11,halima0706341683000@gmail.com,Certificate,Environmental Health Technology,2.0,2016-01,GOMBE,GOMBE,,GOMBE,KWAMI,37,30-39,Cert
+Female,1980-06-15,hadizaumarbappa2@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,1997-04,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,44,40-49,GSCE
+Female,1998-10-12,aishatuabubakarsadiq6@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2012-06,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,26,20-29,GSCE
+Male,1987-07-01,mj64267@gmail.com,Higher National Diploma (HND),Environmental Health,2.0,2009-12,GOMBE,GOMBE,,GOMBE,GOMBE,37,30-39,HND
+Female,1999-01-01,fatimaabubakarsadiq208@gmail.com,National Diploma,Community Health,2.0,2021-06,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,26,20-29,ND.
+Male,1984-10-18,usmanumar63@gmail.com,National Certificate In Education (NCE),Animal Health,2.0,2012-03,GOMBE,GOMBE,,GOMBE,GOMBE,40,40-49,NCE
+Male,1989-05-28,abubakarmuhammadyau61@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2010-12,GOMBE,GOMBE,,GOMBE,GOMBE,35,30-39,GSCE
+Female,1969-01-01,abdullahimaryam081@gmail.com,Primary School Certificate,Primary Education,2.0,1982-11,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,56,50-59,Pr. Cert.
+Female,1999-04-16,aishatuabdullahiumar3613@gmail.com,National Diploma,Community Health,2.0,2022-09,GOMBE,GOMBE,DAWAKI,GOMBE,FUNAKAYE,25,20-29,ND.
+Male,1996-02-17,musasalisuab@gmail.com,National Diploma,Health Information Management,2.0,2016-10,GOMBE,GOMBE,,GOMBE,GOMBE,29,20-29,ND.
+Male,1992-02-03,sufiyannuidris@gmail.com,National Diploma,Environmental Health Technology,2.0,2014-01,GOMBE,GOMBE,SHAMAKI,GOMBE,NAFADA,33,30-39,ND.
+Female,1989-05-27,abdullahihafsatu475@mail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2001-11,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,35,30-39,GSCE
+Female,1985-02-05,aishatuahmed@gmail.com,Primary School Certificate,Others,2.0,1997-05,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,40,40-49,Pr. Cert.
+Male,1994-06-12,abduldaudu777@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Public Health,2.0,2018-03,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,30,30-39,Degree
+Male,2003-09-25,umarfarukabubakar3696@gmail.com,National Diploma,Medical Laboratory Technology,2.0,2024-10,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,21,20-29,ND.
+Male,1969-11-06,faidamad111@gmail.com,Certificate,Community Health,2.0,2000-09,GOMBE,GOMBE,,GOMBE,GOMBE,55,50-59,Cert
+Female,2003-01-19,khadijaharuna4895@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2022-07,GOMBE,AKKO,GARKO,GOMBE,AKKO,22,20-29,GSCE
+Female,1999-09-08,maryamadamusenator1010@gmail.com,National Diploma,Community Health,2.0,2020-11,GOMBE,YALMALTU/ DEBA,KWADON / LIJI / KURBA,GOMBE,GOMBE,25,20-29,ND.
+Male,1964-08-12,muhammadusamaila071@gmail.com,Nill,,2.0,,GOMBE,AKKO,AKKO,GOMBE,GOMBE,60,60+,
+Male,1997-06-30,msaniusmangombe@gmail.com,National Diploma,Environmental Health Technology,2.0,2014-06,GOMBE,AKKO,,GOMBE,GOMBE,27,20-29,ND.
+Male,2002-11-23,mustaphamuhammadyayi@gmail.com,National Diploma,Pharmacy,2.0,2022-01,GOMBE,GOMBE,SHAMAKI,GOMBE,DUKKU,22,20-29,ND.
+Female,1997-10-07,adamamuhammad173@gmail.com,National Diploma,Community Health,2.0,2019-08,GOMBE,GOMBE,,GOMBE,AKKO,27,20-29,ND.
+Female,1994-09-13,nafisatmuhammad663@gmail.com,National Diploma,Medical Laboratory Technology,2.0,2023-06,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,30,30-39,ND.
+Female,2001-04-17,jidrissambo@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",,2.0,2018-01,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,23,20-29,GSCE
+Female,1975-05-28,zainabhamza08160@gmail.com,Primary School Certificate,Others,2.0,1981-10,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,49,40-49,Pr. Cert.
+Male,1997-09-02,dizamatuumarb@gmail.com,National Certificate In Education (NCE),Education,2.0,2018-01,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,27,20-29,NCE
+Female,1982-07-25,07044336737@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2018-05,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,42,40-49,GSCE
+Female,1997-10-31,falasfa080@gmail.com,National Diploma,Health Information Management,2.0,2021-06,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,27,20-29,ND.
+Female,1973-08-15,fatugarbamogari@gmail.com,National Diploma,Community Health,2.0,2010-10,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,51,50-59,ND.
+Female,1991-10-01,maryammuazu0788@gmail.com,Primary School Certificate,,2.0,2008-10,GOMBE,GOMBE,,GOMBE,GOMBE,33,30-39,Pr. Cert.
+Male,1983-09-04,zulki.aa.2016@gmail.com,Certificate,Environmental Health Technology,2.0,2006-11,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,41,40-49,Cert
+Female,1983-03-13,talkshafaatu83@gmail.com,Professional Diploma,Community Health,2.0,2006-07,GOMBE,GOMBE,NASARAWA,GOMBE,GOMBE,41,40-49,ND
+Female,1983-01-14,adamuyakubuaishatu697@gmail.com,Primary School Certificate,Others,2.0,1996-10,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,42,40-49,Pr. Cert.
+Female,1974-02-02,aishatuahmeda24@gmail.com,National Diploma,Health Education And Promotion,2.0,2022-11,GOMBE,GOMBE,BOLARI EAST,GOMBE,GOMBE,51,50-59,ND.
+Male,1988-01-01,sanisale0270@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",,2.0,2020-07,GOMBE,GOMBE,,GOMBE,GOMBE,37,30-39,GSCE
+Male,1976-06-27,miabubakar581@gmail.com,Certificate,Community Health,2.0,2014-12,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,48,40-49,Cert
+Female,1981-04-24,fatimaabbababayo628@gmail.com,National Diploma,Nutrition And Dietetics,2.0,2016-01,GOMBE,GOMBE,NASARAWA,GOMBE,GOMBE,43,40-49,ND.
+Female,1983-04-13,hafsathamisuumar7@gmail.com,National Diploma,Community Health,2.0,2018-09,GOMBE,GOMBE,KUMBIYA - KUMBIYA,GOMBE,GOMBE,41,40-49,ND.
+Male,1994-06-13,ibrahimmusausman2020@gmail.com,National Diploma,Public Health,2.0,2019-01,GOMBE,GOMBE,,GOMBE,GOMBE,30,30-39,ND.
+Female,1996-05-26,01rabibello@gmail.com,Professional Diploma,Health Information Management,2.0,2021-03,GOMBE,AKKO,GARKO,GOMBE,GOMBE,28,20-29,ND
+Male,1975-09-09,sani09015660004@gmail.com,Certificate,Environmental Health Technology,2.0,1999-01,GOMBE,AKKO,GARKO,GOMBE,GOMBE,49,40-49,Cert
+Male,1979-04-28,mi5774540@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",,2.0,2001-07,GOMBE,GOMBE,,GOMBE,GOMBE,45,40-49,GSCE
+Male,2003-03-19,abdulsalamusmansambo5@gmail.com,National Diploma,Animal Health,2.0,2021-05,GOMBE,AKKO,,GOMBE,GOMBE,21,20-29,ND.
+Female,1977-01-23,aishatumuhammedadamu27@gmail.com,National Diploma,Community Health,2.0,2020-11,GOMBE,GOMBE,,GOMBE,GOMBE,48,40-49,ND.
+Male,1996-10-01,yadinbanki@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Biology,2.0,2023-06,GOMBE,GOMBE,NASARAWA,GOMBE,GOMBE,28,20-29,Degree
+Female,1982-04-22,ranasdauda142@gmail.com,Certificate,Community Health,2.0,2004-10,GOMBE,AKKO,GARKO,GOMBE,GOMBE,42,40-49,Cert
+Female,1900-01-01,adamaabdullahi9189@gmail.com,National Diploma,Environmental Health Technology,2.0,2020-10,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,125,nan,ND.
+Female,1975-06-15,fatsumasale907@gmail.com,Certificate,Primary Education,2.0,1986-01,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,49,40-49,Cert
+Female,2002-12-28,aishatuumaradamu74@gmail.com,National Diploma,Community Health,2.0,2024-01,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,22,20-29,ND.
+Male,1989-08-24,muhammadjanda@gmail.com,Primary School Certificate,Primary Education,2.0,1995-06,GOMBE,GOMBE,,GOMBE,GOMBE,35,30-39,Pr. Cert.
+Female,1989-04-15,rashidaumar15@gmail.com,Professional Diploma,Nutrition And Dietetics,2.0,2017-07,GOMBE,GOMBE,,GOMBE,GOMBE,35,30-39,ND
+Female,2006-04-16,maryamgarba422@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2024-07,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,18,< 20,GSCE
+Female,1995-08-12,aishatuibrahimgambo3064@gmail.com,National Diploma,Community Health,2.0,2024-07,GOMBE,GOMBE,,GOMBE,GOMBE,29,20-29,ND.
+Male,1999-06-02,alameenusmanshehu@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",,2.0,2019-07,GOMBE,GOMBE,,GOMBE,YALMALTU/ DEBA,25,20-29,GSCE
+Female,1988-03-06,aishfaruk0922@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2009-07,GOMBE,GOMBE,NASARAWA,GOMBE,GOMBE,37,30-39,GSCE
+Female,1981-04-12,mjjamila9@gmail.com,Certificate,Community Health,2.0,2000-10,GOMBE,GOMBE,JEKA DAFARI,GOMBE,GOMBE,43,40-49,Cert
+Female,1993-03-03,falilaadamuyusuf@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2020-06,GOMBE,GOMBE,NASARAWA,GOMBE,GOMBE,32,30-39,GSCE
+Female,1978-06-11,zuwairaumarjk01@gmail.com,National Diploma,Community Health,2.0,2019-11,GOMBE,GOMBE,,GOMBE,GOMBE,46,40-49,ND.
+Male,1994-04-14,nazifmuhammad106@gmail.com,National Diploma,Environmental Health Technology,2.0,2019-09,GOMBE,GOMBE,PANTAMI,GOMBE,KWAMI,30,30-39,ND.
+Male,1993-02-12,amruadamurasheed@gmail.com,National Diploma,Dental Health Technology,2.0,2016-01,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,32,30-39,ND.
+Female,2003-08-28,khadijaabdullahi188@gmail.com,National Diploma,Community Health,2.0,2024-01,GOMBE,GOMBE,NASARAWA,GOMBE,GOMBE,21,20-29,ND.
+Female,1992-01-01,fa6337755@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2010-07,GOMBE,GOMBE,,GOMBE,GOMBE,33,30-39,GSCE
+Female,2004-01-02,rabiatudahiru47@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Others,2.0,2020-06,GOMBE,GOMBE,NASARAWA,GOMBE,GOMBE,21,20-29,GSCE
+Female,1983-11-11,fsarkile@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Arts,2.0,2001-06,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,41,40-49,GSCE
+Female,1996-12-15,maimunamuhammad728@gmail.com,National Diploma,Environmental Health Technology,2.0,2022-06,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,28,20-29,ND.
+Female,1986-02-11,habibaibrahim@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2018-06,GOMBE,GOMBE,BAJOGA,GOMBE,GOMBE,39,30-39,GSCE
+Female,1995-06-20,1maryamadamuabdullahi@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2013-05,GOMBE,GOMBE,NASARAWA,GOMBE,GOMBE,29,20-29,GSCE
+Female,2006-08-07,fatimamuhammadkolo251@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Others,2.0,2023-07,GOMBE,GOMBE,,GOMBE,GOMBE,18,< 20,GSCE
+Female,2006-01-03,amiramuhammadusman980@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2020-01,GOMBE,GOMBE,NASARAWA,GOMBE,GOMBE,19,< 20,GSCE
+Female,1998-12-20,fatimaada226@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2013-11,GOMBE,GOMBE,NASARAWA,GOMBE,GOMBE,26,20-29,GSCE
+Female,1998-11-26,faizamadi143@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2018-07,GOMBE,KWAMI,DOHO,GOMBE,GOMBE,26,20-29,GSCE
+Male,1997-06-25,yakubisahmuhammad@gmail.com,National Diploma,Environmental Health,2.0,2023-09,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,27,20-29,ND.
+Female,2002-09-02,nazeersadees@gmail.com,National Diploma,Community Health,2.0,2020-11,GOMBE,AKKO,GARKO,GOMBE,GOMBE,22,20-29,ND.
+Male,1984-01-10,usmanyahaya2016@gmail.com,"Masters (MSc., MBA, MPH, M. Tech, M. Ed etc)",Health Education And Promotion,2.0,2023-03,GOMBE,GOMBE,,GOMBE,GOMBE,41,40-49,Masters
+Female,2001-07-17,zainabumar00007@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Social Sciences,2.0,2019-03,GOMBE,GOMBE,NASARAWA,GOMBE,GOMBE,23,20-29,GSCE
+Male,1999-01-09,shamsuddeenadamu347@gmail.com,National Diploma,Science Lab. Technology,2.0,2022-12,GOMBE,GOMBE,NASARAWA,GOMBE,YALMALTU/ DEBA,26,20-29,ND.
+Female,1995-02-02,rabiaabdullahi149@gmail.com,National Certificate In Education (NCE),Primary Education,2.0,2021-01,GOMBE,GOMBE,NASARAWA,GOMBE,GOMBE,30,30-39,NCE
+Female,1994-10-15,murjhanathaliyuahmed@hmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2014-06,GOMBE,GOMBE,NASARAWA,GOMBE,YALMALTU/ DEBA,30,30-39,GSCE
+Female,2002-11-14,jiddahgombe@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Social Sciences,2.0,2020-06,GOMBE,GOMBE,NASARAWA,GOMBE,GOMBE,22,20-29,GSCE
+Female,2003-01-13,muhammadabbaummulkhulsum@gmail.com,National Diploma,Community Health,2.0,2023-10,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,22,20-29,ND.
+Female,1981-09-07,elizabethelisha651@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Social Sciences,2.0,2001-06,GOMBE,YALMALTU/ DEBA,,GOMBE,YALMALTU/ DEBA,43,40-49,GSCE
+Female,2002-03-23,abubakaradamuaishatu@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Social Sciences,2.0,2020-08,GOMBE,GOMBE,NASARAWA,GOMBE,GOMBE,22,20-29,GSCE
+Male,1989-02-24,Abubakarbashir044@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Community Health,2.0,2022-04,GOMBE,GOMBE,,GOMBE,GOMBE,36,30-39,Degree
+Male,2000-07-01,mustaphamalammuktar@gmail.com,National Diploma,Dental Health Technology,2.0,2022-12,GOMBE,GOMBE,BAJOGA,GOMBE,GOMBE,24,20-29,ND.
+Female,2003-01-14,hauwauabubakar091@gmail.com,National Diploma,Reproductive Health,2.0,2023-10,GOMBE,GOMBE,NASARAWA,GOMBE,GOMBE,22,20-29,ND.
+Male,1988-04-14,maigari060@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2016-06,GOMBE,GOMBE,,GOMBE,AKKO,36,30-39,GSCE
+Female,1985-03-03,aishatumohammedibrahim1@gmail.com,National Diploma,Environmental Health Technology,2.0,2008-10,GOMBE,GOMBE,,GOMBE,GOMBE,40,40-49,ND.
+Female,1986-10-07,amina4realusman@gmail.com,Certificate,Environmental Health,2.0,2017-10,GOMBE,GOMBE,BOLARI WEST,GOMBE,GOMBE,38,30-39,Cert
+Female,1995-02-02,rabiabdullahi149@gmail.com,National Certificate In Education (NCE),Primary Education,2.0,2022-01,GOMBE,GOMBE,,GOMBE,GOMBE,30,30-39,NCE
+Female,1992-01-01,shafaatualiyu3600@gmail.com,Professional Diploma,Environmental Health Technology,2.0,2014-10,GOMBE,GOMBE,NASARAWA,GOMBE,GOMBE,33,30-39,ND
+Female,1998-05-30,shaffamuhammaddanmusa@gmail.com,National Diploma,Science Lab. Technology,2.0,2023-07,GOMBE,GOMBE,,GOMBE,GOMBE,26,20-29,ND.
+Male,1972-01-01,hassanmanu1972@gmail.com,Trade Test,Others,2.0,2000-02,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,53,50-59,TT
+Female,2000-10-15,aminaadamuali385@gmail.com,National Diploma,Community Health,2.0,2023-02,GOMBE,GOMBE,BAJOGA,GOMBE,GOMBE,24,20-29,ND.
+Female,1990-01-01,zabbaudanazumi@mail.com,Primary School Certificate,Primary Education,2.0,2007-07,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,35,30-39,Pr. Cert.
+Female,2000-01-01,dijjarh2000@gmail.com,National Diploma,Environmental Health Technology,2.0,2021-11,GOMBE,AKKO,GARKO,GOMBE,GOMBE,25,20-29,ND.
+Female,1994-01-06,ikilimamusa404@gmail.com,Primary School Certificate,Primary Education,2.0,2006-09,GOMBE,GOMBE,,GOMBE,GOMBE,31,30-39,Pr. Cert.
+Female,2003-05-05,hafsatmuhammadyarima8555@gmail.com,National Diploma,Pharmacy,2.0,2019-12,GOMBE,AKKO,,GOMBE,KWAMI,21,20-29,ND.
+Female,1976-03-03,saadatuahmed11@gmail.com,Higher National Diploma (HND),Community Health,2.0,2019-08,GOMBE,AKKO,GARKO,GOMBE,GOMBE,49,40-49,HND
+Female,2000-10-21,mydisina@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Medical Laboratory Technology,2.0,2023-10,GOMBE,GOMBE,NASARAWA,GOMBE,GOMBE,24,20-29,Degree
+Female,1995-10-12,ayshamaina@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Health Education,2.0,2024-01,GOMBE,GOMBE,,GOMBE,GOMBE,29,20-29,Degree
+Female,1983-01-02,zainabmuhammed6088@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Arts,2.0,1999-07,GOMBE,GOMBE,NASARAWA,GOMBE,GOMBE,42,40-49,GSCE
+Female,1985-03-21,hauwaclement1716@gmail.com,Primary School Certificate,Primary Education,2.0,2017-12,GOMBE,GOMBE,NASARAWA,GOMBE,GOMBE,39,30-39,Pr. Cert.
+Female,1993-09-13,khadijaumar.kua@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Health Attendant (HA),2.0,2011-07,GOMBE,GOMBE,,GOMBE,GOMBE,31,30-39,GSCE
+Male,1992-03-16,muhseen7@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2008-06,GOMBE,GOMBE,,GOMBE,GOMBE,32,30-39,GSCE
+Female,2000-06-11,fatimasalisuyahaya@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2018-07,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,24,20-29,GSCE
+Male,1987-09-12,kabiruharunajibrin@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Social Sciences,2.0,2009-06,GOMBE,GOMBE,,GOMBE,GOMBE,37,30-39,GSCE
+Female,1979-06-20,fatsumagurama@gmail.com,Certificate,Nurse/Midwife,2.0,2018-11,GOMBE,GOMBE,NASARAWA,GOMBE,DUKKU,45,40-49,Cert
+Female,1998-08-24,ummulkulsulsummuhammad23@gmail.com,National Diploma,Environmental Health Technology,2.0,2022-06,GOMBE,GOMBE,NASARAWA,GOMBE,GOMBE,26,20-29,ND.
+Female,2000-04-16,fatima3000muhammad@gmail.com,National Diploma,Medical Laboratory Technology,2.0,2022-12,GOMBE,GOMBE,NASARAWA,GOMBE,GOMBE,24,20-29,ND.
+Female,1998-07-01,maryammuhammadsani4@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2018-07,GOMBE,AKKO,,GOMBE,GOMBE,26,20-29,GSCE
+Female,1987-06-05,hauwausaidubaba@gmail.com,Higher National Diploma (HND),Environmental Health Technology,2.0,2016-09,GOMBE,GOMBE,,GOMBE,KWAMI,37,30-39,HND
+Female,1990-03-06,aishatuadamu8243@gmail.com,Certificate,Nurse/Midwife,2.0,2023-11,GOMBE,AKKO,,GOMBE,AKKO,35,30-39,Cert
+Female,2003-05-22,rukayyamuhammad6939788@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Others,2.0,2019-06,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,21,20-29,GSCE
+Male,1995-02-05,MATLEEHAT003@GMAIL.COM,National Diploma,Health Information Management,2.0,2022-06,GOMBE,GOMBE,,GOMBE,DUKKU,30,30-39,ND.
+Male,1994-12-23,sani141024@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Accounting,2.0,2019-11,GOMBE,GOMBE,AJIYA,GOMBE,GOMBE,30,30-39,Degree
+Male,1995-08-06,ayyoubmusa75@mail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Others,1.0,2017-06,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,29,20-29,Degree
+Male,1978-12-31,topdesigner43@gmail.com,National Diploma,Community Health,2.0,2018-07,GOMBE,GOMBE,,GOMBE,GOMBE,46,40-49,ND.
+Female,1997-04-24,maryammuh'd26626@gmail.com,National Diploma,Environmental Health Technology,2.0,2021-09,GOMBE,GOMBE,NASARAWA,GOMBE,GOMBE,27,20-29,ND.
+Female,1979-11-05,usman074@gmail.com,Primary School Certificate,Primary Education,2.0,1998-12,GOMBE,GOMBE,,GOMBE,GOMBE,45,40-49,Pr. Cert.
+Female,1982-06-01,aminausman127112@gmail.com,National Diploma,Community Health,2.0,2017-08,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,42,40-49,ND.
+Female,1998-02-27,habdulkarimgase@gmail.com,National Diploma,Community Health,2.0,2020-12,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,27,20-29,ND.
+Female,1997-01-11,rukayyamuhammadmanga@gmail.com,National Certificate In Education (NCE),Primary Education,2.0,2019-10,GOMBE,GOMBE,,GOMBE,GOMBE,28,20-29,NCE
+Female,1994-04-28,saiduamina40@gmail.com,National Diploma,Pharmacy,2.0,2018-08,GOMBE,GOMBE,BOLARI EAST,GOMBE,GOMBE,30,30-39,ND.
+Female,1979-06-05,uwaniabubakar61@gmail.com,National Certificate In Education (NCE),Biology,2.0,2004-11,GOMBE,GOMBE,JEKA DAFARI,GOMBE,GOMBE,45,40-49,NCE
+Male,2002-12-12,demo123@abc.com,Professional Diploma,Health Information Management,2.0,1998-12,DELTA,OSHIMILI - SOUTH,AGU,BAUCHI,GIADE,22,20-29,ND
+Male,1982-01-01,adamumuhammad1982@gmail.com,Primary School Certificate,Others,2.0,1988-01,GOMBE,GOMBE,,GOMBE,GOMBE,43,40-49,Pr. Cert.
+Female,1970-05-15,titadamu@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Social Sciences,2.0,2012-06,GOMBE,GOMBE,NASARAWA,GOMBE,GOMBE,54,50-59,GSCE
+Female,1977-01-01,zulaihatumusayakubu15@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2021-06,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,48,40-49,GSCE
+Male,1973-10-01,nasirumusa51@gmail.com,Higher National Diploma (HND),Community Health,2.0,2017-12,GOMBE,GOMBE,,GOMBE,GOMBE,51,50-59,HND
+Female,1992-11-05,hafsatsuraj34@gmail.com,National Diploma,Health Information Management,2.0,2022-05,GOMBE,GOMBE,NASARAWA,GOMBE,KALTUNGO,32,30-39,ND.
+Male,1970-06-22,1139@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Social Sciences,2.0,1988-11,GOMBE,GOMBE,DAWAKI,GOMBE,GOMBE,54,50-59,GSCE
+Female,1972-12-01,maryamhtalba@gmail.com,National Diploma,Community Health,2.0,2003-12,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,52,50-59,ND.
+Female,1979-10-10,hafsatmuhammed316@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Others,2.0,2012-02,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,45,40-49,GSCE
+Male,1987-12-31,ibrahimrabiya1010@gmail.com,National Diploma,Environmental Health Technology,2.0,2013-09,GOMBE,GOMBE,,GOMBE,GOMBE,37,30-39,ND.
+Male,1993-10-04,majidadijoda@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Public Health,2.0,2018-04,GOMBE,GOMBE,,GOMBE,GOMBE,31,30-39,Degree
+Female,2000-09-06,1fatimaabubakar@gmail.com,National Diploma,Environmental Health Technology,2.0,2022-12,GOMBE,GOMBE,NASARAWA,GOMBE,GOMBE,24,20-29,ND.
+Male,1975-05-15,mohammedyuguda15@gmail.com,National Diploma,Community Health,2.0,2003-12,GOMBE,GOMBE,,GOMBE,GOMBE,49,40-49,ND.
+Male,1900-01-01,sabitubabaabdu@gmail.com,National Diploma,Community Health,2.0,2009-11,GOMBE,GOMBE,,GOMBE,GOMBE,125,nan,ND.
+Male,1970-04-28,testhrhuser@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Dental Health Technology,2.0,2011-01,ABIA,UKWA EAST,,ANAMBRA,NNEWI SOUTH,54,50-59,GSCE
+Female,1982-03-15,aishatuaudi95@gmail.com,Certificate,Community Health,2.0,2005-07,GOMBE,GOMBE,BAJOGA,GOMBE,NAFADA,42,40-49,Cert
+Female,1998-05-05,hajaramuhammad274@gmail.com,National Diploma,Dental Health Technology,2.0,2021-02,GOMBE,GOMBE,,GOMBE,,26,20-29,ND.
+Male,1970-08-24,bellosajo33@gmail.com,National Diploma,Community Health,2.0,2003-11,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,54,50-59,ND.
+Male,1974-07-06,hassanmajasirdi19739@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,1989-06,GOMBE,GOMBE,AJIYA,GOMBE,GOMBE,50,50-59,GSCE
+Male,1998-01-01,abdulrshidharuna96@gmail.com,National Diploma,Medical Laboratory Technology,2.0,2022-04,GOMBE,AKKO,,GOMBE,KWAMI,27,20-29,ND.
+Male,1988-09-29,uu0090096@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Health Attendant (HA),2.0,2009-11,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,36,30-39,GSCE
+Male,1984-04-04,abdulism1122@gmail.com,National Diploma,Community Health,2.0,2009-09,GOMBE,AKKO,GARKO,GOMBE,GOMBE,40,40-49,ND.
+Male,2001-11-14,zayyanabduljalbar86@gmail.com,National Diploma,Environmental Health,2.0,2022-09,GOMBE,GOMBE,NASARAWA,GOMBE,KWAMI,23,20-29,ND.
+Male,1969-01-25,abubakargarbaturaki@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Public Health,2.0,2021-10,GOMBE,GOMBE,,GOMBE,GOMBE,56,50-59,Degree
+Male,1975-06-12,mustaiphaajiya230@gmail.com,Certificate,Community Health,2.0,2022-03,GOMBE,GOMBE,NASARAWA,GOMBE,GOMBE,49,40-49,Cert
+Female,1988-04-04,maryammohammedadamu4@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2009-09,GOMBE,GOMBE,DAWAKI,GOMBE,GOMBE,36,30-39,GSCE
+Female,1977-06-25,aishatunuta@gmail.com,"Masters (MSc., MBA, MPH, M. Tech, M. Ed etc)",Public Health Education,2.0,2020-04,GOMBE,GOMBE,,GOMBE,GOMBE,47,40-49,Masters
+Female,1986-07-05,zainabmuhammed05@gmail.com,Professional Diploma,Community Health,2.0,2019-07,GOMBE,AKKO,GARKO,GOMBE,GOMBE,38,30-39,ND
+Female,1970-12-30,muhammadsalims88@gmail.com,National Diploma,Community Health,2.0,1970-02,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,54,50-59,ND.
+Female,1996-05-12,lantanatanimu09@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2015-07,GOMBE,GOMBE,,GOMBE,GOMBE,28,20-29,GSCE
+Female,1983-02-25,lailababa3172@gmail.com,National Diploma,,2.0,2005-02,GOMBE,GOMBE,DAWAKI,GOMBE,GOMBE,42,40-49,ND.
+Female,1973-07-29,aishatiabubakar@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Community Health,2.0,2021-10,GOMBE,GOMBE,KUMBIYA - KUMBIYA,GOMBE,GOMBE,51,50-59,Degree
+Male,1999-08-19,hajarasalisuabdullahi60@gmail.com,National Diploma,Health Information Management,2.0,2019-01,GOMBE,GOMBE,,GOMBE,GOMBE,25,20-29,ND.
+Female,1976-03-15,fadill200016@gmail.com,Higher National Diploma (HND),Environmental Health,2.0,1999-07,GOMBE,GOMBE,AJIYA,GOMBE,GOMBE,48,40-49,HND
+Female,1998-01-01,altinehamidumery2014@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2021-07,GOMBE,AKKO,,GOMBE,GOMBE,27,20-29,GSCE
+Female,2002-02-20,adamayunusa612@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2024-07,GOMBE,GOMBE,,GOMBE,GOMBE,23,20-29,GSCE
+Female,2000-06-23,safiyamuhammadsk@gmail.com,Certificate,Environmental Health,2.0,2022-11,GOMBE,GOMBE,,GOMBE,GOMBE,24,20-29,Cert
+Male,1973-07-25,yahayagurama581@gmail.com,Primary School Certificate,Primary Education,2.0,1994-01,GOMBE,GOMBE,,GOMBE,GOMBE,51,50-59,Pr. Cert.
+Female,1976-02-19,basiratuabdulsalam@gmail.com,Higher National Diploma (HND),Community Health,2.0,2011-10,GOMBE,GOMBE,JEKA DAFARI,GOMBE,GOMBE,49,40-49,HND
+Male,1997-12-12,mubarakmjijji@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Others,2.0,2023-07,GOMBE,GOMBE,,GOMBE,KWAMI,27,20-29,Degree
+Male,1987-04-20,isule713@gmail.com,National Diploma,Community Health,2.0,2018-12,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,37,30-39,ND.
+Female,1990-08-12,fartyadam@gmail.com,National Diploma,Environmental Health,2.0,2020-09,GOMBE,GOMBE,,GOMBE,GOMBE,34,30-39,ND.
+Male,1979-06-03,garbaumaru111@gmail.com,Certificate,Environmental Health,2.0,2008-12,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,45,40-49,Cert
+Male,1983-07-13,bmohammedmohammed785@mail.com,Professional Diploma,Environmental Health,2.0,2010-06,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,41,40-49,ND
+Male,1955-01-01,abubakarmuhammadusman302@gmail.com,Primary School Certificate,Primary Education,2.0,1982-07,GOMBE,GOMBE,NASARAWA,GOMBE,GOMBE,70,60+,Pr. Cert.
+Male,1985-08-15,Osamababankhadija@gmail.com,Higher National Diploma (HND),Public Health,2.0,2022-11,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,39,30-39,HND
+Female,1993-11-24,fatimaabubakar9477@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2014-07,GOMBE,AKKO,GARKO,GOMBE,AKKO,31,30-39,GSCE
+Female,1982-06-24,ummualbani@gmail.com,National Diploma,Environmental Health Technology,2.0,2014-07,GOMBE,GOMBE,,GOMBE,GOMBE,42,40-49,ND.
+Female,1972-12-22,maryajiji04@gmail.com,Higher National Diploma (HND),Community Health,2.0,2018-09,GOMBE,AKKO,GARKO,GOMBE,KALTUNGO,52,50-59,HND
+Female,1970-10-10,ladidiibrahim40@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Health Education And Promotion,2.0,2013-11,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,54,50-59,Degree
+Female,1968-10-31,naomiharunaphc@gmail.com,Higher National Diploma (HND),Community Health,2.0,2020-11,GOMBE,GOMBE,NASARAWA,GOMBE,GOMBE,56,50-59,HND
+Female,1992-10-31,zainabsaidu351211@gmail.com,Certificate,Environmental Health Technology,2.0,2012-10,GOMBE,GOMBE,NASARAWA,GOMBE,GOMBE,32,30-39,Cert
+Female,1993-06-11,hauwaadamu2026@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2011-06,GOMBE,GOMBE,,GOMBE,GOMBE,31,30-39,GSCE
+Male,1980-10-01,aliyumuhammed3606@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2000-06,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,44,40-49,GSCE
+Female,1979-05-10,hadizamaigari2020@gmail.com,National Diploma,Environmental Health,2.0,2022-07,GOMBE,GOMBE,,GOMBE,GOMBE,45,40-49,ND.
+Male,1971-02-13,alhamzausman567@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",,2.0,1988-11,GOMBE,GOMBE,HERWAGANA,GOMBE,GOMBE,54,50-59,GSCE
+Female,1972-10-20,balabappha10jummai@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Health Education And Promotion,2.0,2020-10,GOMBE,GOMBE,JEKA DAFARI,GOMBE,GOMBE,52,50-59,Degree
+Female,1978-03-15,bzaraha@yahoo.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Community Health,2.0,2016-07,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,46,40-49,Degree
+Male,1994-04-24,abdulmumeenahmerd@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Food Hygiene,2.0,2023-06,GOMBE,GOMBE,DAWAKI,GOMBE,GOMBE,30,30-39,Degree
+Female,1977-11-11,rabimaigarituraki@gmail.com,National Diploma,Environmental Health Technology,2.0,2017-05,GOMBE,GOMBE,,GOMBE,GOMBE,47,40-49,ND.
+Male,1974-05-20,sa'idubabayo3657@gmail.com,National Diploma,Environmental Health Technology,2.0,2015-04,GOMBE,GOMBE,DAWAKI,GOMBE,GOMBE,50,50-59,ND.
+Female,1968-06-25,samanjahauwa@gmail.com,National Diploma,Environmental Health,2.0,2003-01,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,56,50-59,ND.
+Female,2001-02-12,aishatusalius@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2023-06,GOMBE,GOMBE,HERWAGANA,GOMBE,GOMBE,24,20-29,GSCE
+Female,1990-05-19,usmanmaryam12@gmail.com,Certificate,Nurse/Midwife,2.0,2023-11,GOMBE,GOMBE,,GOMBE,GOMBE,34,30-39,Cert
+Female,1984-12-19,0813808@gmail.com,National Diploma,Dental Health Technology,2.0,2008-10,GOMBE,GOMBE,,GOMBE,GOMBE,40,40-49,ND.
+Male,2003-01-23,Adnanyusuf097@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",,2.0,2021-07,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,22,20-29,GSCE
+Female,2000-04-09,Saratuinuwa3113@gmail.com,National Diploma,Community Health,2.0,2023-09,GOMBE,GOMBE,,GOMBE,GOMBE,24,20-29,ND.
+Female,1991-05-18,maryamaa384@gmail.com,National Diploma,Community Health,2.0,2018-03,GOMBE,GOMBE,BAJOGA,GOMBE,GOMBE,33,30-39,ND.
+Female,1999-03-29,fatimamuazuyusuf1@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2018-07,GOMBE,GOMBE,,GOMBE,AKKO,25,20-29,GSCE
+Male,1976-07-05,naziruadamu760@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Others,2.0,1996-06,GOMBE,GOMBE,HERWAGANA,GOMBE,GOMBE,48,40-49,GSCE
+Male,2004-08-20,hsssanbabaabubakar28@gmail.com,Primary School Certificate,,2.0,2019-11,GOMBE,GOMBE,JEKA DAFARI,GOMBE,KWAMI,20,20-29,Pr. Cert.
+Female,1986-11-06,Balkisuabdullahi4959@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2006-06,GOMBE,GOMBE,,GOMBE,GOMBE,38,30-39,GSCE
+Female,2001-08-08,ummusalmatfashion@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2019-06,GOMBE,GOMBE,NASARAWA,GOMBE,GOMBE,23,20-29,GSCE
+Female,1985-06-30,abdulmumimizainab@gmail.com,National Diploma,Community Health,2.0,2021-09,GOMBE,GOMBE,,GOMBE,KWAMI,39,30-39,ND.
+Female,2003-05-06,09132723010@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2021-07,GOMBE,GOMBE,NASARAWA,GOMBE,AKKO,21,20-29,GSCE
+Male,1996-10-30,abubakarmd012@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Accounting,2.0,2021-05,GOMBE,GOMBE,NASARAWA,GOMBE,GOMBE,28,20-29,Degree
+Female,1997-08-04,aishatuumarfaruk4@gmail.com,National Diploma,Medical Laboratory Technology,2.0,2019-09,GOMBE,AKKO,GARKO,GOMBE,DUKKU,27,20-29,ND.
+Female,1970-08-01,nodiyadaniel08@gmail.com,Professional Diploma,Community Health,2.0,2023-12,GOMBE,GOMBE,JEKA DAFARI,GOMBE,BILLIRI,54,50-59,ND
+Male,2001-01-01,balaabubakarahmad33@gmail.com,National Diploma,Medical Laboratory Technology,2.0,2019-02,GOMBE,GOMBE,,GOMBE,KWAMI,24,20-29,ND.
+Female,2002-12-03,hauwaualiyuumar36@gmail.com,National Diploma,Midwifery,2.0,2024-03,GOMBE,GOMBE,NASARAWA,GOMBE,GOMBE,22,20-29,ND.
+Female,1996-04-03,asmauumarusman15@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2009-07,GOMBE,GOMBE,NASARAWA,GOMBE,YALMALTU/ DEBA,28,20-29,GSCE
+Female,1999-01-16,alkalibellohafiz@gmail.com,National Diploma,Dental Health Technology,2.0,2021-08,GOMBE,GOMBE,NASARAWA,GOMBE,SHONGOM,26,20-29,ND.
+Female,2003-07-10,aysheartmusa@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2024-07,GOMBE,GOMBE,BOLARI WEST,GOMBE,GOMBE,21,20-29,GSCE
+Male,1973-11-16,kawubabari.net@gmail.com,National Diploma,Community Health,2.0,2009-09,GOMBE,GOMBE,,GOMBE,GOMBE,51,50-59,ND.
+Male,1984-02-02,muazzeen3@gmail.com,National Diploma,Community Health,2.0,2008-12,GOMBE,GOMBE,BOLARI WEST,GOMBE,GOMBE,41,40-49,ND.
+Male,1994-11-01,00aminuabdullahi@gmail.com,Primary School Certificate,Primary Education,2.0,2008-07,GOMBE,GOMBE,NASARAWA,GOMBE,GOMBE,30,30-39,Pr. Cert.
+Female,1977-10-10,mamanummi11@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Public Health,2.0,1994-06,GOMBE,GOMBE,,GOMBE,GOMBE,47,40-49,Degree
+Female,2004-06-01,manasafarida3@gmail.com,Primary School Certificate,Primary Education,2.0,2009-10,GOMBE,GOMBE,JEKA DAFARI,GOMBE,BILLIRI,20,20-29,Pr. Cert.
+Female,2003-05-27,zainabmusaishaq1@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2020-07,GOMBE,GOMBE,BOLARI WEST,GOMBE,GOMBE,21,20-29,GSCE
+Female,2003-08-18,aishatuharuna53@gmail.com,National Diploma,Community Health,2.0,2023-02,GOMBE,GOMBE,,GOMBE,GOMBE,21,20-29,ND.
+Female,1974-07-25,abbaaishatu03@gmail.com,Trade Test,Others,2.0,2004-07,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,50,50-59,TT
+Female,1979-12-25,hashimsadiya22@gmail.com,National Diploma,Community Health,2.0,2008-12,GOMBE,AKKO,,GOMBE,GOMBE,45,40-49,ND.
+Male,1983-12-16,umarcas7@gmail.com,National Diploma,Environmental Health,2.0,2009-11,GOMBE,GOMBE,,GOMBE,GOMBE,41,40-49,ND.
+Male,1993-09-20,Salisyahaya360@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Biology,2.0,2021-08,GOMBE,GOMBE,,GOMBE,GOMBE,31,30-39,Degree
+Female,2004-10-12,leahdarigam12@gamil.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2020-06,GOMBE,AKKO,,GOMBE,BALANGA,20,20-29,GSCE
+Female,2002-12-07,zulaihat862@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2021-06,GOMBE,GOMBE,NASARAWA,GOMBE,GOMBE,22,20-29,GSCE
+Male,1980-10-01,muhammadbappah803@gmail.com,Certificate,Environmental Health Technology,2.0,2014-10,GOMBE,GOMBE,DAWAKI,GOMBE,GOMBE,44,40-49,Cert
+Male,1989-11-29,abusafwan224@gmail.com,Certificate,Environmental Health,2.0,2010-06,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,35,30-39,Cert
+Male,1982-07-20,ibrahimhamiduk@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Social Sciences,2.0,2001-07,GOMBE,GOMBE,JEKA DAFARI,GOMBE,GOMBE,42,40-49,GSCE
+Female,1998-02-22,khadijatabubakargambo@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Biochemistry,2.0,2023-06,GOMBE,GOMBE,,GOMBE,YALMALTU/ DEBA,27,20-29,Degree
+Male,1983-08-25,ynsadamu@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Health Education And Promotion,2.0,2021-10,GOMBE,GOMBE,,GOMBE,GOMBE,41,40-49,Degree
+Male,1990-04-01,tijjaniumaru@gmail.com,Post Graduate Diploma (PGD),Public Health,2.0,2022-03,GOMBE,GOMBE,,GOMBE,GOMBE,34,30-39,PGD
+Female,2001-01-12,nancybarrister09@gmail.com,National Diploma,Environmental Health Technology,2.0,2023-10,GOMBE,GOMBE,,GOMBE,YALMALTU/ DEBA,24,20-29,ND.
+Female,2001-07-27,simonpeace468@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2020-07,GOMBE,AKKO,GARKO,TARABA,GASSOL,23,20-29,GSCE
+Female,1987-01-10,girbomaryam@gmail.com,Certificate,Nurse/Midwife,2.0,2015-05,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,38,30-39,Cert
+Male,1992-02-01,hussainialhajiyaro@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Arts,2.0,2017-06,GOMBE,GOMBE,DAWAKI,GOMBE,GOMBE,33,30-39,GSCE
+Male,1968-02-09,sirajobappahjibril@gmail.com,National Diploma,Health Administration And Management,2.0,2011-08,GOMBE,GOMBE,,GOMBE,GOMBE,57,50-59,ND.
+Female,1982-05-23,adamumaryam882@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2002-06,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,42,40-49,GSCE
+Female,2001-05-23,abubakarfadeemah@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2020-09,GOMBE,AKKO,,GOMBE,AKKO,23,20-29,GSCE
+Female,1970-09-12,jamilaahmadabubakar3390@gmail.com,Certificate,Community Health,2.0,1086-11,GOMBE,GOMBE,SHAMAKI,GOMBE,,54,50-59,Cert
+Female,2006-02-26,surryusman406@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2023-07,GOMBE,YALMALTU/ DEBA,,GOMBE,GOMBE,19,< 20,GSCE
+Female,1986-01-01,maimunaabubakar12@gmail.com,Primary School Certificate,Others,2.0,1998-09,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,39,30-39,Pr. Cert.
+Male,2005-12-01,jibrinmuhammad3377@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2024-07,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,19,< 20,GSCE
+Female,2000-07-01,habibaadamuibrahim66@gmail.com,Professional Diploma,Medical Laboratory Technology,2.0,2020-08,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,24,20-29,ND
+Female,1994-12-19,ahmadikilima75@gmail.com,National Diploma,Community Health,2.0,2023-06,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,30,30-39,ND.
+Female,1987-04-26,sadiyaadamu211@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Primary Education,2.0,2006-02,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,37,30-39,GSCE
+Male,1977-01-01,saaduabubakar20231@gmail.com,Certificate,Senior Secondary Education - Arts,2.0,2003-11,GOMBE,GOMBE,BAJOGA,GOMBE,GOMBE,48,40-49,Cert
+Female,1982-04-14,dhadiza921@gmail.com,Certificate,Community Health,2.0,2005-12,GOMBE,GOMBE,,GOMBE,SHONGOM,42,40-49,Cert
+Male,1975-06-07,muhammedbappah5@gmail.com,Nill,Others,2.0,,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,49,40-49,
+Male,1984-01-06,dahiruabdullahi1915@gmail.com,National Diploma,Community Health,2.0,2006-09,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,41,40-49,ND.
+Female,1994-08-06,maishatu151@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2017-07,GOMBE,GOMBE,,GOMBE,AKKO,30,30-39,GSCE
+Female,1976-09-14,gidadoaishatu931@gmail.com,National Diploma,Community Health,2.0,2008-02,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,48,40-49,ND.
+Male,1990-02-20,abubakarmsani4680@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2011-07,GOMBE,GOMBE,,GOMBE,GOMBE,35,30-39,GSCE
+Female,1975-05-07,aqilaaminu@gmail.com,Higher National Diploma (HND),Community Health,2.0,2023-01,GOMBE,GOMBE,,GOMBE,GOMBE,49,40-49,HND
+Female,2000-12-01,husnaahmad2288@gmail.com,National Diploma,Public Health,2.0,2024-09,GOMBE,GOMBE,DAWAKI,GOMBE,GOMBE,24,20-29,ND.
+Male,1995-06-22,abbasuhail44@gmail.com,National Diploma,Science Lab. Technology,2.0,2024-04,GOMBE,GOMBE,BOLARI EAST,GOMBE,NAFADA,29,20-29,ND.
+Female,2001-01-01,zainabisa08161@gmail.com,Trade Test,Others,2.0,2023-01,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,24,20-29,TT
+Female,2000-04-05,madinadauda632@gmail.com,National Diploma,Public Health,2.0,2023-06,GOMBE,AKKO,GARKO,GOMBE,GOMBE,24,20-29,ND.
+Female,1993-09-11,fatimaabdullahishuaibu97@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2012-07,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,31,30-39,GSCE
+Female,1992-08-08,hauwaahmad08147@gmail.com,Trade Test,Others,2.0,2008-02,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,32,30-39,TT
+Female,2004-09-13,fatimaabubakar36.@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2023-06,GOMBE,GOMBE,,GOMBE,GOMBE,20,20-29,GSCE
+Female,2000-01-31,maimunkaabo@gmail.com,National Diploma,Health Education And Promotion,2.0,2023-10,GOMBE,GOMBE,BOLARI EAST,GOMBE,GOMBE,25,20-29,ND.
+Female,1979-02-05,msandirector@gmail.com,Trade Test,,2.0,2000-03,GOMBE,GOMBE,SHAMAKI,GOMBE,GOMBE,46,40-49,TT
+Male,1996-05-21,mubaraksumar02@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Public Health,2.0,2019-05,GOMBE,GOMBE,BAJOGA,GOMBE,GOMBE,28,20-29,Degree
+Male,1985-01-13,babayoa277@gmail.com,National Diploma,Medical Laboratory Technology,2.0,2017-01,GOMBE,GOMBE,,GOMBE,GOMBE,40,40-49,ND.
+Female,1976-07-09,habiba081690633@gmail.com,National Diploma,Community Health,2.0,2005-01,GOMBE,AKKO,GARKO,GOMBE,GOMBE,48,40-49,ND.
+Female,2002-07-26,munirababayo@gmail.com,National Diploma,Medical Laboratory Technology,2.0,2023-03,GOMBE,GOMBE,DAWAKI,GOMBE,GOMBE,22,20-29,ND.
+Female,1998-11-07,abdullahisafiya603@gmail.com,National Diploma,Environmental Health,2.0,2021-09,GOMBE,GOMBE,BOLARI WEST,GOMBE,GOMBE,26,20-29,ND.
+Male,1988-02-13,abdulazizauwalu3223@gmail.com,Higher National Diploma (HND),Environmental Health,2.0,2013-06,GOMBE,GOMBE,BOLARI EAST,GOMBE,GOMBE,37,30-39,HND
+Male,1969-05-03,mabdullahitubule@gmail.com,National Diploma,Community Health,2.0,2004-01,GOMBE,GOMBE,,GOMBE,GOMBE,55,50-59,ND.
+Female,1997-02-01,aminamusaabdulkadir97@gmail.com,National Diploma,Community Health,2.0,2019-06,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,28,20-29,ND.
+Female,2000-12-11,adamumuhammadbello80@gmail.com,National Diploma,Medical Laboratory Technology,2.0,2023-03,GOMBE,GOMBE,NASARAWA,GOMBE,GOMBE,24,20-29,ND.
+Female,1999-05-16,murjanat1999@gmail.com,National Diploma,Science Lab. Technology,2.0,2019-11,GOMBE,DUKKU,MALALA,GOMBE,DUKKU,25,20-29,ND.
+Female,1997-01-31,hindatumuhammadsani91@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Sciences,2.0,2020-03,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,28,20-29,GSCE
+Female,2000-09-17,aishatumuhammadginba1@gmail.com,National Diploma,Community Health,2.0,,GOMBE,GOMBE,NASARAWA,GOMBE,FUNAKAYE,24,20-29,ND.
+Female,1998-05-15,zy12876@gmail.com,National Diploma,Health Education,2.0,2018-05,GOMBE,AKKO,GARKO,GOMBE,AKKO,26,20-29,ND.
+Female,2002-07-15,aishatuumarhassan49@gmail.com,National Diploma,Community Health,2.0,2024-02,GOMBE,GOMBE,DAWAKI,GOMBE,GOMBE,22,20-29,ND.
+Female,1998-12-10,ilhamaliyu2020@yahoo.com,National Diploma,Dental Health Technology,2.0,2021-10,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,26,20-29,ND.
+Male,1990-01-19,ibrahimsirri442@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Community Health,2.0,2024-03,GOMBE,GOMBE,,GOMBE,NAFADA,35,30-39,Degree
+Female,1994-05-07,Saadatumuhammadusman@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Others,2.0,2009-07,GOMBE,GOMBE,JEKA DAFARI,GOMBE,GOMBE,30,30-39,GSCE
+Female,1997-01-01,zainababubakar08147@gmail.com,Primary School Certificate,Others,2.0,1989-11,GOMBE,GOMBE,PANTAMI,GOMBE,GOMBE,28,20-29,Pr. Cert.
+Female,1983-01-10,balkisua922@gmail.com,Primary School Certificate,Primary Education,2.0,1994-09,GOMBE,GOMBE,,GOMBE,GOMBE,42,40-49,Pr. Cert.
+Male,1980-12-09,abubakardalhatu2025k@gmail.com,"O'levels (GCE, Grade II, NABTEB, ,NECO, SSCE, WAEC, etc)",Senior Secondary Education - Social Sciences,2.0,2008-06,GOMBE,AKKO,KUMO WEST,GOMBE,AKKO,44,40-49,GSCE
+Male,1969-01-07,abdullahiyusufpanda@gmail.com,Trade Test,Others,2.0,2016-01,GOMBE,AKKO,,GOMBE,AKKO,56,50-59,TT
+Male,1988-06-04,elturaki2020@gmail.com,"First Degree (Bsc. B. Ed, B.A, B. Tech, BNsc, BPharm, BMls, etc)",Health Education And Promotion,2.0,2023-04,GOMBE,AKKO,KUMO WEST,GOMBE,AKKO,36,30-39,Degree
